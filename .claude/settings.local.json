@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs ls:*)",
+      "Bash(npm run:*)",
+      "Bash(bunx tsc:*)",
+      "Bash(npx:*)"
+    ]
+  }
+}

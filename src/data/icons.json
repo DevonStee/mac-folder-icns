@@ -1,0 +1,5033 @@
+[
+  {
+    "slug": "fold-icon-3d-insane-aero",
+    "rawSeries": "3d",
+    "series": "3d",
+    "displayName": "Insane Aero",
+    "preview": "/previews/fold-icon-3d-insane-aero.png",
+    "thumb": "/previews/fold-icon-3d-insane-aero-thumb.webp",
+    "icns": "/icns/fold-icon-3d-insane-aero.icns"
+  },
+  {
+    "slug": "fold-icon-3d-insane-logic",
+    "rawSeries": "3d",
+    "series": "3d",
+    "displayName": "Insane Logic",
+    "preview": "/previews/fold-icon-3d-insane-logic.png",
+    "thumb": "/previews/fold-icon-3d-insane-logic-thumb.webp",
+    "icns": "/icns/fold-icon-3d-insane-logic.icns"
+  },
+  {
+    "slug": "fold-icon-3d-insane-osh",
+    "rawSeries": "3d",
+    "series": "3d",
+    "displayName": "Insane Osh",
+    "preview": "/previews/fold-icon-3d-insane-osh.png",
+    "thumb": "/previews/fold-icon-3d-insane-osh-thumb.webp",
+    "icns": "/icns/fold-icon-3d-insane-osh.icns"
+  },
+  {
+    "slug": "fold-icon-3d-insane-red",
+    "rawSeries": "3d",
+    "series": "3d",
+    "displayName": "Insane Red",
+    "preview": "/previews/fold-icon-3d-insane-red.png",
+    "thumb": "/previews/fold-icon-3d-insane-red-thumb.webp",
+    "icns": "/icns/fold-icon-3d-insane-red.icns"
+  },
+  {
+    "slug": "fold-icon-3d-insane-stealth",
+    "rawSeries": "3d",
+    "series": "3d",
+    "displayName": "Insane Stealth",
+    "preview": "/previews/fold-icon-3d-insane-stealth.png",
+    "thumb": "/previews/fold-icon-3d-insane-stealth-thumb.webp",
+    "icns": "/icns/fold-icon-3d-insane-stealth.icns"
+  },
+  {
+    "slug": "fold-icon-3d-osh",
+    "rawSeries": "3d",
+    "series": "3d",
+    "displayName": "Osh",
+    "preview": "/previews/fold-icon-3d-osh.png",
+    "thumb": "/previews/fold-icon-3d-osh-thumb.webp",
+    "icns": "/icns/fold-icon-3d-osh.icns"
+  },
+  {
+    "slug": "fold-icon-525c55",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#525C55",
+    "preview": "/previews/fold-icon-525c55.png",
+    "thumb": "/previews/fold-icon-525c55-thumb.webp",
+    "icns": "/icns/fold-icon-525c55.icns"
+  },
+  {
+    "slug": "fold-icon-607d8b",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#607D8B",
+    "preview": "/previews/fold-icon-607d8b.png",
+    "thumb": "/previews/fold-icon-607d8b-thumb.webp",
+    "icns": "/icns/fold-icon-607d8b.icns"
+  },
+  {
+    "slug": "fold-icon-819c9c",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#819C9C",
+    "preview": "/previews/fold-icon-819c9c.png",
+    "thumb": "/previews/fold-icon-819c9c-thumb.webp",
+    "icns": "/icns/fold-icon-819c9c.icns"
+  },
+  {
+    "slug": "fold-icon-899578",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#899578",
+    "preview": "/previews/fold-icon-899578.png",
+    "thumb": "/previews/fold-icon-899578-thumb.webp",
+    "icns": "/icns/fold-icon-899578.icns"
+  },
+  {
+    "slug": "fold-icon-89d3bc",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#89D3BC",
+    "preview": "/previews/fold-icon-89d3bc.png",
+    "thumb": "/previews/fold-icon-89d3bc-thumb.webp",
+    "icns": "/icns/fold-icon-89d3bc.icns"
+  },
+  {
+    "slug": "fold-icon-8bc34a",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#8BC34A",
+    "preview": "/previews/fold-icon-8bc34a.png",
+    "thumb": "/previews/fold-icon-8bc34a-thumb.webp",
+    "icns": "/icns/fold-icon-8bc34a.icns"
+  },
+  {
+    "slug": "fold-icon-92a6c1",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#92A6C1",
+    "preview": "/previews/fold-icon-92a6c1.png",
+    "thumb": "/previews/fold-icon-92a6c1-thumb.webp",
+    "icns": "/icns/fold-icon-92a6c1.icns"
+  },
+  {
+    "slug": "fold-icon-949894",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#949894",
+    "preview": "/previews/fold-icon-949894.png",
+    "thumb": "/previews/fold-icon-949894-thumb.webp",
+    "icns": "/icns/fold-icon-949894.icns"
+  },
+  {
+    "slug": "fold-icon-9faf96",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#9FAF96",
+    "preview": "/previews/fold-icon-9faf96.png",
+    "thumb": "/previews/fold-icon-9faf96-thumb.webp",
+    "icns": "/icns/fold-icon-9faf96.icns"
+  },
+  {
+    "slug": "fold-icon-a7abb0",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#A7ABB0",
+    "preview": "/previews/fold-icon-a7abb0.png",
+    "thumb": "/previews/fold-icon-a7abb0-thumb.webp",
+    "icns": "/icns/fold-icon-a7abb0.icns"
+  },
+  {
+    "slug": "fold-icon-a99fb9",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#A99FB9",
+    "preview": "/previews/fold-icon-a99fb9.png",
+    "thumb": "/previews/fold-icon-a99fb9-thumb.webp",
+    "icns": "/icns/fold-icon-a99fb9.icns"
+  },
+  {
+    "slug": "fold-icon-aalto-Birch-White",
+    "rawSeries": "aalto",
+    "series": "aalto",
+    "displayName": "Birch White",
+    "preview": "/previews/fold-icon-aalto-Birch-White.png",
+    "thumb": "/previews/fold-icon-aalto-Birch-White-thumb.webp",
+    "icns": "/icns/fold-icon-aalto-Birch-White.icns"
+  },
+  {
+    "slug": "fold-icon-aalto-Organic-Wood",
+    "rawSeries": "aalto",
+    "series": "aalto",
+    "displayName": "Organic Wood",
+    "preview": "/previews/fold-icon-aalto-Organic-Wood.png",
+    "thumb": "/previews/fold-icon-aalto-Organic-Wood-thumb.webp",
+    "icns": "/icns/fold-icon-aalto-Organic-Wood.icns"
+  },
+  {
+    "slug": "fold-icon-aalto-Paimio-Birch",
+    "rawSeries": "aalto",
+    "series": "aalto",
+    "displayName": "Paimio Birch",
+    "preview": "/previews/fold-icon-aalto-Paimio-Birch.png",
+    "thumb": "/previews/fold-icon-aalto-Paimio-Birch-thumb.webp",
+    "icns": "/icns/fold-icon-aalto-Paimio-Birch.icns"
+  },
+  {
+    "slug": "fold-icon-aalto-Savoy-Lake",
+    "rawSeries": "aalto",
+    "series": "aalto",
+    "displayName": "Savoy Lake",
+    "preview": "/previews/fold-icon-aalto-Savoy-Lake.png",
+    "thumb": "/previews/fold-icon-aalto-Savoy-Lake-thumb.webp",
+    "icns": "/icns/fold-icon-aalto-Savoy-Lake.icns"
+  },
+  {
+    "slug": "fold-icon-aed389",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#AED389",
+    "preview": "/previews/fold-icon-aed389.png",
+    "thumb": "/previews/fold-icon-aed389-thumb.webp",
+    "icns": "/icns/fold-icon-aed389.icns"
+  },
+  {
+    "slug": "fold-icon-aesthetic-Prismatic-Silk",
+    "rawSeries": "aesthetic",
+    "series": "aesthetic",
+    "displayName": "Prismatic Silk",
+    "preview": "/previews/fold-icon-aesthetic-Prismatic-Silk.png",
+    "thumb": "/previews/fold-icon-aesthetic-Prismatic-Silk-thumb.webp",
+    "icns": "/icns/fold-icon-aesthetic-Prismatic-Silk.icns"
+  },
+  {
+    "slug": "fold-icon-aligned-Kusama-Pumpkin",
+    "rawSeries": "aligned",
+    "series": "aligned",
+    "displayName": "Kusama Pumpkin",
+    "preview": "/previews/fold-icon-aligned-Kusama-Pumpkin.png",
+    "thumb": "/previews/fold-icon-aligned-Kusama-Pumpkin-thumb.webp",
+    "icns": "/icns/fold-icon-aligned-Kusama-Pumpkin.icns"
+  },
+  {
+    "slug": "fold-icon-aligned-Saul-Bass",
+    "rawSeries": "aligned",
+    "series": "aligned",
+    "displayName": "Saul Bass",
+    "preview": "/previews/fold-icon-aligned-Saul-Bass.png",
+    "thumb": "/previews/fold-icon-aligned-Saul-Bass-thumb.webp",
+    "icns": "/icns/fold-icon-aligned-Saul-Bass.icns"
+  },
+  {
+    "slug": "fold-icon-art-Albers-Weave",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Albers Weave",
+    "preview": "/previews/fold-icon-art-Albers-Weave.png",
+    "thumb": "/previews/fold-icon-art-Albers-Weave-thumb.webp",
+    "icns": "/icns/fold-icon-art-Albers-Weave.icns"
+  },
+  {
+    "slug": "fold-icon-art-Impressionist-Renoir-DappledLight",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Impressionist Renoir DappledLight",
+    "preview": "/previews/fold-icon-art-Impressionist-Renoir-DappledLight.png",
+    "thumb": "/previews/fold-icon-art-Impressionist-Renoir-DappledLight-thumb.webp",
+    "icns": "/icns/fold-icon-art-Impressionist-Renoir-DappledLight.icns"
+  },
+  {
+    "slug": "fold-icon-art-Kusama-Infinity-Net-MASTER",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Kusama Infinity Net MASTER",
+    "preview": "/previews/fold-icon-art-Kusama-Infinity-Net-MASTER.png",
+    "thumb": "/previews/fold-icon-art-Kusama-Infinity-Net-MASTER-thumb.webp",
+    "icns": "/icns/fold-icon-art-Kusama-Infinity-Net-MASTER.icns"
+  },
+  {
+    "slug": "fold-icon-art-Kusama-Infinity-Net-TRUE",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Kusama Infinity Net TRUE",
+    "preview": "/previews/fold-icon-art-Kusama-Infinity-Net-TRUE.png",
+    "thumb": "/previews/fold-icon-art-Kusama-Infinity-Net-TRUE-thumb.webp",
+    "icns": "/icns/fold-icon-art-Kusama-Infinity-Net-TRUE.icns"
+  },
+  {
+    "slug": "fold-icon-art-MEGA-SUN-Colossal",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "MEGA SUN Colossal",
+    "preview": "/previews/fold-icon-art-MEGA-SUN-Colossal.png",
+    "thumb": "/previews/fold-icon-art-MEGA-SUN-Colossal-thumb.webp",
+    "icns": "/icns/fold-icon-art-MEGA-SUN-Colossal.icns"
+  },
+  {
+    "slug": "fold-icon-art-monet-lilies",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Monet Lilies",
+    "preview": "/previews/fold-icon-art-monet-lilies.png",
+    "thumb": "/previews/fold-icon-art-monet-lilies-thumb.webp",
+    "icns": "/icns/fold-icon-art-monet-lilies.icns"
+  },
+  {
+    "slug": "fold-icon-art-monet-lilies-vivid",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Monet Lilies Vivid",
+    "preview": "/previews/fold-icon-art-monet-lilies-vivid.png",
+    "thumb": "/previews/fold-icon-art-monet-lilies-vivid-thumb.webp",
+    "icns": "/icns/fold-icon-art-monet-lilies-vivid.icns"
+  },
+  {
+    "slug": "fold-icon-art-monet-sunrise",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Monet Sunrise",
+    "preview": "/previews/fold-icon-art-monet-sunrise.png",
+    "thumb": "/previews/fold-icon-art-monet-sunrise-thumb.webp",
+    "icns": "/icns/fold-icon-art-monet-sunrise.icns"
+  },
+  {
+    "slug": "fold-icon-art-monet-sunrise-vivid",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Monet Sunrise Vivid",
+    "preview": "/previews/fold-icon-art-monet-sunrise-vivid.png",
+    "thumb": "/previews/fold-icon-art-monet-sunrise-vivid-thumb.webp",
+    "icns": "/icns/fold-icon-art-monet-sunrise-vivid.icns"
+  },
+  {
+    "slug": "fold-icon-art-pissarro-night",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Pissarro Night",
+    "preview": "/previews/fold-icon-art-pissarro-night.png",
+    "thumb": "/previews/fold-icon-art-pissarro-night-thumb.webp",
+    "icns": "/icns/fold-icon-art-pissarro-night.icns"
+  },
+  {
+    "slug": "fold-icon-art-pissarro-night-vivid",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Pissarro Night Vivid",
+    "preview": "/previews/fold-icon-art-pissarro-night-vivid.png",
+    "thumb": "/previews/fold-icon-art-pissarro-night-vivid-thumb.webp",
+    "icns": "/icns/fold-icon-art-pissarro-night-vivid.icns"
+  },
+  {
+    "slug": "fold-icon-art-renoir-moulin",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Renoir Moulin",
+    "preview": "/previews/fold-icon-art-renoir-moulin.png",
+    "thumb": "/previews/fold-icon-art-renoir-moulin-thumb.webp",
+    "icns": "/icns/fold-icon-art-renoir-moulin.icns"
+  },
+  {
+    "slug": "fold-icon-art-renoir-moulin-vivid",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Renoir Moulin Vivid",
+    "preview": "/previews/fold-icon-art-renoir-moulin-vivid.png",
+    "thumb": "/previews/fold-icon-art-renoir-moulin-vivid-thumb.webp",
+    "icns": "/icns/fold-icon-art-renoir-moulin-vivid.icns"
+  },
+  {
+    "slug": "fold-icon-art-Riley-Vibration",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Riley Vibration",
+    "preview": "/previews/fold-icon-art-Riley-Vibration.png",
+    "thumb": "/previews/fold-icon-art-Riley-Vibration-thumb.webp",
+    "icns": "/icns/fold-icon-art-Riley-Vibration.icns"
+  },
+  {
+    "slug": "fold-icon-art-Topographic-Nerve",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Topographic Nerve",
+    "preview": "/previews/fold-icon-art-Topographic-Nerve.png",
+    "thumb": "/previews/fold-icon-art-Topographic-Nerve-thumb.webp",
+    "icns": "/icns/fold-icon-art-Topographic-Nerve.icns"
+  },
+  {
+    "slug": "fold-icon-art-TRUE-Monet-Sunrise-TRUE",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "TRUE Monet Sunrise TRUE",
+    "preview": "/previews/fold-icon-art-TRUE-Monet-Sunrise-TRUE.png",
+    "thumb": "/previews/fold-icon-art-TRUE-Monet-Sunrise-TRUE-thumb.webp",
+    "icns": "/icns/fold-icon-art-TRUE-Monet-Sunrise-TRUE.icns"
+  },
+  {
+    "slug": "fold-icon-art-ULTIMATE-Renoir-Sun-Dappled",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "ULTIMATE Renoir Sun Dappled",
+    "preview": "/previews/fold-icon-art-ULTIMATE-Renoir-Sun-Dappled.png",
+    "thumb": "/previews/fold-icon-art-ULTIMATE-Renoir-Sun-Dappled-thumb.webp",
+    "icns": "/icns/fold-icon-art-ULTIMATE-Renoir-Sun-Dappled.icns"
+  },
+  {
+    "slug": "fold-icon-art-VIVID-MEGA-Monet-Sunrise",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "VIVID MEGA Monet Sunrise",
+    "preview": "/previews/fold-icon-art-VIVID-MEGA-Monet-Sunrise.png",
+    "thumb": "/previews/fold-icon-art-VIVID-MEGA-Monet-Sunrise-thumb.webp",
+    "icns": "/icns/fold-icon-art-VIVID-MEGA-Monet-Sunrise.icns"
+  },
+  {
+    "slug": "fold-icon-art-VIVID-MEGA-Monet-Sunrise-Indigo",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "VIVID MEGA Monet Sunrise Indigo",
+    "preview": "/previews/fold-icon-art-VIVID-MEGA-Monet-Sunrise-Indigo.png",
+    "thumb": "/previews/fold-icon-art-VIVID-MEGA-Monet-Sunrise-Indigo-thumb.webp",
+    "icns": "/icns/fold-icon-art-VIVID-MEGA-Monet-Sunrise-Indigo.icns"
+  },
+  {
+    "slug": "fold-icon-art-VIVID-MEGA-Monet-Sunrise-Midnight",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "VIVID MEGA Monet Sunrise Midnight",
+    "preview": "/previews/fold-icon-art-VIVID-MEGA-Monet-Sunrise-Midnight.png",
+    "thumb": "/previews/fold-icon-art-VIVID-MEGA-Monet-Sunrise-Midnight-thumb.webp",
+    "icns": "/icns/fold-icon-art-VIVID-MEGA-Monet-Sunrise-Midnight.icns"
+  },
+  {
+    "slug": "fold-icon-art-VIVID-MEGA-Monet-Sunrise-Teal",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "VIVID MEGA Monet Sunrise Teal",
+    "preview": "/previews/fold-icon-art-VIVID-MEGA-Monet-Sunrise-Teal.png",
+    "thumb": "/previews/fold-icon-art-VIVID-MEGA-Monet-Sunrise-Teal-thumb.webp",
+    "icns": "/icns/fold-icon-art-VIVID-MEGA-Monet-Sunrise-Teal.icns"
+  },
+  {
+    "slug": "fold-icon-art-Zaha-Flow",
+    "rawSeries": "art",
+    "series": "art",
+    "displayName": "Zaha Flow",
+    "preview": "/previews/fold-icon-art-Zaha-Flow.png",
+    "thumb": "/previews/fold-icon-art-Zaha-Flow-thumb.webp",
+    "icns": "/icns/fold-icon-art-Zaha-Flow.icns"
+  },
+  {
+    "slug": "fold-icon-b28fe1",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#B28FE1",
+    "preview": "/previews/fold-icon-b28fe1.png",
+    "thumb": "/previews/fold-icon-b28fe1-thumb.webp",
+    "icns": "/icns/fold-icon-b28fe1.icns"
+  },
+  {
+    "slug": "fold-icon-b2dced",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#B2DCED",
+    "preview": "/previews/fold-icon-b2dced.png",
+    "thumb": "/previews/fold-icon-b2dced-thumb.webp",
+    "icns": "/icns/fold-icon-b2dced.icns"
+  },
+  {
+    "slug": "fold-icon-b39ddb",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#B39DDB",
+    "preview": "/previews/fold-icon-b39ddb.png",
+    "thumb": "/previews/fold-icon-b39ddb-thumb.webp",
+    "icns": "/icns/fold-icon-b39ddb.icns"
+  },
+  {
+    "slug": "fold-icon-b9ceea",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#B9CEEA",
+    "preview": "/previews/fold-icon-b9ceea.png",
+    "thumb": "/previews/fold-icon-b9ceea-thumb.webp",
+    "icns": "/icns/fold-icon-b9ceea.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-bamboo",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Bamboo",
+    "preview": "/previews/fold-icon-baishi-bamboo.png",
+    "thumb": "/previews/fold-icon-baishi-bamboo-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-bamboo.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-charcoal",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Charcoal",
+    "preview": "/previews/fold-icon-baishi-charcoal.png",
+    "thumb": "/previews/fold-icon-baishi-charcoal-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-charcoal.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-cinnabar",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Cinnabar",
+    "preview": "/previews/fold-icon-baishi-cinnabar.png",
+    "thumb": "/previews/fold-icon-baishi-cinnabar-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-cinnabar.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-indigo",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Indigo",
+    "preview": "/previews/fold-icon-baishi-indigo.png",
+    "thumb": "/previews/fold-icon-baishi-indigo-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-indigo.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-ink",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Ink",
+    "preview": "/previews/fold-icon-baishi-ink.png",
+    "thumb": "/previews/fold-icon-baishi-ink-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-ink.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-master-blue",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Master Blue",
+    "preview": "/previews/fold-icon-baishi-master-blue.png",
+    "thumb": "/previews/fold-icon-baishi-master-blue-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-master-blue.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-master-charcoal",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Master Charcoal",
+    "preview": "/previews/fold-icon-baishi-master-charcoal.png",
+    "thumb": "/previews/fold-icon-baishi-master-charcoal-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-master-charcoal.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-master-ink",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Master Ink",
+    "preview": "/previews/fold-icon-baishi-master-ink.png",
+    "thumb": "/previews/fold-icon-baishi-master-ink-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-master-ink.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-master-red",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Master Red",
+    "preview": "/previews/fold-icon-baishi-master-red.png",
+    "thumb": "/previews/fold-icon-baishi-master-red-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-master-red.icns"
+  },
+  {
+    "slug": "fold-icon-baishi-master-silk",
+    "rawSeries": "baishi",
+    "series": "baishi",
+    "displayName": "Master Silk",
+    "preview": "/previews/fold-icon-baishi-master-silk.png",
+    "thumb": "/previews/fold-icon-baishi-master-silk-thumb.webp",
+    "icns": "/icns/fold-icon-baishi-master-silk.icns"
+  },
+  {
+    "slug": "fold-icon-bezier-ceramic",
+    "rawSeries": "bezier",
+    "series": "bezier",
+    "displayName": "Ceramic",
+    "preview": "/previews/fold-icon-bezier-ceramic.png",
+    "thumb": "/previews/fold-icon-bezier-ceramic-thumb.webp",
+    "icns": "/icns/fold-icon-bezier-ceramic.icns"
+  },
+  {
+    "slug": "fold-icon-bezier-starlight",
+    "rawSeries": "bezier",
+    "series": "bezier",
+    "displayName": "Starlight",
+    "preview": "/previews/fold-icon-bezier-starlight.png",
+    "thumb": "/previews/fold-icon-bezier-starlight-thumb.webp",
+    "icns": "/icns/fold-icon-bezier-starlight.icns"
+  },
+  {
+    "slug": "fold-icon-bierut-DynamicArc",
+    "rawSeries": "bierut",
+    "series": "bierut",
+    "displayName": "DynamicArc",
+    "preview": "/previews/fold-icon-bierut-DynamicArc.png",
+    "thumb": "/previews/fold-icon-bierut-DynamicArc-thumb.webp",
+    "icns": "/icns/fold-icon-bierut-DynamicArc.icns"
+  },
+  {
+    "slug": "fold-icon-bierut-intel-blueprint",
+    "rawSeries": "bierut",
+    "series": "bierut",
+    "displayName": "Intel Blueprint",
+    "preview": "/previews/fold-icon-bierut-intel-blueprint.png",
+    "thumb": "/previews/fold-icon-bierut-intel-blueprint-thumb.webp",
+    "icns": "/icns/fold-icon-bierut-intel-blueprint.icns"
+  },
+  {
+    "slug": "fold-icon-bierut-intel-mit_lattice",
+    "rawSeries": "bierut",
+    "series": "bierut",
+    "displayName": "Intel Mit Lattice",
+    "preview": "/previews/fold-icon-bierut-intel-mit_lattice.png",
+    "thumb": "/previews/fold-icon-bierut-intel-mit_lattice-thumb.webp",
+    "icns": "/icns/fold-icon-bierut-intel-mit_lattice.icns"
+  },
+  {
+    "slug": "fold-icon-bierut-intel-professional_brushed",
+    "rawSeries": "bierut",
+    "series": "bierut",
+    "displayName": "Intel Professional Brushed",
+    "preview": "/previews/fold-icon-bierut-intel-professional_brushed.png",
+    "thumb": "/previews/fold-icon-bierut-intel-professional_brushed-thumb.webp",
+    "icns": "/icns/fold-icon-bierut-intel-professional_brushed.icns"
+  },
+  {
+    "slug": "fold-icon-bierut-RationalWave",
+    "rawSeries": "bierut",
+    "series": "bierut",
+    "displayName": "RationalWave",
+    "preview": "/previews/fold-icon-bierut-RationalWave.png",
+    "thumb": "/previews/fold-icon-bierut-RationalWave-thumb.webp",
+    "icns": "/icns/fold-icon-bierut-RationalWave.icns"
+  },
+  {
+    "slug": "fold-icon-brilliant-Neon-Church",
+    "rawSeries": "brilliant",
+    "series": "brilliant",
+    "displayName": "Neon Church",
+    "preview": "/previews/fold-icon-brilliant-Neon-Church.png",
+    "thumb": "/previews/fold-icon-brilliant-Neon-Church-thumb.webp",
+    "icns": "/icns/fold-icon-brilliant-Neon-Church.icns"
+  },
+  {
+    "slug": "fold-icon-c0d9d1",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#C0D9D1",
+    "preview": "/previews/fold-icon-c0d9d1.png",
+    "thumb": "/previews/fold-icon-c0d9d1-thumb.webp",
+    "icns": "/icns/fold-icon-c0d9d1.icns"
+  },
+  {
+    "slug": "fold-icon-c1747f",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#C1747F",
+    "preview": "/previews/fold-icon-c1747f.png",
+    "thumb": "/previews/fold-icon-c1747f-thumb.webp",
+    "icns": "/icns/fold-icon-c1747f.icns"
+  },
+  {
+    "slug": "fold-icon-c19a83",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#C19A83",
+    "preview": "/previews/fold-icon-c19a83.png",
+    "thumb": "/previews/fold-icon-c19a83-thumb.webp",
+    "icns": "/icns/fold-icon-c19a83.icns"
+  },
+  {
+    "slug": "fold-icon-carbon-Cobalt",
+    "rawSeries": "carbon",
+    "series": "carbon",
+    "displayName": "Cobalt",
+    "preview": "/previews/fold-icon-carbon-Cobalt.png",
+    "thumb": "/previews/fold-icon-carbon-Cobalt-thumb.webp",
+    "icns": "/icns/fold-icon-carbon-Cobalt.icns"
+  },
+  {
+    "slug": "fold-icon-carbon-Crimson",
+    "rawSeries": "carbon",
+    "series": "carbon",
+    "displayName": "Crimson",
+    "preview": "/previews/fold-icon-carbon-Crimson.png",
+    "thumb": "/previews/fold-icon-carbon-Crimson-thumb.webp",
+    "icns": "/icns/fold-icon-carbon-Crimson.icns"
+  },
+  {
+    "slug": "fold-icon-carbon-Spread-Tow",
+    "rawSeries": "carbon",
+    "series": "carbon",
+    "displayName": "Spread Tow",
+    "preview": "/previews/fold-icon-carbon-Spread-Tow.png",
+    "thumb": "/previews/fold-icon-carbon-Spread-Tow-thumb.webp",
+    "icns": "/icns/fold-icon-carbon-Spread-Tow.icns"
+  },
+  {
+    "slug": "fold-icon-carbon-Standard-Twill",
+    "rawSeries": "carbon",
+    "series": "carbon",
+    "displayName": "Standard Twill",
+    "preview": "/previews/fold-icon-carbon-Standard-Twill.png",
+    "thumb": "/previews/fold-icon-carbon-Standard-Twill-thumb.webp",
+    "icns": "/icns/fold-icon-carbon-Standard-Twill.icns"
+  },
+  {
+    "slug": "fold-icon-cbe4c0",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#CBE4C0",
+    "preview": "/previews/fold-icon-cbe4c0.png",
+    "thumb": "/previews/fold-icon-cbe4c0-thumb.webp",
+    "icns": "/icns/fold-icon-cbe4c0.icns"
+  },
+  {
+    "slug": "fold-icon-cdg-DistortedHeart",
+    "rawSeries": "cdg",
+    "series": "cdg",
+    "displayName": "DistortedHeart",
+    "preview": "/previews/fold-icon-cdg-DistortedHeart.png",
+    "thumb": "/previews/fold-icon-cdg-DistortedHeart-thumb.webp",
+    "icns": "/icns/fold-icon-cdg-DistortedHeart.icns"
+  },
+  {
+    "slug": "fold-icon-cdg-Unfinished",
+    "rawSeries": "cdg",
+    "series": "cdg",
+    "displayName": "Unfinished",
+    "preview": "/previews/fold-icon-cdg-Unfinished.png",
+    "thumb": "/previews/fold-icon-cdg-Unfinished-thumb.webp",
+    "icns": "/icns/fold-icon-cdg-Unfinished.icns"
+  },
+  {
+    "slug": "fold-icon-church-Mosaic",
+    "rawSeries": "church",
+    "series": "church",
+    "displayName": "Mosaic",
+    "preview": "/previews/fold-icon-church-Mosaic.png",
+    "thumb": "/previews/fold-icon-church-Mosaic-thumb.webp",
+    "icns": "/icns/fold-icon-church-Mosaic.icns"
+  },
+  {
+    "slug": "fold-icon-cinema-Americana-GoldenHour",
+    "rawSeries": "cinema",
+    "series": "cinema",
+    "displayName": "Americana GoldenHour",
+    "preview": "/previews/fold-icon-cinema-Americana-GoldenHour.png",
+    "thumb": "/previews/fold-icon-cinema-Americana-GoldenHour-thumb.webp",
+    "icns": "/icns/fold-icon-cinema-Americana-GoldenHour.icns"
+  },
+  {
+    "slug": "fold-icon-claude-ClaudeSunset",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "ClaudeSunset",
+    "preview": "/previews/fold-icon-claude-ClaudeSunset.png",
+    "thumb": "/previews/fold-icon-claude-ClaudeSunset-thumb.webp",
+    "icns": "/icns/fold-icon-claude-ClaudeSunset.icns"
+  },
+  {
+    "slug": "fold-icon-claude-designer-ArtifactsCanvas",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "Designer ArtifactsCanvas",
+    "preview": "/previews/fold-icon-claude-designer-ArtifactsCanvas.png",
+    "thumb": "/previews/fold-icon-claude-designer-ArtifactsCanvas-thumb.webp",
+    "icns": "/icns/fold-icon-claude-designer-ArtifactsCanvas.icns"
+  },
+  {
+    "slug": "fold-icon-claude-designer-WovenLinen",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "Designer WovenLinen",
+    "preview": "/previews/fold-icon-claude-designer-WovenLinen.png",
+    "thumb": "/previews/fold-icon-claude-designer-WovenLinen-thumb.webp",
+    "icns": "/icns/fold-icon-claude-designer-WovenLinen.icns"
+  },
+  {
+    "slug": "fold-icon-claude-Manuscript",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "Manuscript",
+    "preview": "/previews/fold-icon-claude-Manuscript.png",
+    "thumb": "/previews/fold-icon-claude-Manuscript-thumb.webp",
+    "icns": "/icns/fold-icon-claude-Manuscript.icns"
+  },
+  {
+    "slug": "fold-icon-claude-master-CurvedMonograph",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "Master CurvedMonograph",
+    "preview": "/previews/fold-icon-claude-master-CurvedMonograph.png",
+    "thumb": "/previews/fold-icon-claude-master-CurvedMonograph-thumb.webp",
+    "icns": "/icns/fold-icon-claude-master-CurvedMonograph.icns"
+  },
+  {
+    "slug": "fold-icon-claude-master-IntellectualFlow",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "Master IntellectualFlow",
+    "preview": "/previews/fold-icon-claude-master-IntellectualFlow.png",
+    "thumb": "/previews/fold-icon-claude-master-IntellectualFlow-thumb.webp",
+    "icns": "/icns/fold-icon-claude-master-IntellectualFlow.icns"
+  },
+  {
+    "slug": "fold-icon-claude-master-Intertwined",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "Master Intertwined",
+    "preview": "/previews/fold-icon-claude-master-Intertwined.png",
+    "thumb": "/previews/fold-icon-claude-master-Intertwined-thumb.webp",
+    "icns": "/icns/fold-icon-claude-master-Intertwined.icns"
+  },
+  {
+    "slug": "fold-icon-claude-ShellWhite",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "ShellWhite",
+    "preview": "/previews/fold-icon-claude-ShellWhite.png",
+    "thumb": "/previews/fold-icon-claude-ShellWhite-thumb.webp",
+    "icns": "/icns/fold-icon-claude-ShellWhite.icns"
+  },
+  {
+    "slug": "fold-icon-claude-v3-ArtisanBalance",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "V3 ArtisanBalance",
+    "preview": "/previews/fold-icon-claude-v3-ArtisanBalance.png",
+    "thumb": "/previews/fold-icon-claude-v3-ArtisanBalance-thumb.webp",
+    "icns": "/icns/fold-icon-claude-v3-ArtisanBalance.icns"
+  },
+  {
+    "slug": "fold-icon-claude-v3-EditorialSage",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "V3 EditorialSage",
+    "preview": "/previews/fold-icon-claude-v3-EditorialSage.png",
+    "thumb": "/previews/fold-icon-claude-v3-EditorialSage-thumb.webp",
+    "icns": "/icns/fold-icon-claude-v3-EditorialSage.icns"
+  },
+  {
+    "slug": "fold-icon-claude-v4-NeuralGradient",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "V4 NeuralGradient",
+    "preview": "/previews/fold-icon-claude-v4-NeuralGradient.png",
+    "thumb": "/previews/fold-icon-claude-v4-NeuralGradient-thumb.webp",
+    "icns": "/icns/fold-icon-claude-v4-NeuralGradient.icns"
+  },
+  {
+    "slug": "fold-icon-claude-v4-SageMist",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "V4 SageMist",
+    "preview": "/previews/fold-icon-claude-v4-SageMist.png",
+    "thumb": "/previews/fold-icon-claude-v4-SageMist-thumb.webp",
+    "icns": "/icns/fold-icon-claude-v4-SageMist.icns"
+  },
+  {
+    "slug": "fold-icon-claude-v4-TerracottaTex",
+    "rawSeries": "claude",
+    "series": "claude",
+    "displayName": "V4 TerracottaTex",
+    "preview": "/previews/fold-icon-claude-v4-TerracottaTex.png",
+    "thumb": "/previews/fold-icon-claude-v4-TerracottaTex-thumb.webp",
+    "icns": "/icns/fold-icon-claude-v4-TerracottaTex.icns"
+  },
+  {
+    "slug": "fold-icon-corbusier-LivingMachine",
+    "rawSeries": "corbusier",
+    "series": "corbusier",
+    "displayName": "LivingMachine",
+    "preview": "/previews/fold-icon-corbusier-LivingMachine.png",
+    "thumb": "/previews/fold-icon-corbusier-LivingMachine-thumb.webp",
+    "icns": "/icns/fold-icon-corbusier-LivingMachine.icns"
+  },
+  {
+    "slug": "fold-icon-corbusier-ModulorRed",
+    "rawSeries": "corbusier",
+    "series": "corbusier",
+    "displayName": "ModulorRed",
+    "preview": "/previews/fold-icon-corbusier-ModulorRed.png",
+    "thumb": "/previews/fold-icon-corbusier-ModulorRed-thumb.webp",
+    "icns": "/icns/fold-icon-corbusier-ModulorRed.icns"
+  },
+  {
+    "slug": "fold-icon-corbusier-PuristArc",
+    "rawSeries": "corbusier",
+    "series": "corbusier",
+    "displayName": "PuristArc",
+    "preview": "/previews/fold-icon-corbusier-PuristArc.png",
+    "thumb": "/previews/fold-icon-corbusier-PuristArc-thumb.webp",
+    "icns": "/icns/fold-icon-corbusier-PuristArc.icns"
+  },
+  {
+    "slug": "fold-icon-creative-eva-dogma-veins",
+    "rawSeries": "creative",
+    "series": "creative",
+    "displayName": "Eva Dogma Veins",
+    "preview": "/previews/fold-icon-creative-eva-dogma-veins.png",
+    "thumb": "/previews/fold-icon-creative-eva-dogma-veins-thumb.webp",
+    "icns": "/icns/fold-icon-creative-eva-dogma-veins.icns"
+  },
+  {
+    "slug": "fold-icon-creative-eva-lcl-plug",
+    "rawSeries": "creative",
+    "series": "creative",
+    "displayName": "Eva Lcl Plug",
+    "preview": "/previews/fold-icon-creative-eva-lcl-plug.png",
+    "thumb": "/previews/fold-icon-creative-eva-lcl-plug-thumb.webp",
+    "icns": "/icns/fold-icon-creative-eva-lcl-plug.icns"
+  },
+  {
+    "slug": "fold-icon-d389b5",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#D389B5",
+    "preview": "/previews/fold-icon-d389b5.png",
+    "thumb": "/previews/fold-icon-d389b5-thumb.webp",
+    "icns": "/icns/fold-icon-d389b5.icns"
+  },
+  {
+    "slug": "fold-icon-d3c3aa",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#D3C3AA",
+    "preview": "/previews/fold-icon-d3c3aa.png",
+    "thumb": "/previews/fold-icon-d3c3aa-thumb.webp",
+    "icns": "/icns/fold-icon-d3c3aa.icns"
+  },
+  {
+    "slug": "fold-icon-d4a3a3",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#D4A3A3",
+    "preview": "/previews/fold-icon-d4a3a3.png",
+    "thumb": "/previews/fold-icon-d4a3a3-thumb.webp",
+    "icns": "/icns/fold-icon-d4a3a3.icns"
+  },
+  {
+    "slug": "fold-icon-d6c0e4",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#D6C0E4",
+    "preview": "/previews/fold-icon-d6c0e4.png",
+    "thumb": "/previews/fold-icon-d6c0e4-thumb.webp",
+    "icns": "/icns/fold-icon-d6c0e4.icns"
+  },
+  {
+    "slug": "fold-icon-deluxe-aurora",
+    "rawSeries": "deluxe",
+    "series": "deluxe",
+    "displayName": "Aurora",
+    "preview": "/previews/fold-icon-deluxe-aurora.png",
+    "thumb": "/previews/fold-icon-deluxe-aurora-thumb.webp",
+    "icns": "/icns/fold-icon-deluxe-aurora.icns"
+  },
+  {
+    "slug": "fold-icon-deluxe-lavender",
+    "rawSeries": "deluxe",
+    "series": "deluxe",
+    "displayName": "Lavender",
+    "preview": "/previews/fold-icon-deluxe-lavender.png",
+    "thumb": "/previews/fold-icon-deluxe-lavender-thumb.webp",
+    "icns": "/icns/fold-icon-deluxe-lavender.icns"
+  },
+  {
+    "slug": "fold-icon-deluxe-solar",
+    "rawSeries": "deluxe",
+    "series": "deluxe",
+    "displayName": "Solar",
+    "preview": "/previews/fold-icon-deluxe-solar.png",
+    "thumb": "/previews/fold-icon-deluxe-solar-thumb.webp",
+    "icns": "/icns/fold-icon-deluxe-solar.icns"
+  },
+  {
+    "slug": "fold-icon-design-BauhausGeometry",
+    "rawSeries": "design",
+    "series": "design",
+    "displayName": "BauhausGeometry",
+    "preview": "/previews/fold-icon-design-BauhausGeometry.png",
+    "thumb": "/previews/fold-icon-design-BauhausGeometry-thumb.webp",
+    "icns": "/icns/fold-icon-design-BauhausGeometry.icns"
+  },
+  {
+    "slug": "fold-icon-design-CalifornianDream",
+    "rawSeries": "design",
+    "series": "design",
+    "displayName": "CalifornianDream",
+    "preview": "/previews/fold-icon-design-CalifornianDream.png",
+    "thumb": "/previews/fold-icon-design-CalifornianDream-thumb.webp",
+    "icns": "/icns/fold-icon-design-CalifornianDream.icns"
+  },
+  {
+    "slug": "fold-icon-design-ChampagneMinimalist",
+    "rawSeries": "design",
+    "series": "design",
+    "displayName": "ChampagneMinimalist",
+    "preview": "/previews/fold-icon-design-ChampagneMinimalist.png",
+    "thumb": "/previews/fold-icon-design-ChampagneMinimalist-thumb.webp",
+    "icns": "/icns/fold-icon-design-ChampagneMinimalist.icns"
+  },
+  {
+    "slug": "fold-icon-design-HolographicSilk",
+    "rawSeries": "design",
+    "series": "design",
+    "displayName": "HolographicSilk",
+    "preview": "/previews/fold-icon-design-HolographicSilk.png",
+    "thumb": "/previews/fold-icon-design-HolographicSilk-thumb.webp",
+    "icns": "/icns/fold-icon-design-HolographicSilk.icns"
+  },
+  {
+    "slug": "fold-icon-design-NordicPurity",
+    "rawSeries": "design",
+    "series": "design",
+    "displayName": "NordicPurity",
+    "preview": "/previews/fold-icon-design-NordicPurity.png",
+    "thumb": "/previews/fold-icon-design-NordicPurity-thumb.webp",
+    "icns": "/icns/fold-icon-design-NordicPurity.icns"
+  },
+  {
+    "slug": "fold-icon-dyson-HEPAFilter",
+    "rawSeries": "dyson",
+    "series": "dyson",
+    "displayName": "HEPAFilter",
+    "preview": "/previews/fold-icon-dyson-HEPAFilter.png",
+    "thumb": "/previews/fold-icon-dyson-HEPAFilter-thumb.webp",
+    "icns": "/icns/fold-icon-dyson-HEPAFilter.icns"
+  },
+  {
+    "slug": "fold-icon-e1b296",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#E1B296",
+    "preview": "/previews/fold-icon-e1b296.png",
+    "thumb": "/previews/fold-icon-e1b296-thumb.webp",
+    "icns": "/icns/fold-icon-e1b296.icns"
+  },
+  {
+    "slug": "fold-icon-e1d3bb",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#E1D3BB",
+    "preview": "/previews/fold-icon-e1d3bb.png",
+    "thumb": "/previews/fold-icon-e1d3bb-thumb.webp",
+    "icns": "/icns/fold-icon-e1d3bb.icns"
+  },
+  {
+    "slug": "fold-icon-ededed",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#EDEDED",
+    "preview": "/previews/fold-icon-ededed.png",
+    "thumb": "/previews/fold-icon-ededed-thumb.webp",
+    "icns": "/icns/fold-icon-ededed.icns"
+  },
+  {
+    "slug": "fold-icon-eva-premium-NervHazard",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Premium NervHazard",
+    "preview": "/previews/fold-icon-eva-premium-NervHazard.png",
+    "thumb": "/previews/fold-icon-eva-premium-NervHazard-thumb.webp",
+    "icns": "/icns/fold-icon-eva-premium-NervHazard.icns"
+  },
+  {
+    "slug": "fold-icon-eva-premium-RestrainedFlesh",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Premium RestrainedFlesh",
+    "preview": "/previews/fold-icon-eva-premium-RestrainedFlesh.png",
+    "thumb": "/previews/fold-icon-eva-premium-RestrainedFlesh-thumb.webp",
+    "icns": "/icns/fold-icon-eva-premium-RestrainedFlesh.icns"
+  },
+  {
+    "slug": "fold-icon-eva-premium-Unit00Proto",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Premium Unit00Proto",
+    "preview": "/previews/fold-icon-eva-premium-Unit00Proto.png",
+    "thumb": "/previews/fold-icon-eva-premium-Unit00Proto-thumb.webp",
+    "icns": "/icns/fold-icon-eva-premium-Unit00Proto.icns"
+  },
+  {
+    "slug": "fold-icon-eva-Skeuo-LonginusProngs",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Skeuo LonginusProngs",
+    "preview": "/previews/fold-icon-eva-Skeuo-LonginusProngs.png",
+    "thumb": "/previews/fold-icon-eva-Skeuo-LonginusProngs-thumb.webp",
+    "icns": "/icns/fold-icon-eva-Skeuo-LonginusProngs.icns"
+  },
+  {
+    "slug": "fold-icon-eva-Skeuo-NervHexUI",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Skeuo NervHexUI",
+    "preview": "/previews/fold-icon-eva-Skeuo-NervHexUI.png",
+    "thumb": "/previews/fold-icon-eva-Skeuo-NervHexUI-thumb.webp",
+    "icns": "/icns/fold-icon-eva-Skeuo-NervHexUI.icns"
+  },
+  {
+    "slug": "fold-icon-eva-Skeuo-RamielDiamond",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Skeuo RamielDiamond",
+    "preview": "/previews/fold-icon-eva-Skeuo-RamielDiamond.png",
+    "thumb": "/previews/fold-icon-eva-Skeuo-RamielDiamond-thumb.webp",
+    "icns": "/icns/fold-icon-eva-Skeuo-RamielDiamond.icns"
+  },
+  {
+    "slug": "fold-icon-eva-Skeuo-SeeleMonolith",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Skeuo SeeleMonolith",
+    "preview": "/previews/fold-icon-eva-Skeuo-SeeleMonolith.png",
+    "thumb": "/previews/fold-icon-eva-Skeuo-SeeleMonolith-thumb.webp",
+    "icns": "/icns/fold-icon-eva-Skeuo-SeeleMonolith.icns"
+  },
+  {
+    "slug": "fold-icon-eva-Skeuo-Tokyo3Hazard",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Skeuo Tokyo3Hazard",
+    "preview": "/previews/fold-icon-eva-Skeuo-Tokyo3Hazard.png",
+    "thumb": "/previews/fold-icon-eva-Skeuo-Tokyo3Hazard-thumb.webp",
+    "icns": "/icns/fold-icon-eva-Skeuo-Tokyo3Hazard.icns"
+  },
+  {
+    "slug": "fold-icon-eva-Skeuo-Unit00",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Skeuo Unit00",
+    "preview": "/previews/fold-icon-eva-Skeuo-Unit00.png",
+    "thumb": "/previews/fold-icon-eva-Skeuo-Unit00-thumb.webp",
+    "icns": "/icns/fold-icon-eva-Skeuo-Unit00.icns"
+  },
+  {
+    "slug": "fold-icon-eva-Skeuo-Unit01",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "Skeuo Unit01",
+    "preview": "/previews/fold-icon-eva-Skeuo-Unit01.png",
+    "thumb": "/previews/fold-icon-eva-Skeuo-Unit01-thumb.webp",
+    "icns": "/icns/fold-icon-eva-Skeuo-Unit01.icns"
+  },
+  {
+    "slug": "fold-icon-eva-v2-CommandGray",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "V2 CommandGray",
+    "preview": "/previews/fold-icon-eva-v2-CommandGray.png",
+    "thumb": "/previews/fold-icon-eva-v2-CommandGray-thumb.webp",
+    "icns": "/icns/fold-icon-eva-v2-CommandGray.icns"
+  },
+  {
+    "slug": "fold-icon-eva-v2-CrimsonAlert",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "V2 CrimsonAlert",
+    "preview": "/previews/fold-icon-eva-v2-CrimsonAlert.png",
+    "thumb": "/previews/fold-icon-eva-v2-CrimsonAlert-thumb.webp",
+    "icns": "/icns/fold-icon-eva-v2-CrimsonAlert.icns"
+  },
+  {
+    "slug": "fold-icon-eva-v2-MagmaCombat",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "V2 MagmaCombat",
+    "preview": "/previews/fold-icon-eva-v2-MagmaCombat.png",
+    "thumb": "/previews/fold-icon-eva-v2-MagmaCombat-thumb.webp",
+    "icns": "/icns/fold-icon-eva-v2-MagmaCombat.icns"
+  },
+  {
+    "slug": "fold-icon-eva-v2-NERVDeep",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "V2 NERVDeep",
+    "preview": "/previews/fold-icon-eva-v2-NERVDeep.png",
+    "thumb": "/previews/fold-icon-eva-v2-NERVDeep-thumb.webp",
+    "icns": "/icns/fold-icon-eva-v2-NERVDeep.icns"
+  },
+  {
+    "slug": "fold-icon-eva-v2-SeeleCore",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "V2 SeeleCore",
+    "preview": "/previews/fold-icon-eva-v2-SeeleCore.png",
+    "thumb": "/previews/fold-icon-eva-v2-SeeleCore-thumb.webp",
+    "icns": "/icns/fold-icon-eva-v2-SeeleCore.icns"
+  },
+  {
+    "slug": "fold-icon-eva-v2-TwilightCity",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "V2 TwilightCity",
+    "preview": "/previews/fold-icon-eva-v2-TwilightCity.png",
+    "thumb": "/previews/fold-icon-eva-v2-TwilightCity-thumb.webp",
+    "icns": "/icns/fold-icon-eva-v2-TwilightCity.icns"
+  },
+  {
+    "slug": "fold-icon-eva-v2-UnitStealth",
+    "rawSeries": "eva",
+    "series": "eva",
+    "displayName": "V2 UnitStealth",
+    "preview": "/previews/fold-icon-eva-v2-UnitStealth.png",
+    "thumb": "/previews/fold-icon-eva-v2-UnitStealth-thumb.webp",
+    "icns": "/icns/fold-icon-eva-v2-UnitStealth.icns"
+  },
+  {
+    "slug": "fold-icon-extra-brass",
+    "rawSeries": "extra",
+    "series": "extra",
+    "displayName": "Brass",
+    "preview": "/previews/fold-icon-extra-brass.png",
+    "thumb": "/previews/fold-icon-extra-brass-thumb.webp",
+    "icns": "/icns/fold-icon-extra-brass.icns"
+  },
+  {
+    "slug": "fold-icon-extra-denim",
+    "rawSeries": "extra",
+    "series": "extra",
+    "displayName": "Denim",
+    "preview": "/previews/fold-icon-extra-denim.png",
+    "thumb": "/previews/fold-icon-extra-denim-thumb.webp",
+    "icns": "/icns/fold-icon-extra-denim.icns"
+  },
+  {
+    "slug": "fold-icon-extra-solar",
+    "rawSeries": "extra",
+    "series": "extra",
+    "displayName": "Solar",
+    "preview": "/previews/fold-icon-extra-solar.png",
+    "thumb": "/previews/fold-icon-extra-solar-thumb.webp",
+    "icns": "/icns/fold-icon-extra-solar.icns"
+  },
+  {
+    "slug": "fold-icon-f2e0cb",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#F2E0CB",
+    "preview": "/previews/fold-icon-f2e0cb.png",
+    "thumb": "/previews/fold-icon-f2e0cb-thumb.webp",
+    "icns": "/icns/fold-icon-f2e0cb.icns"
+  },
+  {
+    "slug": "fold-icon-f47272",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#F47272",
+    "preview": "/previews/fold-icon-f47272.png",
+    "thumb": "/previews/fold-icon-f47272-thumb.webp",
+    "icns": "/icns/fold-icon-f47272.icns"
+  },
+  {
+    "slug": "fold-icon-fbbc05",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#FBBC05",
+    "preview": "/previews/fold-icon-fbbc05.png",
+    "thumb": "/previews/fold-icon-fbbc05-thumb.webp",
+    "icns": "/icns/fold-icon-fbbc05.icns"
+  },
+  {
+    "slug": "fold-icon-fcc3b6",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#FCC3B6",
+    "preview": "/previews/fold-icon-fcc3b6.png",
+    "thumb": "/previews/fold-icon-fcc3b6-thumb.webp",
+    "icns": "/icns/fold-icon-fcc3b6.icns"
+  },
+  {
+    "slug": "fold-icon-ff8a65",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#FF8A65",
+    "preview": "/previews/fold-icon-ff8a65.png",
+    "thumb": "/previews/fold-icon-ff8a65-thumb.webp",
+    "icns": "/icns/fold-icon-ff8a65.icns"
+  },
+  {
+    "slug": "fold-icon-ffcccc",
+    "rawSeries": "color",
+    "series": "color",
+    "displayName": "#FFCCCC",
+    "preview": "/previews/fold-icon-ffcccc.png",
+    "thumb": "/previews/fold-icon-ffcccc-thumb.webp",
+    "icns": "/icns/fold-icon-ffcccc.icns"
+  },
+  {
+    "slug": "fold-icon-film-Agfa-Vista",
+    "rawSeries": "film",
+    "series": "film",
+    "displayName": "Agfa Vista",
+    "preview": "/previews/fold-icon-film-Agfa-Vista.png",
+    "thumb": "/previews/fold-icon-film-Agfa-Vista-thumb.webp",
+    "icns": "/icns/fold-icon-film-Agfa-Vista.icns"
+  },
+  {
+    "slug": "fold-icon-film-Cinestill",
+    "rawSeries": "film",
+    "series": "film",
+    "displayName": "Cinestill",
+    "preview": "/previews/fold-icon-film-Cinestill.png",
+    "thumb": "/previews/fold-icon-film-Cinestill-thumb.webp",
+    "icns": "/icns/fold-icon-film-Cinestill.icns"
+  },
+  {
+    "slug": "fold-icon-film-Fuji-Green",
+    "rawSeries": "film",
+    "series": "film",
+    "displayName": "Fuji Green",
+    "preview": "/previews/fold-icon-film-Fuji-Green.png",
+    "thumb": "/previews/fold-icon-film-Fuji-Green-thumb.webp",
+    "icns": "/icns/fold-icon-film-Fuji-Green.icns"
+  },
+  {
+    "slug": "fold-icon-film-Ilford-HP5",
+    "rawSeries": "film",
+    "series": "film",
+    "displayName": "Ilford HP5",
+    "preview": "/previews/fold-icon-film-Ilford-HP5.png",
+    "thumb": "/previews/fold-icon-film-Ilford-HP5-thumb.webp",
+    "icns": "/icns/fold-icon-film-Ilford-HP5.icns"
+  },
+  {
+    "slug": "fold-icon-film-instax_rainbow",
+    "rawSeries": "film",
+    "series": "film",
+    "displayName": "Instax Rainbow",
+    "preview": "/previews/fold-icon-film-instax_rainbow.png",
+    "thumb": "/previews/fold-icon-film-instax_rainbow-thumb.webp",
+    "icns": "/icns/fold-icon-film-instax_rainbow.icns"
+  },
+  {
+    "slug": "fold-icon-film-Kodak-Clean",
+    "rawSeries": "film",
+    "series": "film",
+    "displayName": "Kodak Clean",
+    "preview": "/previews/fold-icon-film-Kodak-Clean.png",
+    "thumb": "/previews/fold-icon-film-Kodak-Clean-thumb.webp",
+    "icns": "/icns/fold-icon-film-Kodak-Clean.icns"
+  },
+  {
+    "slug": "fold-icon-film-Portra",
+    "rawSeries": "film",
+    "series": "film",
+    "displayName": "Portra",
+    "preview": "/previews/fold-icon-film-Portra.png",
+    "thumb": "/previews/fold-icon-film-Portra-thumb.webp",
+    "icns": "/icns/fold-icon-film-Portra.icns"
+  },
+  {
+    "slug": "fold-icon-firework-gray-Electric",
+    "rawSeries": "firework",
+    "series": "firework",
+    "displayName": "Gray Electric",
+    "preview": "/previews/fold-icon-firework-gray-Electric.png",
+    "thumb": "/previews/fold-icon-firework-gray-Electric-thumb.webp",
+    "icns": "/icns/fold-icon-firework-gray-Electric.icns"
+  },
+  {
+    "slug": "fold-icon-firework-gray-Neon",
+    "rawSeries": "firework",
+    "series": "firework",
+    "displayName": "Gray Neon",
+    "preview": "/previews/fold-icon-firework-gray-Neon.png",
+    "thumb": "/previews/fold-icon-firework-gray-Neon-thumb.webp",
+    "icns": "/icns/fold-icon-firework-gray-Neon.icns"
+  },
+  {
+    "slug": "fold-icon-firework-gray-Prism",
+    "rawSeries": "firework",
+    "series": "firework",
+    "displayName": "Gray Prism",
+    "preview": "/previews/fold-icon-firework-gray-Prism.png",
+    "thumb": "/previews/fold-icon-firework-gray-Prism-thumb.webp",
+    "icns": "/icns/fold-icon-firework-gray-Prism.icns"
+  },
+  {
+    "slug": "fold-icon-firework-gray-Rainbow",
+    "rawSeries": "firework",
+    "series": "firework",
+    "displayName": "Gray Rainbow",
+    "preview": "/previews/fold-icon-firework-gray-Rainbow.png",
+    "thumb": "/previews/fold-icon-firework-gray-Rainbow-thumb.webp",
+    "icns": "/icns/fold-icon-firework-gray-Rainbow.icns"
+  },
+  {
+    "slug": "fold-icon-firework-gray-Supernova",
+    "rawSeries": "firework",
+    "series": "firework",
+    "displayName": "Gray Supernova",
+    "preview": "/previews/fold-icon-firework-gray-Supernova.png",
+    "thumb": "/previews/fold-icon-firework-gray-Supernova-thumb.webp",
+    "icns": "/icns/fold-icon-firework-gray-Supernova.icns"
+  },
+  {
+    "slug": "fold-icon-frida-CelosiaBrick",
+    "rawSeries": "frida",
+    "series": "frida",
+    "displayName": "CelosiaBrick",
+    "preview": "/previews/fold-icon-frida-CelosiaBrick.png",
+    "thumb": "/previews/fold-icon-frida-CelosiaBrick-thumb.webp",
+    "icns": "/icns/fold-icon-frida-CelosiaBrick.icns"
+  },
+  {
+    "slug": "fold-icon-frida-RammedEarth",
+    "rawSeries": "frida",
+    "series": "frida",
+    "displayName": "RammedEarth",
+    "preview": "/previews/fold-icon-frida-RammedEarth.png",
+    "thumb": "/previews/fold-icon-frida-RammedEarth-thumb.webp",
+    "icns": "/icns/fold-icon-frida-RammedEarth.icns"
+  },
+  {
+    "slug": "fold-icon-frida-StackedTiles",
+    "rawSeries": "frida",
+    "series": "frida",
+    "displayName": "StackedTiles",
+    "preview": "/previews/fold-icon-frida-StackedTiles.png",
+    "thumb": "/previews/fold-icon-frida-StackedTiles-thumb.webp",
+    "icns": "/icns/fold-icon-frida-StackedTiles.icns"
+  },
+  {
+    "slug": "fold-icon-frida-TimberSlats",
+    "rawSeries": "frida",
+    "series": "frida",
+    "displayName": "TimberSlats",
+    "preview": "/previews/fold-icon-frida-TimberSlats.png",
+    "thumb": "/previews/fold-icon-frida-TimberSlats-thumb.webp",
+    "icns": "/icns/fold-icon-frida-TimberSlats.icns"
+  },
+  {
+    "slug": "fold-icon-fukasawa-beadblast",
+    "rawSeries": "fukasawa",
+    "series": "fukasawa",
+    "displayName": "Beadblast",
+    "preview": "/previews/fold-icon-fukasawa-beadblast.png",
+    "thumb": "/previews/fold-icon-fukasawa-beadblast-thumb.webp",
+    "icns": "/icns/fold-icon-fukasawa-beadblast.icns"
+  },
+  {
+    "slug": "fold-icon-fukasawa-infobar_gray",
+    "rawSeries": "fukasawa",
+    "series": "fukasawa",
+    "displayName": "Infobar Gray",
+    "preview": "/previews/fold-icon-fukasawa-infobar_gray.png",
+    "thumb": "/previews/fold-icon-fukasawa-infobar_gray-thumb.webp",
+    "icns": "/icns/fold-icon-fukasawa-infobar_gray.icns"
+  },
+  {
+    "slug": "fold-icon-fukasawa-led_hidden",
+    "rawSeries": "fukasawa",
+    "series": "fukasawa",
+    "displayName": "Led Hidden",
+    "preview": "/previews/fold-icon-fukasawa-led_hidden.png",
+    "thumb": "/previews/fold-icon-fukasawa-led_hidden-thumb.webp",
+    "icns": "/icns/fold-icon-fukasawa-led_hidden.icns"
+  },
+  {
+    "slug": "fold-icon-fukasawa-sandstone",
+    "rawSeries": "fukasawa",
+    "series": "fukasawa",
+    "displayName": "Sandstone",
+    "preview": "/previews/fold-icon-fukasawa-sandstone.png",
+    "thumb": "/previews/fold-icon-fukasawa-sandstone-thumb.webp",
+    "icns": "/icns/fold-icon-fukasawa-sandstone.icns"
+  },
+  {
+    "slug": "fold-icon-fukasawa-sumikuro",
+    "rawSeries": "fukasawa",
+    "series": "fukasawa",
+    "displayName": "Sumikuro",
+    "preview": "/previews/fold-icon-fukasawa-sumikuro.png",
+    "thumb": "/previews/fold-icon-fukasawa-sumikuro-thumb.webp",
+    "icns": "/icns/fold-icon-fukasawa-sumikuro.icns"
+  },
+  {
+    "slug": "fold-icon-fukasawa-terracotta",
+    "rawSeries": "fukasawa",
+    "series": "fukasawa",
+    "displayName": "Terracotta",
+    "preview": "/previews/fold-icon-fukasawa-terracotta.png",
+    "thumb": "/previews/fold-icon-fukasawa-terracotta-thumb.webp",
+    "icns": "/icns/fold-icon-fukasawa-terracotta.icns"
+  },
+  {
+    "slug": "fold-icon-fusion-ceramic-rose",
+    "rawSeries": "fusion",
+    "series": "fusion",
+    "displayName": "Ceramic Rose",
+    "preview": "/previews/fold-icon-fusion-ceramic-rose.png",
+    "thumb": "/previews/fold-icon-fusion-ceramic-rose-thumb.webp",
+    "icns": "/icns/fold-icon-fusion-ceramic-rose.icns"
+  },
+  {
+    "slug": "fold-icon-fusion-clean-ceramic",
+    "rawSeries": "fusion",
+    "series": "fusion",
+    "displayName": "Clean Ceramic",
+    "preview": "/previews/fold-icon-fusion-clean-ceramic.png",
+    "thumb": "/previews/fold-icon-fusion-clean-ceramic-thumb.webp",
+    "icns": "/icns/fold-icon-fusion-clean-ceramic.icns"
+  },
+  {
+    "slug": "fold-icon-fusion-clean-midnight",
+    "rawSeries": "fusion",
+    "series": "fusion",
+    "displayName": "Clean Midnight",
+    "preview": "/previews/fold-icon-fusion-clean-midnight.png",
+    "thumb": "/previews/fold-icon-fusion-clean-midnight-thumb.webp",
+    "icns": "/icns/fold-icon-fusion-clean-midnight.icns"
+  },
+  {
+    "slug": "fold-icon-fusion-clean-obsidian",
+    "rawSeries": "fusion",
+    "series": "fusion",
+    "displayName": "Clean Obsidian",
+    "preview": "/previews/fold-icon-fusion-clean-obsidian.png",
+    "thumb": "/previews/fold-icon-fusion-clean-obsidian-thumb.webp",
+    "icns": "/icns/fold-icon-fusion-clean-obsidian.icns"
+  },
+  {
+    "slug": "fold-icon-fusion-clean-sage",
+    "rawSeries": "fusion",
+    "series": "fusion",
+    "displayName": "Clean Sage",
+    "preview": "/previews/fold-icon-fusion-clean-sage.png",
+    "thumb": "/previews/fold-icon-fusion-clean-sage-thumb.webp",
+    "icns": "/icns/fold-icon-fusion-clean-sage.icns"
+  },
+  {
+    "slug": "fold-icon-fusion-clean-starlight",
+    "rawSeries": "fusion",
+    "series": "fusion",
+    "displayName": "Clean Starlight",
+    "preview": "/previews/fold-icon-fusion-clean-starlight.png",
+    "thumb": "/previews/fold-icon-fusion-clean-starlight-thumb.webp",
+    "icns": "/icns/fold-icon-fusion-clean-starlight.icns"
+  },
+  {
+    "slug": "fold-icon-fusion-clean-titanium",
+    "rawSeries": "fusion",
+    "series": "fusion",
+    "displayName": "Clean Titanium",
+    "preview": "/previews/fold-icon-fusion-clean-titanium.png",
+    "thumb": "/previews/fold-icon-fusion-clean-titanium-thumb.webp",
+    "icns": "/icns/fold-icon-fusion-clean-titanium.icns"
+  },
+  {
+    "slug": "fold-icon-fusion-midnight-cyan",
+    "rawSeries": "fusion",
+    "series": "fusion",
+    "displayName": "Midnight Cyan",
+    "preview": "/previews/fold-icon-fusion-midnight-cyan.png",
+    "thumb": "/previews/fold-icon-fusion-midnight-cyan-thumb.webp",
+    "icns": "/icns/fold-icon-fusion-midnight-cyan.icns"
+  },
+  {
+    "slug": "fold-icon-fusion-titanium-gold",
+    "rawSeries": "fusion",
+    "series": "fusion",
+    "displayName": "Titanium Gold",
+    "preview": "/previews/fold-icon-fusion-titanium-gold.png",
+    "thumb": "/previews/fold-icon-fusion-titanium-gold-thumb.webp",
+    "icns": "/icns/fold-icon-fusion-titanium-gold.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-Bone",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "Bone",
+    "preview": "/previews/fold-icon-gaudi-Bone.png",
+    "thumb": "/previews/fold-icon-gaudi-Bone-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-Bone.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-BonePillars",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "BonePillars",
+    "preview": "/previews/fold-icon-gaudi-BonePillars.png",
+    "thumb": "/previews/fold-icon-gaudi-BonePillars-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-BonePillars.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-Forest",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "Forest",
+    "preview": "/previews/fold-icon-gaudi-Forest.png",
+    "thumb": "/previews/fold-icon-gaudi-Forest-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-Forest.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-GaudiCross",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "GaudiCross",
+    "preview": "/previews/fold-icon-gaudi-GaudiCross.png",
+    "thumb": "/previews/fold-icon-gaudi-GaudiCross-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-GaudiCross.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-MeltingStone",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "MeltingStone",
+    "preview": "/previews/fold-icon-gaudi-MeltingStone.png",
+    "thumb": "/previews/fold-icon-gaudi-MeltingStone-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-MeltingStone.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-MilaUndulation",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "MilaUndulation",
+    "preview": "/previews/fold-icon-gaudi-MilaUndulation.png",
+    "thumb": "/previews/fold-icon-gaudi-MilaUndulation-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-MilaUndulation.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-PalmIronwork",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "PalmIronwork",
+    "preview": "/previews/fold-icon-gaudi-PalmIronwork.png",
+    "thumb": "/previews/fold-icon-gaudi-PalmIronwork-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-PalmIronwork.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-SagradaCanopy",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "SagradaCanopy",
+    "preview": "/previews/fold-icon-gaudi-SagradaCanopy.png",
+    "thumb": "/previews/fold-icon-gaudi-SagradaCanopy-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-SagradaCanopy.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-Stone",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "Stone",
+    "preview": "/previews/fold-icon-gaudi-Stone.png",
+    "thumb": "/previews/fold-icon-gaudi-Stone-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-Stone.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-SunflowerRosette",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "SunflowerRosette",
+    "preview": "/previews/fold-icon-gaudi-SunflowerRosette.png",
+    "thumb": "/previews/fold-icon-gaudi-SunflowerRosette-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-SunflowerRosette.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-Trencadis",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "Trencadis",
+    "preview": "/previews/fold-icon-gaudi-Trencadis.png",
+    "thumb": "/previews/fold-icon-gaudi-Trencadis-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-Trencadis.icns"
+  },
+  {
+    "slug": "fold-icon-gaudi-TrencadisMosaic",
+    "rawSeries": "gaudi",
+    "series": "gaudi",
+    "displayName": "TrencadisMosaic",
+    "preview": "/previews/fold-icon-gaudi-TrencadisMosaic.png",
+    "thumb": "/previews/fold-icon-gaudi-TrencadisMosaic-thumb.webp",
+    "icns": "/icns/fold-icon-gaudi-TrencadisMosaic.icns"
+  },
+  {
+    "slug": "fold-icon-gehry-CrumpledPaper",
+    "rawSeries": "gehry",
+    "series": "gehry",
+    "displayName": "CrumpledPaper",
+    "preview": "/previews/fold-icon-gehry-CrumpledPaper.png",
+    "thumb": "/previews/fold-icon-gehry-CrumpledPaper-thumb.webp",
+    "icns": "/icns/fold-icon-gehry-CrumpledPaper.icns"
+  },
+  {
+    "slug": "fold-icon-gehry-TwistedBrick",
+    "rawSeries": "gehry",
+    "series": "gehry",
+    "displayName": "TwistedBrick",
+    "preview": "/previews/fold-icon-gehry-TwistedBrick.png",
+    "thumb": "/previews/fold-icon-gehry-TwistedBrick-thumb.webp",
+    "icns": "/icns/fold-icon-gehry-TwistedBrick.icns"
+  },
+  {
+    "slug": "fold-icon-glaser-AppleLove",
+    "rawSeries": "glaser",
+    "series": "glaser",
+    "displayName": "AppleLove",
+    "preview": "/previews/fold-icon-glaser-AppleLove.png",
+    "thumb": "/previews/fold-icon-glaser-AppleLove-thumb.webp",
+    "icns": "/icns/fold-icon-glaser-AppleLove.icns"
+  },
+  {
+    "slug": "fold-icon-glaser-OrganicFlow",
+    "rawSeries": "glaser",
+    "series": "glaser",
+    "displayName": "OrganicFlow",
+    "preview": "/previews/fold-icon-glaser-OrganicFlow.png",
+    "thumb": "/previews/fold-icon-glaser-OrganicFlow-thumb.webp",
+    "icns": "/icns/fold-icon-glaser-OrganicFlow.icns"
+  },
+  {
+    "slug": "fold-icon-glaser-PopShadow",
+    "rawSeries": "glaser",
+    "series": "glaser",
+    "displayName": "PopShadow",
+    "preview": "/previews/fold-icon-glaser-PopShadow.png",
+    "thumb": "/previews/fold-icon-glaser-PopShadow-thumb.webp",
+    "icns": "/icns/fold-icon-glaser-PopShadow.icns"
+  },
+  {
+    "slug": "fold-icon-glaser-RainbowHair",
+    "rawSeries": "glaser",
+    "series": "glaser",
+    "displayName": "RainbowHair",
+    "preview": "/previews/fold-icon-glaser-RainbowHair.png",
+    "thumb": "/previews/fold-icon-glaser-RainbowHair-thumb.webp",
+    "icns": "/icns/fold-icon-glaser-RainbowHair.icns"
+  },
+  {
+    "slug": "fold-icon-golden-DynamicSymmetry",
+    "rawSeries": "golden",
+    "series": "golden",
+    "displayName": "DynamicSymmetry",
+    "preview": "/previews/fold-icon-golden-DynamicSymmetry.png",
+    "thumb": "/previews/fold-icon-golden-DynamicSymmetry-thumb.webp",
+    "icns": "/icns/fold-icon-golden-DynamicSymmetry.icns"
+  },
+  {
+    "slug": "fold-icon-golden-GoldenBlock",
+    "rawSeries": "golden",
+    "series": "golden",
+    "displayName": "GoldenBlock",
+    "preview": "/previews/fold-icon-golden-GoldenBlock.png",
+    "thumb": "/previews/fold-icon-golden-GoldenBlock-thumb.webp",
+    "icns": "/icns/fold-icon-golden-GoldenBlock.icns"
+  },
+  {
+    "slug": "fold-icon-golden-MathematicalBlue",
+    "rawSeries": "golden",
+    "series": "golden",
+    "displayName": "MathematicalBlue",
+    "preview": "/previews/fold-icon-golden-MathematicalBlue.png",
+    "thumb": "/previews/fold-icon-golden-MathematicalBlue-thumb.webp",
+    "icns": "/icns/fold-icon-golden-MathematicalBlue.icns"
+  },
+  {
+    "slug": "fold-icon-golden-PencilDraft",
+    "rawSeries": "golden",
+    "series": "golden",
+    "displayName": "PencilDraft",
+    "preview": "/previews/fold-icon-golden-PencilDraft.png",
+    "thumb": "/previews/fold-icon-golden-PencilDraft-thumb.webp",
+    "icns": "/icns/fold-icon-golden-PencilDraft.icns"
+  },
+  {
+    "slug": "fold-icon-google-Brand-Colors",
+    "rawSeries": "google",
+    "series": "google",
+    "displayName": "Brand Colors",
+    "preview": "/previews/fold-icon-google-Brand-Colors.png",
+    "thumb": "/previews/fold-icon-google-Brand-Colors-thumb.webp",
+    "icns": "/icns/fold-icon-google-Brand-Colors.icns"
+  },
+  {
+    "slug": "fold-icon-google-Pixel-Sand",
+    "rawSeries": "google",
+    "series": "google",
+    "displayName": "Pixel Sand",
+    "preview": "/previews/fold-icon-google-Pixel-Sand.png",
+    "thumb": "/previews/fold-icon-google-Pixel-Sand-thumb.webp",
+    "icns": "/icns/fold-icon-google-Pixel-Sand.icns"
+  },
+  {
+    "slug": "fold-icon-grad-Nordic-Dusk",
+    "rawSeries": "grad",
+    "series": "grad",
+    "displayName": "Nordic Dusk",
+    "preview": "/previews/fold-icon-grad-Nordic-Dusk.png",
+    "thumb": "/previews/fold-icon-grad-Nordic-Dusk-thumb.webp",
+    "icns": "/icns/fold-icon-grad-Nordic-Dusk.icns"
+  },
+  {
+    "slug": "fold-icon-hanabi-traditional-kiku",
+    "rawSeries": "hanabi",
+    "series": "hanabi",
+    "displayName": "Traditional Kiku",
+    "preview": "/previews/fold-icon-hanabi-traditional-kiku.png",
+    "thumb": "/previews/fold-icon-hanabi-traditional-kiku-thumb.webp",
+    "icns": "/icns/fold-icon-hanabi-traditional-kiku.icns"
+  },
+  {
+    "slug": "fold-icon-hardware-arduino",
+    "rawSeries": "hardware",
+    "series": "hardware",
+    "displayName": "Arduino",
+    "preview": "/previews/fold-icon-hardware-arduino.png",
+    "thumb": "/previews/fold-icon-hardware-arduino-thumb.webp",
+    "icns": "/icns/fold-icon-hardware-arduino.icns"
+  },
+  {
+    "slug": "fold-icon-hardware-bakelite",
+    "rawSeries": "hardware",
+    "series": "hardware",
+    "displayName": "Bakelite",
+    "preview": "/previews/fold-icon-hardware-bakelite.png",
+    "thumb": "/previews/fold-icon-hardware-bakelite-thumb.webp",
+    "icns": "/icns/fold-icon-hardware-bakelite.icns"
+  },
+  {
+    "slug": "fold-icon-hardware-osh",
+    "rawSeries": "hardware",
+    "series": "hardware",
+    "displayName": "Osh",
+    "preview": "/previews/fold-icon-hardware-osh.png",
+    "thumb": "/previews/fold-icon-hardware-osh-thumb.webp",
+    "icns": "/icns/fold-icon-hardware-osh.icns"
+  },
+  {
+    "slug": "fold-icon-hardware-pi",
+    "rawSeries": "hardware",
+    "series": "hardware",
+    "displayName": "Pi",
+    "preview": "/previews/fold-icon-hardware-pi.png",
+    "thumb": "/previews/fold-icon-hardware-pi-thumb.webp",
+    "icns": "/icns/fold-icon-hardware-pi.icns"
+  },
+  {
+    "slug": "fold-icon-hardware-server",
+    "rawSeries": "hardware",
+    "series": "hardware",
+    "displayName": "Server",
+    "preview": "/previews/fold-icon-hardware-server.png",
+    "thumb": "/previews/fold-icon-hardware-server-thumb.webp",
+    "icns": "/icns/fold-icon-hardware-server.icns"
+  },
+  {
+    "slug": "fold-icon-hardware-stealth",
+    "rawSeries": "hardware",
+    "series": "hardware",
+    "displayName": "Stealth",
+    "preview": "/previews/fold-icon-hardware-stealth.png",
+    "thumb": "/previews/fold-icon-hardware-stealth-thumb.webp",
+    "icns": "/icns/fold-icon-hardware-stealth.icns"
+  },
+  {
+    "slug": "fold-icon-heavy-Bauhaus",
+    "rawSeries": "heavy",
+    "series": "heavy",
+    "displayName": "Bauhaus",
+    "preview": "/previews/fold-icon-heavy-Bauhaus.png",
+    "thumb": "/previews/fold-icon-heavy-Bauhaus-thumb.webp",
+    "icns": "/icns/fold-icon-heavy-Bauhaus.icns"
+  },
+  {
+    "slug": "fold-icon-heavy-eva-at-field",
+    "rawSeries": "heavy",
+    "series": "heavy",
+    "displayName": "Eva At Field",
+    "preview": "/previews/fold-icon-heavy-eva-at-field.png",
+    "thumb": "/previews/fold-icon-heavy-eva-at-field-thumb.webp",
+    "icns": "/icns/fold-icon-heavy-eva-at-field.icns"
+  },
+  {
+    "slug": "fold-icon-heavy-eva-nerv-hq",
+    "rawSeries": "heavy",
+    "series": "heavy",
+    "displayName": "Eva Nerv Hq",
+    "preview": "/previews/fold-icon-heavy-eva-nerv-hq.png",
+    "thumb": "/previews/fold-icon-heavy-eva-nerv-hq-thumb.webp",
+    "icns": "/icns/fold-icon-heavy-eva-nerv-hq.icns"
+  },
+  {
+    "slug": "fold-icon-heavy-eva-unit02",
+    "rawSeries": "heavy",
+    "series": "heavy",
+    "displayName": "Eva Unit02",
+    "preview": "/previews/fold-icon-heavy-eva-unit02.png",
+    "thumb": "/previews/fold-icon-heavy-eva-unit02-thumb.webp",
+    "icns": "/icns/fold-icon-heavy-eva-unit02.icns"
+  },
+  {
+    "slug": "fold-icon-hk-jade",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "Jade",
+    "preview": "/previews/fold-icon-hk-jade.png",
+    "thumb": "/previews/fold-icon-hk-jade-thumb.webp",
+    "icns": "/icns/fold-icon-hk-jade.icns"
+  },
+  {
+    "slug": "fold-icon-hk-king",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "King",
+    "preview": "/previews/fold-icon-hk-king.png",
+    "thumb": "/previews/fold-icon-hk-king-thumb.webp",
+    "icns": "/icns/fold-icon-hk-king.icns"
+  },
+  {
+    "slug": "fold-icon-hk-real-central",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "Real Central",
+    "preview": "/previews/fold-icon-hk-real-central.png",
+    "thumb": "/previews/fold-icon-hk-real-central-thumb.webp",
+    "icns": "/icns/fold-icon-hk-real-central.icns"
+  },
+  {
+    "slug": "fold-icon-hk-real-ferry",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "Real Ferry",
+    "preview": "/previews/fold-icon-hk-real-ferry.png",
+    "thumb": "/previews/fold-icon-hk-real-ferry-thumb.webp",
+    "icns": "/icns/fold-icon-hk-real-ferry.icns"
+  },
+  {
+    "slug": "fold-icon-hk-real-monster",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "Real Monster",
+    "preview": "/previews/fold-icon-hk-real-monster.png",
+    "thumb": "/previews/fold-icon-hk-real-monster-thumb.webp",
+    "icns": "/icns/fold-icon-hk-real-monster.icns"
+  },
+  {
+    "slug": "fold-icon-hk-real-neon",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "Real Neon",
+    "preview": "/previews/fold-icon-hk-real-neon.png",
+    "thumb": "/previews/fold-icon-hk-real-neon-thumb.webp",
+    "icns": "/icns/fold-icon-hk-real-neon.icns"
+  },
+  {
+    "slug": "fold-icon-hk-real-scaffold",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "Real Scaffold",
+    "preview": "/previews/fold-icon-hk-real-scaffold.png",
+    "thumb": "/previews/fold-icon-hk-real-scaffold-thumb.webp",
+    "icns": "/icns/fold-icon-hk-real-scaffold.icns"
+  },
+  {
+    "slug": "fold-icon-hk-real-taxi",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "Real Taxi",
+    "preview": "/previews/fold-icon-hk-real-taxi.png",
+    "thumb": "/previews/fold-icon-hk-real-taxi-thumb.webp",
+    "icns": "/icns/fold-icon-hk-real-taxi.icns"
+  },
+  {
+    "slug": "fold-icon-hk-scaffold",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "Scaffold",
+    "preview": "/previews/fold-icon-hk-scaffold.png",
+    "thumb": "/previews/fold-icon-hk-scaffold-thumb.webp",
+    "icns": "/icns/fold-icon-hk-scaffold.icns"
+  },
+  {
+    "slug": "fold-icon-hk-taxi",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "Taxi",
+    "preview": "/previews/fold-icon-hk-taxi.png",
+    "thumb": "/previews/fold-icon-hk-taxi-thumb.webp",
+    "icns": "/icns/fold-icon-hk-taxi.icns"
+  },
+  {
+    "slug": "fold-icon-hk-v2-central",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "V2 Central",
+    "preview": "/previews/fold-icon-hk-v2-central.png",
+    "thumb": "/previews/fold-icon-hk-v2-central-thumb.webp",
+    "icns": "/icns/fold-icon-hk-v2-central.icns"
+  },
+  {
+    "slug": "fold-icon-hk-v2-mongkok",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "V2 Mongkok",
+    "preview": "/previews/fold-icon-hk-v2-mongkok.png",
+    "thumb": "/previews/fold-icon-hk-v2-mongkok-thumb.webp",
+    "icns": "/icns/fold-icon-hk-v2-mongkok.icns"
+  },
+  {
+    "slug": "fold-icon-hk-v2-northpoint",
+    "rawSeries": "hk",
+    "series": "hk",
+    "displayName": "V2 Northpoint",
+    "preview": "/previews/fold-icon-hk-v2-northpoint.png",
+    "thumb": "/previews/fold-icon-hk-v2-northpoint-thumb.webp",
+    "icns": "/icns/fold-icon-hk-v2-northpoint.icns"
+  },
+  {
+    "slug": "fold-icon-hyper-Baroque-Gold",
+    "rawSeries": "hyper",
+    "series": "hyper",
+    "displayName": "Baroque Gold",
+    "preview": "/previews/fold-icon-hyper-Baroque-Gold.png",
+    "thumb": "/previews/fold-icon-hyper-Baroque-Gold-thumb.webp",
+    "icns": "/icns/fold-icon-hyper-Baroque-Gold.icns"
+  },
+  {
+    "slug": "fold-icon-hyper-Gilded-Velvet",
+    "rawSeries": "hyper",
+    "series": "hyper",
+    "displayName": "Gilded Velvet",
+    "preview": "/previews/fold-icon-hyper-Gilded-Velvet.png",
+    "thumb": "/previews/fold-icon-hyper-Gilded-Velvet-thumb.webp",
+    "icns": "/icns/fold-icon-hyper-Gilded-Velvet.icns"
+  },
+  {
+    "slug": "fold-icon-hyper-Ivory-Art",
+    "rawSeries": "hyper",
+    "series": "hyper",
+    "displayName": "Ivory Art",
+    "preview": "/previews/fold-icon-hyper-Ivory-Art.png",
+    "thumb": "/previews/fold-icon-hyper-Ivory-Art-thumb.webp",
+    "icns": "/icns/fold-icon-hyper-Ivory-Art.icns"
+  },
+  {
+    "slug": "fold-icon-hyper-obsidian",
+    "rawSeries": "hyper",
+    "series": "hyper",
+    "displayName": "Obsidian",
+    "preview": "/previews/fold-icon-hyper-obsidian.png",
+    "thumb": "/previews/fold-icon-hyper-obsidian-thumb.webp",
+    "icns": "/icns/fold-icon-hyper-obsidian.icns"
+  },
+  {
+    "slug": "fold-icon-hyper-Onyx-Pearl",
+    "rawSeries": "hyper",
+    "series": "hyper",
+    "displayName": "Onyx Pearl",
+    "preview": "/previews/fold-icon-hyper-Onyx-Pearl.png",
+    "thumb": "/previews/fold-icon-hyper-Onyx-Pearl-thumb.webp",
+    "icns": "/icns/fold-icon-hyper-Onyx-Pearl.icns"
+  },
+  {
+    "slug": "fold-icon-hyper-Rococo-Rose",
+    "rawSeries": "hyper",
+    "series": "hyper",
+    "displayName": "Rococo Rose",
+    "preview": "/previews/fold-icon-hyper-Rococo-Rose.png",
+    "thumb": "/previews/fold-icon-hyper-Rococo-Rose-thumb.webp",
+    "icns": "/icns/fold-icon-hyper-Rococo-Rose.icns"
+  },
+  {
+    "slug": "fold-icon-hyper-Royal-Blue",
+    "rawSeries": "hyper",
+    "series": "hyper",
+    "displayName": "Royal Blue",
+    "preview": "/previews/fold-icon-hyper-Royal-Blue.png",
+    "thumb": "/previews/fold-icon-hyper-Royal-Blue-thumb.webp",
+    "icns": "/icns/fold-icon-hyper-Royal-Blue.icns"
+  },
+  {
+    "slug": "fold-icon-hyper-sapphire",
+    "rawSeries": "hyper",
+    "series": "hyper",
+    "displayName": "Sapphire",
+    "preview": "/previews/fold-icon-hyper-sapphire.png",
+    "thumb": "/previews/fold-icon-hyper-sapphire-thumb.webp",
+    "icns": "/icns/fold-icon-hyper-sapphire.icns"
+  },
+  {
+    "slug": "fold-icon-impression-monet-shimmer",
+    "rawSeries": "impression",
+    "series": "impression",
+    "displayName": "Monet Shimmer",
+    "preview": "/previews/fold-icon-impression-monet-shimmer.png",
+    "thumb": "/previews/fold-icon-impression-monet-shimmer-thumb.webp",
+    "icns": "/icns/fold-icon-impression-monet-shimmer.icns"
+  },
+  {
+    "slug": "fold-icon-impression-monet-shimmer-LIGHTBLUE",
+    "rawSeries": "impression",
+    "series": "impression",
+    "displayName": "Monet Shimmer LIGHTBLUE",
+    "preview": "/previews/fold-icon-impression-monet-shimmer-LIGHTBLUE.png",
+    "thumb": "/previews/fold-icon-impression-monet-shimmer-LIGHTBLUE-thumb.webp",
+    "icns": "/icns/fold-icon-impression-monet-shimmer-LIGHTBLUE.icns"
+  },
+  {
+    "slug": "fold-icon-impression-monet-shimmer-TENDER-DEEP",
+    "rawSeries": "impression",
+    "series": "impression",
+    "displayName": "Monet Shimmer TENDER DEEP",
+    "preview": "/previews/fold-icon-impression-monet-shimmer-TENDER-DEEP.png",
+    "thumb": "/previews/fold-icon-impression-monet-shimmer-TENDER-DEEP-thumb.webp",
+    "icns": "/icns/fold-icon-impression-monet-shimmer-TENDER-DEEP.icns"
+  },
+  {
+    "slug": "fold-icon-impression-monet-shimmer-TUNED",
+    "rawSeries": "impression",
+    "series": "impression",
+    "displayName": "Monet Shimmer TUNED",
+    "preview": "/previews/fold-icon-impression-monet-shimmer-TUNED.png",
+    "thumb": "/previews/fold-icon-impression-monet-shimmer-TUNED-thumb.webp",
+    "icns": "/icns/fold-icon-impression-monet-shimmer-TUNED.icns"
+  },
+  {
+    "slug": "fold-icon-insane-logic",
+    "rawSeries": "insane",
+    "series": "insane",
+    "displayName": "Logic",
+    "preview": "/previews/fold-icon-insane-logic.png",
+    "thumb": "/previews/fold-icon-insane-logic-thumb.webp",
+    "icns": "/icns/fold-icon-insane-logic.icns"
+  },
+  {
+    "slug": "fold-icon-insane-motherboard",
+    "rawSeries": "insane",
+    "series": "insane",
+    "displayName": "Motherboard",
+    "preview": "/previews/fold-icon-insane-motherboard.png",
+    "thumb": "/previews/fold-icon-insane-motherboard-thumb.webp",
+    "icns": "/icns/fold-icon-insane-motherboard.icns"
+  },
+  {
+    "slug": "fold-icon-insane-prototype",
+    "rawSeries": "insane",
+    "series": "insane",
+    "displayName": "Prototype",
+    "preview": "/previews/fold-icon-insane-prototype.png",
+    "thumb": "/previews/fold-icon-insane-prototype-thumb.webp",
+    "icns": "/icns/fold-icon-insane-prototype.icns"
+  },
+  {
+    "slug": "fold-icon-insane-supercomputer",
+    "rawSeries": "insane",
+    "series": "insane",
+    "displayName": "Supercomputer",
+    "preview": "/previews/fold-icon-insane-supercomputer.png",
+    "thumb": "/previews/fold-icon-insane-supercomputer-thumb.webp",
+    "icns": "/icns/fold-icon-insane-supercomputer.icns"
+  },
+  {
+    "slug": "fold-icon-ive-cnc_lattice",
+    "rawSeries": "ive",
+    "series": "ive",
+    "displayName": "Cnc Lattice",
+    "preview": "/previews/fold-icon-ive-cnc_lattice.png",
+    "thumb": "/previews/fold-icon-ive-cnc_lattice-thumb.webp",
+    "icns": "/icns/fold-icon-ive-cnc_lattice.icns"
+  },
+  {
+    "slug": "fold-icon-ive-titanium",
+    "rawSeries": "ive",
+    "series": "ive",
+    "displayName": "Titanium",
+    "preview": "/previews/fold-icon-ive-titanium.png",
+    "thumb": "/previews/fold-icon-ive-titanium-thumb.webp",
+    "icns": "/icns/fold-icon-ive-titanium.icns"
+  },
+  {
+    "slug": "fold-icon-jelly-ULTRA-Strawberry_Red",
+    "rawSeries": "jelly",
+    "series": "jelly",
+    "displayName": "ULTRA Strawberry Red",
+    "preview": "/previews/fold-icon-jelly-ULTRA-Strawberry_Red.png",
+    "thumb": "/previews/fold-icon-jelly-ULTRA-Strawberry_Red-thumb.webp",
+    "icns": "/icns/fold-icon-jelly-ULTRA-Strawberry_Red.icns"
+  },
+  {
+    "slug": "fold-icon-jobs-TitaniumMatte",
+    "rawSeries": "jobs",
+    "series": "jobs",
+    "displayName": "TitaniumMatte",
+    "preview": "/previews/fold-icon-jobs-TitaniumMatte.png",
+    "thumb": "/previews/fold-icon-jobs-TitaniumMatte-thumb.webp",
+    "icns": "/icns/fold-icon-jobs-TitaniumMatte.icns"
+  },
+  {
+    "slug": "fold-icon-kawauchi-CuiCuiGreen",
+    "rawSeries": "kawauchi",
+    "series": "kawauchi",
+    "displayName": "CuiCuiGreen",
+    "preview": "/previews/fold-icon-kawauchi-CuiCuiGreen.png",
+    "thumb": "/previews/fold-icon-kawauchi-CuiCuiGreen-thumb.webp",
+    "icns": "/icns/fold-icon-kawauchi-CuiCuiGreen.icns"
+  },
+  {
+    "slug": "fold-icon-kawauchi-HanabiBlur",
+    "rawSeries": "kawauchi",
+    "series": "kawauchi",
+    "displayName": "HanabiBlur",
+    "preview": "/previews/fold-icon-kawauchi-HanabiBlur.png",
+    "thumb": "/previews/fold-icon-kawauchi-HanabiBlur-thumb.webp",
+    "icns": "/icns/fold-icon-kawauchi-HanabiBlur.icns"
+  },
+  {
+    "slug": "fold-icon-kawauchi-v3-LavenderSky",
+    "rawSeries": "kawauchi",
+    "series": "kawauchi",
+    "displayName": "V3 LavenderSky",
+    "preview": "/previews/fold-icon-kawauchi-v3-LavenderSky.png",
+    "thumb": "/previews/fold-icon-kawauchi-v3-LavenderSky-thumb.webp",
+    "icns": "/icns/fold-icon-kawauchi-v3-LavenderSky.icns"
+  },
+  {
+    "slug": "fold-icon-kawauchi-v3-SlateStorm",
+    "rawSeries": "kawauchi",
+    "series": "kawauchi",
+    "displayName": "V3 SlateStorm",
+    "preview": "/previews/fold-icon-kawauchi-v3-SlateStorm.png",
+    "thumb": "/previews/fold-icon-kawauchi-v3-SlateStorm-thumb.webp",
+    "icns": "/icns/fold-icon-kawauchi-v3-SlateStorm.icns"
+  },
+  {
+    "slug": "fold-icon-kawauchi-v3-Twilight",
+    "rawSeries": "kawauchi",
+    "series": "kawauchi",
+    "displayName": "V3 Twilight",
+    "preview": "/previews/fold-icon-kawauchi-v3-Twilight.png",
+    "thumb": "/previews/fold-icon-kawauchi-v3-Twilight-thumb.webp",
+    "icns": "/icns/fold-icon-kawauchi-v3-Twilight.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-coral_bleaching",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Coral Bleaching",
+    "preview": "/previews/fold-icon-kurgan-coral_bleaching.png",
+    "thumb": "/previews/fold-icon-kurgan-coral_bleaching-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-coral_bleaching.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-field-ArcticVortex",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Field ArcticVortex",
+    "preview": "/previews/fold-icon-kurgan-field-ArcticVortex.png",
+    "thumb": "/previews/fold-icon-kurgan-field-ArcticVortex-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-field-ArcticVortex.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-field-BioTide",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Field BioTide",
+    "preview": "/previews/fold-icon-kurgan-field-BioTide.png",
+    "thumb": "/previews/fold-icon-kurgan-field-BioTide-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-field-BioTide.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-field-SolarFlare",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Field SolarFlare",
+    "preview": "/previews/fold-icon-kurgan-field-SolarFlare.png",
+    "thumb": "/previews/fold-icon-kurgan-field-SolarFlare-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-field-SolarFlare.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-field-VolcanicAsh",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Field VolcanicAsh",
+    "preview": "/previews/fold-icon-kurgan-field-VolcanicAsh.png",
+    "thumb": "/previews/fold-icon-kurgan-field-VolcanicAsh-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-field-VolcanicAsh.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-global_warming",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Global Warming",
+    "preview": "/previews/fold-icon-kurgan-global_warming.png",
+    "thumb": "/previews/fold-icon-kurgan-global_warming-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-global_warming.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-ozone_hole",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Ozone Hole",
+    "preview": "/previews/fold-icon-kurgan-ozone_hole.png",
+    "thumb": "/previews/fold-icon-kurgan-ozone_hole-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-ozone_hole.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-pro-night_pulse",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Pro Night Pulse",
+    "preview": "/previews/fold-icon-kurgan-pro-night_pulse.png",
+    "thumb": "/previews/fold-icon-kurgan-pro-night_pulse-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-pro-night_pulse.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-pro-night_pulse_dense",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Pro Night Pulse Dense",
+    "preview": "/previews/fold-icon-kurgan-pro-night_pulse_dense.png",
+    "thumb": "/previews/fold-icon-kurgan-pro-night_pulse_dense-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-pro-night_pulse_dense.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-strata-bathymetry",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Strata Bathymetry",
+    "preview": "/previews/fold-icon-kurgan-strata-bathymetry.png",
+    "thumb": "/previews/fold-icon-kurgan-strata-bathymetry-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-strata-bathymetry.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-strata-glacial_strain",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Strata Glacial Strain",
+    "preview": "/previews/fold-icon-kurgan-strata-glacial_strain.png",
+    "thumb": "/previews/fold-icon-kurgan-strata-glacial_strain-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-strata-glacial_strain.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-strata-thermal_wildfire",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Strata Thermal Wildfire",
+    "preview": "/previews/fold-icon-kurgan-strata-thermal_wildfire.png",
+    "thumb": "/previews/fold-icon-kurgan-strata-thermal_wildfire-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-strata-thermal_wildfire.icns"
+  },
+  {
+    "slug": "fold-icon-kurgan-strata-urban_albedo",
+    "rawSeries": "kurgan",
+    "series": "kurgan",
+    "displayName": "Strata Urban Albedo",
+    "preview": "/previews/fold-icon-kurgan-strata-urban_albedo.png",
+    "thumb": "/previews/fold-icon-kurgan-strata-urban_albedo-thumb.webp",
+    "icns": "/icns/fold-icon-kurgan-strata-urban_albedo.icns"
+  },
+  {
+    "slug": "fold-icon-kusama-Infinity-Nets",
+    "rawSeries": "kusama",
+    "series": "kusama",
+    "displayName": "Infinity Nets",
+    "preview": "/previews/fold-icon-kusama-Infinity-Nets.png",
+    "thumb": "/previews/fold-icon-kusama-Infinity-Nets-thumb.webp",
+    "icns": "/icns/fold-icon-kusama-Infinity-Nets.icns"
+  },
+  {
+    "slug": "fold-icon-kusama-Obliteration-Room",
+    "rawSeries": "kusama",
+    "series": "kusama",
+    "displayName": "Obliteration Room",
+    "preview": "/previews/fold-icon-kusama-Obliteration-Room.png",
+    "thumb": "/previews/fold-icon-kusama-Obliteration-Room-thumb.webp",
+    "icns": "/icns/fold-icon-kusama-Obliteration-Room.icns"
+  },
+  {
+    "slug": "fold-icon-kusama-Pink-Psychedelic",
+    "rawSeries": "kusama",
+    "series": "kusama",
+    "displayName": "Pink Psychedelic",
+    "preview": "/previews/fold-icon-kusama-Pink-Psychedelic.png",
+    "thumb": "/previews/fold-icon-kusama-Pink-Psychedelic-thumb.webp",
+    "icns": "/icns/fold-icon-kusama-Pink-Psychedelic.icns"
+  },
+  {
+    "slug": "fold-icon-light-Meadow",
+    "rawSeries": "light",
+    "series": "light",
+    "displayName": "Meadow",
+    "preview": "/previews/fold-icon-light-Meadow.png",
+    "thumb": "/previews/fold-icon-light-Meadow-thumb.webp",
+    "icns": "/icns/fold-icon-light-Meadow.icns"
+  },
+  {
+    "slug": "fold-icon-light-Monet",
+    "rawSeries": "light",
+    "series": "light",
+    "displayName": "Monet",
+    "preview": "/previews/fold-icon-light-Monet.png",
+    "thumb": "/previews/fold-icon-light-Monet-thumb.webp",
+    "icns": "/icns/fold-icon-light-Monet.icns"
+  },
+  {
+    "slug": "fold-icon-light-Renoir",
+    "rawSeries": "light",
+    "series": "light",
+    "displayName": "Renoir",
+    "preview": "/previews/fold-icon-light-Renoir.png",
+    "thumb": "/previews/fold-icon-light-Renoir-thumb.webp",
+    "icns": "/icns/fold-icon-light-Renoir.icns"
+  },
+  {
+    "slug": "fold-icon-light-River",
+    "rawSeries": "light",
+    "series": "light",
+    "displayName": "River",
+    "preview": "/previews/fold-icon-light-River.png",
+    "thumb": "/previews/fold-icon-light-River-thumb.webp",
+    "icns": "/icns/fold-icon-light-River.icns"
+  },
+  {
+    "slug": "fold-icon-light-Sunrise",
+    "rawSeries": "light",
+    "series": "light",
+    "displayName": "Sunrise",
+    "preview": "/previews/fold-icon-light-Sunrise.png",
+    "thumb": "/previews/fold-icon-light-Sunrise-thumb.webp",
+    "icns": "/icns/fold-icon-light-Sunrise.icns"
+  },
+  {
+    "slug": "fold-icon-light-Vangogh-Early",
+    "rawSeries": "light",
+    "series": "light",
+    "displayName": "Vangogh Early",
+    "preview": "/previews/fold-icon-light-Vangogh-Early.png",
+    "thumb": "/previews/fold-icon-light-Vangogh-Early-thumb.webp",
+    "icns": "/icns/fold-icon-light-Vangogh-Early.icns"
+  },
+  {
+    "slug": "fold-icon-mac-brushed_metal",
+    "rawSeries": "mac",
+    "series": "mac",
+    "displayName": "Brushed Metal",
+    "preview": "/previews/fold-icon-mac-brushed_metal.png",
+    "thumb": "/previews/fold-icon-mac-brushed_metal-thumb.webp",
+    "icns": "/icns/fold-icon-mac-brushed_metal.icns"
+  },
+  {
+    "slug": "fold-icon-mac-graph_paper",
+    "rawSeries": "mac",
+    "series": "mac",
+    "displayName": "Graph Paper",
+    "preview": "/previews/fold-icon-mac-graph_paper.png",
+    "thumb": "/previews/fold-icon-mac-graph_paper-thumb.webp",
+    "icns": "/icns/fold-icon-mac-graph_paper.icns"
+  },
+  {
+    "slug": "fold-icon-mac-green_felt",
+    "rawSeries": "mac",
+    "series": "mac",
+    "displayName": "Green Felt",
+    "preview": "/previews/fold-icon-mac-green_felt.png",
+    "thumb": "/previews/fold-icon-mac-green_felt-thumb.webp",
+    "icns": "/icns/fold-icon-mac-green_felt.icns"
+  },
+  {
+    "slug": "fold-icon-mac-leather",
+    "rawSeries": "mac",
+    "series": "mac",
+    "displayName": "Leather",
+    "preview": "/previews/fold-icon-mac-leather.png",
+    "thumb": "/previews/fold-icon-mac-leather-thumb.webp",
+    "icns": "/icns/fold-icon-mac-leather.icns"
+  },
+  {
+    "slug": "fold-icon-mac-legal_pad",
+    "rawSeries": "mac",
+    "series": "mac",
+    "displayName": "Legal Pad",
+    "preview": "/previews/fold-icon-mac-legal_pad.png",
+    "thumb": "/previews/fold-icon-mac-legal_pad-thumb.webp",
+    "icns": "/icns/fold-icon-mac-legal_pad.icns"
+  },
+  {
+    "slug": "fold-icon-mac-linen",
+    "rawSeries": "mac",
+    "series": "mac",
+    "displayName": "Linen",
+    "preview": "/previews/fold-icon-mac-linen.png",
+    "thumb": "/previews/fold-icon-mac-linen-thumb.webp",
+    "icns": "/icns/fold-icon-mac-linen.icns"
+  },
+  {
+    "slug": "fold-icon-mac-tangerine",
+    "rawSeries": "mac",
+    "series": "mac",
+    "displayName": "Tangerine",
+    "preview": "/previews/fold-icon-mac-tangerine.png",
+    "thumb": "/previews/fold-icon-mac-tangerine-thumb.webp",
+    "icns": "/icns/fold-icon-mac-tangerine.icns"
+  },
+  {
+    "slug": "fold-icon-mac-tiger_pinstripes",
+    "rawSeries": "mac",
+    "series": "mac",
+    "displayName": "Tiger Pinstripes",
+    "preview": "/previews/fold-icon-mac-tiger_pinstripes.png",
+    "thumb": "/previews/fold-icon-mac-tiger_pinstripes-thumb.webp",
+    "icns": "/icns/fold-icon-mac-tiger_pinstripes.icns"
+  },
+  {
+    "slug": "fold-icon-macos-Mojave",
+    "rawSeries": "macos",
+    "series": "macos",
+    "displayName": "Mojave",
+    "preview": "/previews/fold-icon-macos-Mojave.png",
+    "thumb": "/previews/fold-icon-macos-Mojave-thumb.webp",
+    "icns": "/icns/fold-icon-macos-Mojave.icns"
+  },
+  {
+    "slug": "fold-icon-macos-Sonoma",
+    "rawSeries": "macos",
+    "series": "macos",
+    "displayName": "Sonoma",
+    "preview": "/previews/fold-icon-macos-Sonoma.png",
+    "thumb": "/previews/fold-icon-macos-Sonoma-thumb.webp",
+    "icns": "/icns/fold-icon-macos-Sonoma.icns"
+  },
+  {
+    "slug": "fold-icon-macos-Ventura",
+    "rawSeries": "macos",
+    "series": "macos",
+    "displayName": "Ventura",
+    "preview": "/previews/fold-icon-macos-Ventura.png",
+    "thumb": "/previews/fold-icon-macos-Ventura-thumb.webp",
+    "icns": "/icns/fold-icon-macos-Ventura.icns"
+  },
+  {
+    "slug": "fold-icon-macro-ceramic",
+    "rawSeries": "macro",
+    "series": "macro",
+    "displayName": "Ceramic",
+    "preview": "/previews/fold-icon-macro-ceramic.png",
+    "thumb": "/previews/fold-icon-macro-ceramic-thumb.webp",
+    "icns": "/icns/fold-icon-macro-ceramic.icns"
+  },
+  {
+    "slug": "fold-icon-macro-midnight",
+    "rawSeries": "macro",
+    "series": "macro",
+    "displayName": "Midnight",
+    "preview": "/previews/fold-icon-macro-midnight.png",
+    "thumb": "/previews/fold-icon-macro-midnight-thumb.webp",
+    "icns": "/icns/fold-icon-macro-midnight.icns"
+  },
+  {
+    "slug": "fold-icon-macro-sage",
+    "rawSeries": "macro",
+    "series": "macro",
+    "displayName": "Sage",
+    "preview": "/previews/fold-icon-macro-sage.png",
+    "thumb": "/previews/fold-icon-macro-sage-thumb.webp",
+    "icns": "/icns/fold-icon-macro-sage.icns"
+  },
+  {
+    "slug": "fold-icon-macro-titanium",
+    "rawSeries": "macro",
+    "series": "macro",
+    "displayName": "Titanium",
+    "preview": "/previews/fold-icon-macro-titanium.png",
+    "thumb": "/previews/fold-icon-macro-titanium-thumb.webp",
+    "icns": "/icns/fold-icon-macro-titanium.icns"
+  },
+  {
+    "slug": "fold-icon-matter-Carbon-Fiber",
+    "rawSeries": "matter",
+    "series": "matter",
+    "displayName": "Carbon Fiber",
+    "preview": "/previews/fold-icon-matter-Carbon-Fiber.png",
+    "thumb": "/previews/fold-icon-matter-Carbon-Fiber-thumb.webp",
+    "icns": "/icns/fold-icon-matter-Carbon-Fiber.icns"
+  },
+  {
+    "slug": "fold-icon-matter-Escher-3D",
+    "rawSeries": "matter",
+    "series": "matter",
+    "displayName": "Escher 3D",
+    "preview": "/previews/fold-icon-matter-Escher-3D.png",
+    "thumb": "/previews/fold-icon-matter-Escher-3D-thumb.webp",
+    "icns": "/icns/fold-icon-matter-Escher-3D.icns"
+  },
+  {
+    "slug": "fold-icon-monet-Lily",
+    "rawSeries": "monet",
+    "series": "monet",
+    "displayName": "Lily",
+    "preview": "/previews/fold-icon-monet-Lily.png",
+    "thumb": "/previews/fold-icon-monet-Lily-thumb.webp",
+    "icns": "/icns/fold-icon-monet-Lily.icns"
+  },
+  {
+    "slug": "fold-icon-monet-London",
+    "rawSeries": "monet",
+    "series": "monet",
+    "displayName": "London",
+    "preview": "/previews/fold-icon-monet-London.png",
+    "thumb": "/previews/fold-icon-monet-London-thumb.webp",
+    "icns": "/icns/fold-icon-monet-London.icns"
+  },
+  {
+    "slug": "fold-icon-monet-Poppy",
+    "rawSeries": "monet",
+    "series": "monet",
+    "displayName": "Poppy",
+    "preview": "/previews/fold-icon-monet-Poppy.png",
+    "thumb": "/previews/fold-icon-monet-Poppy-thumb.webp",
+    "icns": "/icns/fold-icon-monet-Poppy.icns"
+  },
+  {
+    "slug": "fold-icon-monet-Rouen",
+    "rawSeries": "monet",
+    "series": "monet",
+    "displayName": "Rouen",
+    "preview": "/previews/fold-icon-monet-Rouen.png",
+    "thumb": "/previews/fold-icon-monet-Rouen-thumb.webp",
+    "icns": "/icns/fold-icon-monet-Rouen.icns"
+  },
+  {
+    "slug": "fold-icon-monet-Sunrise",
+    "rawSeries": "monet",
+    "series": "monet",
+    "displayName": "Sunrise",
+    "preview": "/previews/fold-icon-monet-Sunrise.png",
+    "thumb": "/previews/fold-icon-monet-Sunrise-thumb.webp",
+    "icns": "/icns/fold-icon-monet-Sunrise.icns"
+  },
+  {
+    "slug": "fold-icon-monet-Winter",
+    "rawSeries": "monet",
+    "series": "monet",
+    "displayName": "Winter",
+    "preview": "/previews/fold-icon-monet-Winter.png",
+    "thumb": "/previews/fold-icon-monet-Winter-thumb.webp",
+    "icns": "/icns/fold-icon-monet-Winter.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-AutumnAmber",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "AutumnAmber",
+    "preview": "/previews/fold-icon-morandi-AutumnAmber.png",
+    "thumb": "/previews/fold-icon-morandi-AutumnAmber-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-AutumnAmber.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-DeepOcean",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "DeepOcean",
+    "preview": "/previews/fold-icon-morandi-DeepOcean.png",
+    "thumb": "/previews/fold-icon-morandi-DeepOcean-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-DeepOcean.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-EarthTone",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "EarthTone",
+    "preview": "/previews/fold-icon-morandi-EarthTone.png",
+    "thumb": "/previews/fold-icon-morandi-EarthTone-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-EarthTone.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-ForestMist",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "ForestMist",
+    "preview": "/previews/fold-icon-morandi-ForestMist.png",
+    "thumb": "/previews/fold-icon-morandi-ForestMist-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-ForestMist.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-GlacierBlue",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "GlacierBlue",
+    "preview": "/previews/fold-icon-morandi-GlacierBlue.png",
+    "thumb": "/previews/fold-icon-morandi-GlacierBlue-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-GlacierBlue.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-LavenderFields",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "LavenderFields",
+    "preview": "/previews/fold-icon-morandi-LavenderFields.png",
+    "thumb": "/previews/fold-icon-morandi-LavenderFields-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-LavenderFields.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-MatchaLatte",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "MatchaLatte",
+    "preview": "/previews/fold-icon-morandi-MatchaLatte.png",
+    "thumb": "/previews/fold-icon-morandi-MatchaLatte-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-MatchaLatte.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-MidnightBerry",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "MidnightBerry",
+    "preview": "/previews/fold-icon-morandi-MidnightBerry.png",
+    "thumb": "/previews/fold-icon-morandi-MidnightBerry-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-MidnightBerry.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-SakuraPetals",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "SakuraPetals",
+    "preview": "/previews/fold-icon-morandi-SakuraPetals.png",
+    "thumb": "/previews/fold-icon-morandi-SakuraPetals-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-SakuraPetals.icns"
+  },
+  {
+    "slug": "fold-icon-morandi-WarmSunset",
+    "rawSeries": "morandi",
+    "series": "morandi",
+    "displayName": "WarmSunset",
+    "preview": "/previews/fold-icon-morandi-WarmSunset.png",
+    "thumb": "/previews/fold-icon-morandi-WarmSunset-thumb.webp",
+    "icns": "/icns/fold-icon-morandi-WarmSunset.icns"
+  },
+  {
+    "slug": "fold-icon-mosaic-Chuck",
+    "rawSeries": "mosaic",
+    "series": "mosaic",
+    "displayName": "Chuck",
+    "preview": "/previews/fold-icon-mosaic-Chuck.png",
+    "thumb": "/previews/fold-icon-mosaic-Chuck-thumb.webp",
+    "icns": "/icns/fold-icon-mosaic-Chuck.icns"
+  },
+  {
+    "slug": "fold-icon-mosaic-Glitch",
+    "rawSeries": "mosaic",
+    "series": "mosaic",
+    "displayName": "Glitch",
+    "preview": "/previews/fold-icon-mosaic-Glitch.png",
+    "thumb": "/previews/fold-icon-mosaic-Glitch-thumb.webp",
+    "icns": "/icns/fold-icon-mosaic-Glitch.icns"
+  },
+  {
+    "slug": "fold-icon-mosaic-Invader",
+    "rawSeries": "mosaic",
+    "series": "mosaic",
+    "displayName": "Invader",
+    "preview": "/previews/fold-icon-mosaic-Invader.png",
+    "thumb": "/previews/fold-icon-mosaic-Invader-thumb.webp",
+    "icns": "/icns/fold-icon-mosaic-Invader.icns"
+  },
+  {
+    "slug": "fold-icon-mosaic-Seurat",
+    "rawSeries": "mosaic",
+    "series": "mosaic",
+    "displayName": "Seurat",
+    "preview": "/previews/fold-icon-mosaic-Seurat.png",
+    "thumb": "/previews/fold-icon-mosaic-Seurat-thumb.webp",
+    "icns": "/icns/fold-icon-mosaic-Seurat.icns"
+  },
+  {
+    "slug": "fold-icon-mosaic-Spectrum",
+    "rawSeries": "mosaic",
+    "series": "mosaic",
+    "displayName": "Spectrum",
+    "preview": "/previews/fold-icon-mosaic-Spectrum.png",
+    "thumb": "/previews/fold-icon-mosaic-Spectrum-thumb.webp",
+    "icns": "/icns/fold-icon-mosaic-Spectrum.icns"
+  },
+  {
+    "slug": "fold-icon-mosaic-Thermal",
+    "rawSeries": "mosaic",
+    "series": "mosaic",
+    "displayName": "Thermal",
+    "preview": "/previews/fold-icon-mosaic-Thermal.png",
+    "thumb": "/previews/fold-icon-mosaic-Thermal-thumb.webp",
+    "icns": "/icns/fold-icon-mosaic-Thermal.icns"
+  },
+  {
+    "slug": "fold-icon-muji-Cedar",
+    "rawSeries": "muji",
+    "series": "muji",
+    "displayName": "Cedar",
+    "preview": "/previews/fold-icon-muji-Cedar.png",
+    "thumb": "/previews/fold-icon-muji-Cedar-thumb.webp",
+    "icns": "/icns/fold-icon-muji-Cedar.icns"
+  },
+  {
+    "slug": "fold-icon-muji-Dots",
+    "rawSeries": "muji",
+    "series": "muji",
+    "displayName": "Dots",
+    "preview": "/previews/fold-icon-muji-Dots.png",
+    "thumb": "/previews/fold-icon-muji-Dots-thumb.webp",
+    "icns": "/icns/fold-icon-muji-Dots.icns"
+  },
+  {
+    "slug": "fold-icon-muji-Grid",
+    "rawSeries": "muji",
+    "series": "muji",
+    "displayName": "Grid",
+    "preview": "/previews/fold-icon-muji-Grid.png",
+    "thumb": "/previews/fold-icon-muji-Grid-thumb.webp",
+    "icns": "/icns/fold-icon-muji-Grid.icns"
+  },
+  {
+    "slug": "fold-icon-nature-moon",
+    "rawSeries": "nature",
+    "series": "nature",
+    "displayName": "Moon",
+    "preview": "/previews/fold-icon-nature-moon.png",
+    "thumb": "/previews/fold-icon-nature-moon-thumb.webp",
+    "icns": "/icns/fold-icon-nature-moon.icns"
+  },
+  {
+    "slug": "fold-icon-nature-ripple",
+    "rawSeries": "nature",
+    "series": "nature",
+    "displayName": "Ripple",
+    "preview": "/previews/fold-icon-nature-ripple.png",
+    "thumb": "/previews/fold-icon-nature-ripple-thumb.webp",
+    "icns": "/icns/fold-icon-nature-ripple.icns"
+  },
+  {
+    "slug": "fold-icon-nature-stone",
+    "rawSeries": "nature",
+    "series": "nature",
+    "displayName": "Stone",
+    "preview": "/previews/fold-icon-nature-stone.png",
+    "thumb": "/previews/fold-icon-nature-stone-thumb.webp",
+    "icns": "/icns/fold-icon-nature-stone.icns"
+  },
+  {
+    "slug": "fold-icon-new-Basquiat",
+    "rawSeries": "new",
+    "series": "new",
+    "displayName": "Basquiat",
+    "preview": "/previews/fold-icon-new-Basquiat.png",
+    "thumb": "/previews/fold-icon-new-Basquiat-thumb.webp",
+    "icns": "/icns/fold-icon-new-Basquiat.icns"
+  },
+  {
+    "slug": "fold-icon-new-Memphis",
+    "rawSeries": "new",
+    "series": "new",
+    "displayName": "Memphis",
+    "preview": "/previews/fold-icon-new-Memphis.png",
+    "thumb": "/previews/fold-icon-new-Memphis-thumb.webp",
+    "icns": "/icns/fold-icon-new-Memphis.icns"
+  },
+  {
+    "slug": "fold-icon-new-Rodchenko",
+    "rawSeries": "new",
+    "series": "new",
+    "displayName": "Rodchenko",
+    "preview": "/previews/fold-icon-new-Rodchenko.png",
+    "thumb": "/previews/fold-icon-new-Rodchenko-thumb.webp",
+    "icns": "/icns/fold-icon-new-Rodchenko.icns"
+  },
+  {
+    "slug": "fold-icon-new-Tribal",
+    "rawSeries": "new",
+    "series": "new",
+    "displayName": "Tribal",
+    "preview": "/previews/fold-icon-new-Tribal.png",
+    "thumb": "/previews/fold-icon-new-Tribal-thumb.webp",
+    "icns": "/icns/fold-icon-new-Tribal.icns"
+  },
+  {
+    "slug": "fold-icon-newson-Apple",
+    "rawSeries": "newson",
+    "series": "newson",
+    "displayName": "Apple",
+    "preview": "/previews/fold-icon-newson-Apple.png",
+    "thumb": "/previews/fold-icon-newson-Apple-thumb.webp",
+    "icns": "/icns/fold-icon-newson-Apple.icns"
+  },
+  {
+    "slug": "fold-icon-newson-Berluti",
+    "rawSeries": "newson",
+    "series": "newson",
+    "displayName": "Berluti",
+    "preview": "/previews/fold-icon-newson-Berluti.png",
+    "thumb": "/previews/fold-icon-newson-Berluti-thumb.webp",
+    "icns": "/icns/fold-icon-newson-Berluti.icns"
+  },
+  {
+    "slug": "fold-icon-newson-charcoal",
+    "rawSeries": "newson",
+    "series": "newson",
+    "displayName": "Charcoal",
+    "preview": "/previews/fold-icon-newson-charcoal.png",
+    "thumb": "/previews/fold-icon-newson-charcoal-thumb.webp",
+    "icns": "/icns/fold-icon-newson-charcoal.icns"
+  },
+  {
+    "slug": "fold-icon-newson-Lockheed",
+    "rawSeries": "newson",
+    "series": "newson",
+    "displayName": "Lockheed",
+    "preview": "/previews/fold-icon-newson-Lockheed.png",
+    "thumb": "/previews/fold-icon-newson-Lockheed-thumb.webp",
+    "icns": "/icns/fold-icon-newson-Lockheed.icns"
+  },
+  {
+    "slug": "fold-icon-newson-Pentax",
+    "rawSeries": "newson",
+    "series": "newson",
+    "displayName": "Pentax",
+    "preview": "/previews/fold-icon-newson-Pentax.png",
+    "thumb": "/previews/fold-icon-newson-Pentax-thumb.webp",
+    "icns": "/icns/fold-icon-newson-Pentax.icns"
+  },
+  {
+    "slug": "fold-icon-newson-Zvezdochka",
+    "rawSeries": "newson",
+    "series": "newson",
+    "displayName": "Zvezdochka",
+    "preview": "/previews/fold-icon-newson-Zvezdochka.png",
+    "thumb": "/previews/fold-icon-newson-Zvezdochka-thumb.webp",
+    "icns": "/icns/fold-icon-newson-Zvezdochka.icns"
+  },
+  {
+    "slug": "fold-icon-norman-PeachWarmth",
+    "rawSeries": "norman",
+    "series": "norman",
+    "displayName": "PeachWarmth",
+    "preview": "/previews/fold-icon-norman-PeachWarmth.png",
+    "thumb": "/previews/fold-icon-norman-PeachWarmth-thumb.webp",
+    "icns": "/icns/fold-icon-norman-PeachWarmth.icns"
+  },
+  {
+    "slug": "fold-icon-norman-TealTrust",
+    "rawSeries": "norman",
+    "series": "norman",
+    "displayName": "TealTrust",
+    "preview": "/previews/fold-icon-norman-TealTrust.png",
+    "thumb": "/previews/fold-icon-norman-TealTrust-thumb.webp",
+    "icns": "/icns/fold-icon-norman-TealTrust.icns"
+  },
+  {
+    "slug": "fold-icon-norman-VisceralGlow",
+    "rawSeries": "norman",
+    "series": "norman",
+    "displayName": "VisceralGlow",
+    "preview": "/previews/fold-icon-norman-VisceralGlow.png",
+    "thumb": "/previews/fold-icon-norman-VisceralGlow-thumb.webp",
+    "icns": "/icns/fold-icon-norman-VisceralGlow.icns"
+  },
+  {
+    "slug": "fold-icon-nothing-Industrial",
+    "rawSeries": "nothing",
+    "series": "nothing",
+    "displayName": "Industrial",
+    "preview": "/previews/fold-icon-nothing-Industrial.png",
+    "thumb": "/previews/fold-icon-nothing-Industrial-thumb.webp",
+    "icns": "/icns/fold-icon-nothing-Industrial.icns"
+  },
+  {
+    "slug": "fold-icon-nothing-Red",
+    "rawSeries": "nothing",
+    "series": "nothing",
+    "displayName": "Red",
+    "preview": "/previews/fold-icon-nothing-Red.png",
+    "thumb": "/previews/fold-icon-nothing-Red-thumb.webp",
+    "icns": "/icns/fold-icon-nothing-Red.icns"
+  },
+  {
+    "slug": "fold-icon-nothing-Transparent",
+    "rawSeries": "nothing",
+    "series": "nothing",
+    "displayName": "Transparent",
+    "preview": "/previews/fold-icon-nothing-Transparent.png",
+    "thumb": "/previews/fold-icon-nothing-Transparent-thumb.webp",
+    "icns": "/icns/fold-icon-nothing-Transparent.icns"
+  },
+  {
+    "slug": "fold-icon-nothing-White",
+    "rawSeries": "nothing",
+    "series": "nothing",
+    "displayName": "White",
+    "preview": "/previews/fold-icon-nothing-White.png",
+    "thumb": "/previews/fold-icon-nothing-White-thumb.webp",
+    "icns": "/icns/fold-icon-nothing-White.icns"
+  },
+  {
+    "slug": "fold-icon-nyc-a-train",
+    "rawSeries": "nyc",
+    "series": "nyc",
+    "displayName": "A Train",
+    "preview": "/previews/fold-icon-nyc-a-train.png",
+    "thumb": "/previews/fold-icon-nyc-a-train-thumb.webp",
+    "icns": "/icns/fold-icon-nyc-a-train.icns"
+  },
+  {
+    "slug": "fold-icon-nyc-exit",
+    "rawSeries": "nyc",
+    "series": "nyc",
+    "displayName": "Exit",
+    "preview": "/previews/fold-icon-nyc-exit.png",
+    "thumb": "/previews/fold-icon-nyc-exit-thumb.webp",
+    "icns": "/icns/fold-icon-nyc-exit.icns"
+  },
+  {
+    "slug": "fold-icon-nyc-express",
+    "rawSeries": "nyc",
+    "series": "nyc",
+    "displayName": "Express",
+    "preview": "/previews/fold-icon-nyc-express.png",
+    "thumb": "/previews/fold-icon-nyc-express-thumb.webp",
+    "icns": "/icns/fold-icon-nyc-express.icns"
+  },
+  {
+    "slug": "fold-icon-nyc-map",
+    "rawSeries": "nyc",
+    "series": "nyc",
+    "displayName": "Map",
+    "preview": "/previews/fold-icon-nyc-map.png",
+    "thumb": "/previews/fold-icon-nyc-map-thumb.webp",
+    "icns": "/icns/fold-icon-nyc-map.icns"
+  },
+  {
+    "slug": "fold-icon-nyc-steel",
+    "rawSeries": "nyc",
+    "series": "nyc",
+    "displayName": "Steel",
+    "preview": "/previews/fold-icon-nyc-steel.png",
+    "thumb": "/previews/fold-icon-nyc-steel-thumb.webp",
+    "icns": "/icns/fold-icon-nyc-steel.icns"
+  },
+  {
+    "slug": "fold-icon-nyc-tiles",
+    "rawSeries": "nyc",
+    "series": "nyc",
+    "displayName": "Tiles",
+    "preview": "/previews/fold-icon-nyc-tiles.png",
+    "thumb": "/previews/fold-icon-nyc-tiles-thumb.webp",
+    "icns": "/icns/fold-icon-nyc-tiles.icns"
+  },
+  {
+    "slug": "fold-icon-paige-Bloom",
+    "rawSeries": "paige",
+    "series": "paige",
+    "displayName": "Bloom",
+    "preview": "/previews/fold-icon-paige-Bloom.png",
+    "thumb": "/previews/fold-icon-paige-Bloom-thumb.webp",
+    "icns": "/icns/fold-icon-paige-Bloom.icns"
+  },
+  {
+    "slug": "fold-icon-paige-Indigo",
+    "rawSeries": "paige",
+    "series": "paige",
+    "displayName": "Indigo",
+    "preview": "/previews/fold-icon-paige-Indigo.png",
+    "thumb": "/previews/fold-icon-paige-Indigo-thumb.webp",
+    "icns": "/icns/fold-icon-paige-Indigo.icns"
+  },
+  {
+    "slug": "fold-icon-paige-UrbanGeo",
+    "rawSeries": "paige",
+    "series": "paige",
+    "displayName": "UrbanGeo",
+    "preview": "/previews/fold-icon-paige-UrbanGeo.png",
+    "thumb": "/previews/fold-icon-paige-UrbanGeo-thumb.webp",
+    "icns": "/icns/fold-icon-paige-UrbanGeo.icns"
+  },
+  {
+    "slug": "fold-icon-palace-Mosaic-Mint",
+    "rawSeries": "palace",
+    "series": "palace",
+    "displayName": "Mosaic Mint",
+    "preview": "/previews/fold-icon-palace-Mosaic-Mint.png",
+    "thumb": "/previews/fold-icon-palace-Mosaic-Mint-thumb.webp",
+    "icns": "/icns/fold-icon-palace-Mosaic-Mint.icns"
+  },
+  {
+    "slug": "fold-icon-palace-Mosaic-Rose",
+    "rawSeries": "palace",
+    "series": "palace",
+    "displayName": "Mosaic Rose",
+    "preview": "/previews/fold-icon-palace-Mosaic-Rose.png",
+    "thumb": "/previews/fold-icon-palace-Mosaic-Rose-thumb.webp",
+    "icns": "/icns/fold-icon-palace-Mosaic-Rose.icns"
+  },
+  {
+    "slug": "fold-icon-palace-Mosaic-Royal",
+    "rawSeries": "palace",
+    "series": "palace",
+    "displayName": "Mosaic Royal",
+    "preview": "/previews/fold-icon-palace-Mosaic-Royal.png",
+    "thumb": "/previews/fold-icon-palace-Mosaic-Royal-thumb.webp",
+    "icns": "/icns/fold-icon-palace-Mosaic-Royal.icns"
+  },
+  {
+    "slug": "fold-icon-pata-Ripstop",
+    "rawSeries": "pata",
+    "series": "pata",
+    "displayName": "Ripstop",
+    "preview": "/previews/fold-icon-pata-Ripstop.png",
+    "thumb": "/previews/fold-icon-pata-Ripstop-thumb.webp",
+    "icns": "/icns/fold-icon-pata-Ripstop.icns"
+  },
+  {
+    "slug": "fold-icon-pata-Topo",
+    "rawSeries": "pata",
+    "series": "pata",
+    "displayName": "Topo",
+    "preview": "/previews/fold-icon-pata-Topo.png",
+    "thumb": "/previews/fold-icon-pata-Topo-thumb.webp",
+    "icns": "/icns/fold-icon-pata-Topo.icns"
+  },
+  {
+    "slug": "fold-icon-pcb-premium-ceramic",
+    "rawSeries": "pcb",
+    "series": "pcb",
+    "displayName": "Premium Ceramic",
+    "preview": "/previews/fold-icon-pcb-premium-ceramic.png",
+    "thumb": "/previews/fold-icon-pcb-premium-ceramic-thumb.webp",
+    "icns": "/icns/fold-icon-pcb-premium-ceramic.icns"
+  },
+  {
+    "slug": "fold-icon-pcb-premium-midnight",
+    "rawSeries": "pcb",
+    "series": "pcb",
+    "displayName": "Premium Midnight",
+    "preview": "/previews/fold-icon-pcb-premium-midnight.png",
+    "thumb": "/previews/fold-icon-pcb-premium-midnight-thumb.webp",
+    "icns": "/icns/fold-icon-pcb-premium-midnight.icns"
+  },
+  {
+    "slug": "fold-icon-pcb-premium-sage",
+    "rawSeries": "pcb",
+    "series": "pcb",
+    "displayName": "Premium Sage",
+    "preview": "/previews/fold-icon-pcb-premium-sage.png",
+    "thumb": "/previews/fold-icon-pcb-premium-sage-thumb.webp",
+    "icns": "/icns/fold-icon-pcb-premium-sage.icns"
+  },
+  {
+    "slug": "fold-icon-pcb-premium-starlight",
+    "rawSeries": "pcb",
+    "series": "pcb",
+    "displayName": "Premium Starlight",
+    "preview": "/previews/fold-icon-pcb-premium-starlight.png",
+    "thumb": "/previews/fold-icon-pcb-premium-starlight-thumb.webp",
+    "icns": "/icns/fold-icon-pcb-premium-starlight.icns"
+  },
+  {
+    "slug": "fold-icon-pcb-premium-titanium",
+    "rawSeries": "pcb",
+    "series": "pcb",
+    "displayName": "Premium Titanium",
+    "preview": "/previews/fold-icon-pcb-premium-titanium.png",
+    "thumb": "/previews/fold-icon-pcb-premium-titanium-thumb.webp",
+    "icns": "/icns/fold-icon-pcb-premium-titanium.icns"
+  },
+  {
+    "slug": "fold-icon-pei-Fragrant-Hill",
+    "rawSeries": "pei",
+    "series": "pei",
+    "displayName": "Fragrant Hill",
+    "preview": "/previews/fold-icon-pei-Fragrant-Hill.png",
+    "thumb": "/previews/fold-icon-pei-Fragrant-Hill-thumb.webp",
+    "icns": "/icns/fold-icon-pei-Fragrant-Hill.icns"
+  },
+  {
+    "slug": "fold-icon-pei-Louvre-Pyramid",
+    "rawSeries": "pei",
+    "series": "pei",
+    "displayName": "Louvre Pyramid",
+    "preview": "/previews/fold-icon-pei-Louvre-Pyramid.png",
+    "thumb": "/previews/fold-icon-pei-Louvre-Pyramid-thumb.webp",
+    "icns": "/icns/fold-icon-pei-Louvre-Pyramid.icns"
+  },
+  {
+    "slug": "fold-icon-pei-Miho-Bridge",
+    "rawSeries": "pei",
+    "series": "pei",
+    "displayName": "Miho Bridge",
+    "preview": "/previews/fold-icon-pei-Miho-Bridge.png",
+    "thumb": "/previews/fold-icon-pei-Miho-Bridge-thumb.webp",
+    "icns": "/icns/fold-icon-pei-Miho-Bridge.icns"
+  },
+  {
+    "slug": "fold-icon-pei-NG-East",
+    "rawSeries": "pei",
+    "series": "pei",
+    "displayName": "NG East",
+    "preview": "/previews/fold-icon-pei-NG-East.png",
+    "thumb": "/previews/fold-icon-pei-NG-East-thumb.webp",
+    "icns": "/icns/fold-icon-pei-NG-East.icns"
+  },
+  {
+    "slug": "fold-icon-philosophy-Bauhaus_Structure",
+    "rawSeries": "philosophy",
+    "series": "philosophy",
+    "displayName": "Bauhaus Structure",
+    "preview": "/previews/fold-icon-philosophy-Bauhaus_Structure.png",
+    "thumb": "/previews/fold-icon-philosophy-Bauhaus_Structure-thumb.webp",
+    "icns": "/icns/fold-icon-philosophy-Bauhaus_Structure.icns"
+  },
+  {
+    "slug": "fold-icon-philosophy-Bauhaus_Typography",
+    "rawSeries": "philosophy",
+    "series": "philosophy",
+    "displayName": "Bauhaus Typography",
+    "preview": "/previews/fold-icon-philosophy-Bauhaus_Typography.png",
+    "thumb": "/previews/fold-icon-philosophy-Bauhaus_Typography-thumb.webp",
+    "icns": "/icns/fold-icon-philosophy-Bauhaus_Typography.icns"
+  },
+  {
+    "slug": "fold-icon-philosophy-Gestalt_Closure",
+    "rawSeries": "philosophy",
+    "series": "philosophy",
+    "displayName": "Gestalt Closure",
+    "preview": "/previews/fold-icon-philosophy-Gestalt_Closure.png",
+    "thumb": "/previews/fold-icon-philosophy-Gestalt_Closure-thumb.webp",
+    "icns": "/icns/fold-icon-philosophy-Gestalt_Closure.icns"
+  },
+  {
+    "slug": "fold-icon-philosophy-Gestalt_Proximity",
+    "rawSeries": "philosophy",
+    "series": "philosophy",
+    "displayName": "Gestalt Proximity",
+    "preview": "/previews/fold-icon-philosophy-Gestalt_Proximity.png",
+    "thumb": "/previews/fold-icon-philosophy-Gestalt_Proximity-thumb.webp",
+    "icns": "/icns/fold-icon-philosophy-Gestalt_Proximity.icns"
+  },
+  {
+    "slug": "fold-icon-philosophy-Gestalt_Similarity",
+    "rawSeries": "philosophy",
+    "series": "philosophy",
+    "displayName": "Gestalt Similarity",
+    "preview": "/previews/fold-icon-philosophy-Gestalt_Similarity.png",
+    "thumb": "/previews/fold-icon-philosophy-Gestalt_Similarity-thumb.webp",
+    "icns": "/icns/fold-icon-philosophy-Gestalt_Similarity.icns"
+  },
+  {
+    "slug": "fold-icon-philosophy-WabiSabi_Enso",
+    "rawSeries": "philosophy",
+    "series": "philosophy",
+    "displayName": "WabiSabi Enso",
+    "preview": "/previews/fold-icon-philosophy-WabiSabi_Enso.png",
+    "thumb": "/previews/fold-icon-philosophy-WabiSabi_Enso-thumb.webp",
+    "icns": "/icns/fold-icon-philosophy-WabiSabi_Enso.icns"
+  },
+  {
+    "slug": "fold-icon-philosophy-WabiSabi_TeaStain",
+    "rawSeries": "philosophy",
+    "series": "philosophy",
+    "displayName": "WabiSabi TeaStain",
+    "preview": "/previews/fold-icon-philosophy-WabiSabi_TeaStain.png",
+    "thumb": "/previews/fold-icon-philosophy-WabiSabi_TeaStain-thumb.webp",
+    "icns": "/icns/fold-icon-philosophy-WabiSabi_TeaStain.icns"
+  },
+  {
+    "slug": "fold-icon-philosophy-WabiSabi_Woodgrain",
+    "rawSeries": "philosophy",
+    "series": "philosophy",
+    "displayName": "WabiSabi Woodgrain",
+    "preview": "/previews/fold-icon-philosophy-WabiSabi_Woodgrain.png",
+    "thumb": "/previews/fold-icon-philosophy-WabiSabi_Woodgrain-thumb.webp",
+    "icns": "/icns/fold-icon-philosophy-WabiSabi_Woodgrain.icns"
+  },
+  {
+    "slug": "fold-icon-pop-Comic-Bold",
+    "rawSeries": "pop",
+    "series": "pop",
+    "displayName": "Comic Bold",
+    "preview": "/previews/fold-icon-pop-Comic-Bold.png",
+    "thumb": "/previews/fold-icon-pop-Comic-Bold-thumb.webp",
+    "icns": "/icns/fold-icon-pop-Comic-Bold.icns"
+  },
+  {
+    "slug": "fold-icon-pop-Dot-Grad",
+    "rawSeries": "pop",
+    "series": "pop",
+    "displayName": "Dot Grad",
+    "preview": "/previews/fold-icon-pop-Dot-Grad.png",
+    "thumb": "/previews/fold-icon-pop-Dot-Grad-thumb.webp",
+    "icns": "/icns/fold-icon-pop-Dot-Grad.icns"
+  },
+  {
+    "slug": "fold-icon-pop-Lichtenstein-Dots",
+    "rawSeries": "pop",
+    "series": "pop",
+    "displayName": "Lichtenstein Dots",
+    "preview": "/previews/fold-icon-pop-Lichtenstein-Dots.png",
+    "thumb": "/previews/fold-icon-pop-Lichtenstein-Dots-thumb.webp",
+    "icns": "/icns/fold-icon-pop-Lichtenstein-Dots.icns"
+  },
+  {
+    "slug": "fold-icon-pop-McFetridge-Organic",
+    "rawSeries": "pop",
+    "series": "pop",
+    "displayName": "McFetridge Organic",
+    "preview": "/previews/fold-icon-pop-McFetridge-Organic.png",
+    "thumb": "/previews/fold-icon-pop-McFetridge-Organic-thumb.webp",
+    "icns": "/icns/fold-icon-pop-McFetridge-Organic.icns"
+  },
+  {
+    "slug": "fold-icon-power-Ando",
+    "rawSeries": "power",
+    "series": "power",
+    "displayName": "Ando",
+    "preview": "/previews/fold-icon-power-Ando.png",
+    "thumb": "/previews/fold-icon-power-Ando-thumb.webp",
+    "icns": "/icns/fold-icon-power-Ando.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Basalt",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Basalt",
+    "preview": "/previews/fold-icon-pure-Basalt.png",
+    "thumb": "/previews/fold-icon-pure-Basalt-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Basalt.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Chuck",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Chuck",
+    "preview": "/previews/fold-icon-pure-Chuck.png",
+    "thumb": "/previews/fold-icon-pure-Chuck-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Chuck.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Grid",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Grid",
+    "preview": "/previews/fold-icon-pure-Grid.png",
+    "thumb": "/previews/fold-icon-pure-Grid-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Grid.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Milk",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Milk",
+    "preview": "/previews/fold-icon-pure-Milk.png",
+    "thumb": "/previews/fold-icon-pure-Milk-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Milk.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Sage",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Sage",
+    "preview": "/previews/fold-icon-pure-Sage.png",
+    "thumb": "/previews/fold-icon-pure-Sage-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Sage.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Sand",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Sand",
+    "preview": "/previews/fold-icon-pure-Sand.png",
+    "thumb": "/previews/fold-icon-pure-Sand-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Sand.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Seurat",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Seurat",
+    "preview": "/previews/fold-icon-pure-Seurat.png",
+    "thumb": "/previews/fold-icon-pure-Seurat-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Seurat.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Spectrum",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Spectrum",
+    "preview": "/previews/fold-icon-pure-Spectrum.png",
+    "thumb": "/previews/fold-icon-pure-Spectrum-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Spectrum.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Storm",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Storm",
+    "preview": "/previews/fold-icon-pure-Storm.png",
+    "thumb": "/previews/fold-icon-pure-Storm-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Storm.icns"
+  },
+  {
+    "slug": "fold-icon-pure-Terracotta",
+    "rawSeries": "pure",
+    "series": "pure",
+    "displayName": "Terracotta",
+    "preview": "/previews/fold-icon-pure-Terracotta.png",
+    "thumb": "/previews/fold-icon-pure-Terracotta-thumb.webp",
+    "icns": "/icns/fold-icon-pure-Terracotta.icns"
+  },
+  {
+    "slug": "fold-icon-rainbow-morandi",
+    "rawSeries": "rainbow",
+    "series": "rainbow",
+    "displayName": "Morandi",
+    "preview": "/previews/fold-icon-rainbow-morandi.png",
+    "thumb": "/previews/fold-icon-rainbow-morandi-thumb.webp",
+    "icns": "/icns/fold-icon-rainbow-morandi.icns"
+  },
+  {
+    "slug": "fold-icon-rainbow-texture-Grain",
+    "rawSeries": "rainbow",
+    "series": "rainbow",
+    "displayName": "Texture Grain",
+    "preview": "/previews/fold-icon-rainbow-texture-Grain.png",
+    "thumb": "/previews/fold-icon-rainbow-texture-Grain-thumb.webp",
+    "icns": "/icns/fold-icon-rainbow-texture-Grain.icns"
+  },
+  {
+    "slug": "fold-icon-rainbow-texture-Pixels",
+    "rawSeries": "rainbow",
+    "series": "rainbow",
+    "displayName": "Texture Pixels",
+    "preview": "/previews/fold-icon-rainbow-texture-Pixels.png",
+    "thumb": "/previews/fold-icon-rainbow-texture-Pixels-thumb.webp",
+    "icns": "/icns/fold-icon-rainbow-texture-Pixels.icns"
+  },
+  {
+    "slug": "fold-icon-rainbow-texture-Prism",
+    "rawSeries": "rainbow",
+    "series": "rainbow",
+    "displayName": "Texture Prism",
+    "preview": "/previews/fold-icon-rainbow-texture-Prism.png",
+    "thumb": "/previews/fold-icon-rainbow-texture-Prism-thumb.webp",
+    "icns": "/icns/fold-icon-rainbow-texture-Prism.icns"
+  },
+  {
+    "slug": "fold-icon-rainbow-texture-Silk",
+    "rawSeries": "rainbow",
+    "series": "rainbow",
+    "displayName": "Texture Silk",
+    "preview": "/previews/fold-icon-rainbow-texture-Silk.png",
+    "thumb": "/previews/fold-icon-rainbow-texture-Silk-thumb.webp",
+    "icns": "/icns/fold-icon-rainbow-texture-Silk.icns"
+  },
+  {
+    "slug": "fold-icon-rainbow-texture-Stripes",
+    "rawSeries": "rainbow",
+    "series": "rainbow",
+    "displayName": "Texture Stripes",
+    "preview": "/previews/fold-icon-rainbow-texture-Stripes.png",
+    "thumb": "/previews/fold-icon-rainbow-texture-Stripes-thumb.webp",
+    "icns": "/icns/fold-icon-rainbow-texture-Stripes.icns"
+  },
+  {
+    "slug": "fold-icon-rams-606",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "606",
+    "preview": "/previews/fold-icon-rams-606.png",
+    "thumb": "/previews/fold-icon-rams-606-thumb.webp",
+    "icns": "/icns/fold-icon-rams-606.icns"
+  },
+  {
+    "slug": "fold-icon-rams-atelier-flat",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Atelier Flat",
+    "preview": "/previews/fold-icon-rams-atelier-flat.png",
+    "thumb": "/previews/fold-icon-rams-atelier-flat-thumb.webp",
+    "icns": "/icns/fold-icon-rams-atelier-flat.icns"
+  },
+  {
+    "slug": "fold-icon-rams-et66",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Et66",
+    "preview": "/previews/fold-icon-rams-et66.png",
+    "thumb": "/previews/fold-icon-rams-et66-thumb.webp",
+    "icns": "/icns/fold-icon-rams-et66.icns"
+  },
+  {
+    "slug": "fold-icon-rams-et66-flat",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Et66 Flat",
+    "preview": "/previews/fold-icon-rams-et66-flat.png",
+    "thumb": "/previews/fold-icon-rams-et66-flat-thumb.webp",
+    "icns": "/icns/fold-icon-rams-et66-flat.icns"
+  },
+  {
+    "slug": "fold-icon-rams-Functionalist",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Functionalist",
+    "preview": "/previews/fold-icon-rams-Functionalist.png",
+    "thumb": "/previews/fold-icon-rams-Functionalist-thumb.webp",
+    "icns": "/icns/fold-icon-rams-Functionalist.icns"
+  },
+  {
+    "slug": "fold-icon-rams-hl1-flat",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Hl1 Flat",
+    "preview": "/previews/fold-icon-rams-hl1-flat.png",
+    "thumb": "/previews/fold-icon-rams-hl1-flat-thumb.webp",
+    "icns": "/icns/fold-icon-rams-hl1-flat.icns"
+  },
+  {
+    "slug": "fold-icon-rams-point-flat",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Point Flat",
+    "preview": "/previews/fold-icon-rams-point-flat.png",
+    "thumb": "/previews/fold-icon-rams-point-flat-thumb.webp",
+    "icns": "/icns/fold-icon-rams-point-flat.icns"
+  },
+  {
+    "slug": "fold-icon-rams-pure-IndustrialVent",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Pure IndustrialVent",
+    "preview": "/previews/fold-icon-rams-pure-IndustrialVent.png",
+    "thumb": "/previews/fold-icon-rams-pure-IndustrialVent-thumb.webp",
+    "icns": "/icns/fold-icon-rams-pure-IndustrialVent.icns"
+  },
+  {
+    "slug": "fold-icon-rams-pure-System606",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Pure System606",
+    "preview": "/previews/fold-icon-rams-pure-System606.png",
+    "thumb": "/previews/fold-icon-rams-pure-System606-thumb.webp",
+    "icns": "/icns/fold-icon-rams-pure-System606.icns"
+  },
+  {
+    "slug": "fold-icon-rams-pure-TP1Radio",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Pure TP1Radio",
+    "preview": "/previews/fold-icon-rams-pure-TP1Radio.png",
+    "thumb": "/previews/fold-icon-rams-pure-TP1Radio-thumb.webp",
+    "icns": "/icns/fold-icon-rams-pure-TP1Radio.icns"
+  },
+  {
+    "slug": "fold-icon-rams-sk4-flat",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "Sk4 Flat",
+    "preview": "/previews/fold-icon-rams-sk4-flat.png",
+    "thumb": "/previews/fold-icon-rams-sk4-flat-thumb.webp",
+    "icns": "/icns/fold-icon-rams-sk4-flat.icns"
+  },
+  {
+    "slug": "fold-icon-rams-t3-flat",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "T3 Flat",
+    "preview": "/previews/fold-icon-rams-t3-flat.png",
+    "thumb": "/previews/fold-icon-rams-t3-flat-thumb.webp",
+    "icns": "/icns/fold-icon-rams-t3-flat.icns"
+  },
+  {
+    "slug": "fold-icon-rams-VentGrid",
+    "rawSeries": "rams",
+    "series": "rams",
+    "displayName": "VentGrid",
+    "preview": "/previews/fold-icon-rams-VentGrid.png",
+    "thumb": "/previews/fold-icon-rams-VentGrid-thumb.webp",
+    "icns": "/icns/fold-icon-rams-VentGrid.icns"
+  },
+  {
+    "slug": "fold-icon-rand-IBM_Staccato",
+    "rawSeries": "rand",
+    "series": "rand",
+    "displayName": "IBM Staccato",
+    "preview": "/previews/fold-icon-rand-IBM_Staccato.png",
+    "thumb": "/previews/fold-icon-rand-IBM_Staccato-thumb.webp",
+    "icns": "/icns/fold-icon-rand-IBM_Staccato.icns"
+  },
+  {
+    "slug": "fold-icon-rand-Rand-Yellow",
+    "rawSeries": "rand",
+    "series": "rand",
+    "displayName": "Rand Yellow",
+    "preview": "/previews/fold-icon-rand-Rand-Yellow.png",
+    "thumb": "/previews/fold-icon-rand-Rand-Yellow-thumb.webp",
+    "icns": "/icns/fold-icon-rand-Rand-Yellow.icns"
+  },
+  {
+    "slug": "fold-icon-sagmeister-CarvedSkin",
+    "rawSeries": "sagmeister",
+    "series": "sagmeister",
+    "displayName": "CarvedSkin",
+    "preview": "/previews/fold-icon-sagmeister-CarvedSkin.png",
+    "thumb": "/previews/fold-icon-sagmeister-CarvedSkin-thumb.webp",
+    "icns": "/icns/fold-icon-sagmeister-CarvedSkin.icns"
+  },
+  {
+    "slug": "fold-icon-sagmeister-HappyChaos",
+    "rawSeries": "sagmeister",
+    "series": "sagmeister",
+    "displayName": "HappyChaos",
+    "preview": "/previews/fold-icon-sagmeister-HappyChaos.png",
+    "thumb": "/previews/fold-icon-sagmeister-HappyChaos-thumb.webp",
+    "icns": "/icns/fold-icon-sagmeister-HappyChaos.icns"
+  },
+  {
+    "slug": "fold-icon-sagmeister-Visceral",
+    "rawSeries": "sagmeister",
+    "series": "sagmeister",
+    "displayName": "Visceral",
+    "preview": "/previews/fold-icon-sagmeister-Visceral.png",
+    "thumb": "/previews/fold-icon-sagmeister-Visceral-thumb.webp",
+    "icns": "/icns/fold-icon-sagmeister-Visceral.icns"
+  },
+  {
+    "slug": "fold-icon-scotland-black-watch",
+    "rawSeries": "scotland",
+    "series": "scotland",
+    "displayName": "Black Watch",
+    "preview": "/previews/fold-icon-scotland-black-watch.png",
+    "thumb": "/previews/fold-icon-scotland-black-watch-thumb.webp",
+    "icns": "/icns/fold-icon-scotland-black-watch.icns"
+  },
+  {
+    "slug": "fold-icon-scotland-celtic-knot",
+    "rawSeries": "scotland",
+    "series": "scotland",
+    "displayName": "Celtic Knot",
+    "preview": "/previews/fold-icon-scotland-celtic-knot.png",
+    "thumb": "/previews/fold-icon-scotland-celtic-knot-thumb.webp",
+    "icns": "/icns/fold-icon-scotland-celtic-knot.icns"
+  },
+  {
+    "slug": "fold-icon-scotland-paisley-lofi",
+    "rawSeries": "scotland",
+    "series": "scotland",
+    "displayName": "Paisley Lofi",
+    "preview": "/previews/fold-icon-scotland-paisley-lofi.png",
+    "thumb": "/previews/fold-icon-scotland-paisley-lofi-thumb.webp",
+    "icns": "/icns/fold-icon-scotland-paisley-lofi.icns"
+  },
+  {
+    "slug": "fold-icon-starck-GhostPlastic",
+    "rawSeries": "starck",
+    "series": "starck",
+    "displayName": "GhostPlastic",
+    "preview": "/previews/fold-icon-starck-GhostPlastic.png",
+    "thumb": "/previews/fold-icon-starck-GhostPlastic-thumb.webp",
+    "icns": "/icns/fold-icon-starck-GhostPlastic.icns"
+  },
+  {
+    "slug": "fold-icon-starck-LiquidChrome",
+    "rawSeries": "starck",
+    "series": "starck",
+    "displayName": "LiquidChrome",
+    "preview": "/previews/fold-icon-starck-LiquidChrome.png",
+    "thumb": "/previews/fold-icon-starck-LiquidChrome-thumb.webp",
+    "icns": "/icns/fold-icon-starck-LiquidChrome.icns"
+  },
+  {
+    "slug": "fold-icon-starck-NeonMinimal",
+    "rawSeries": "starck",
+    "series": "starck",
+    "displayName": "NeonMinimal",
+    "preview": "/previews/fold-icon-starck-NeonMinimal.png",
+    "thumb": "/previews/fold-icon-starck-NeonMinimal-thumb.webp",
+    "icns": "/icns/fold-icon-starck-NeonMinimal.icns"
+  },
+  {
+    "slug": "fold-icon-synth-Sphere",
+    "rawSeries": "synth",
+    "series": "synth",
+    "displayName": "Sphere",
+    "preview": "/previews/fold-icon-synth-Sphere.png",
+    "thumb": "/previews/fold-icon-synth-Sphere-thumb.webp",
+    "icns": "/icns/fold-icon-synth-Sphere.icns"
+  },
+  {
+    "slug": "fold-icon-tolucoker-AsoOkeGold",
+    "rawSeries": "tolucoker",
+    "series": "tolucoker",
+    "displayName": "AsoOkeGold",
+    "preview": "/previews/fold-icon-tolucoker-AsoOkeGold.png",
+    "thumb": "/previews/fold-icon-tolucoker-AsoOkeGold-thumb.webp",
+    "icns": "/icns/fold-icon-tolucoker-AsoOkeGold.icns"
+  },
+  {
+    "slug": "fold-icon-tube-Central",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Central",
+    "preview": "/previews/fold-icon-tube-Central.png",
+    "thumb": "/previews/fold-icon-tube-Central-thumb.webp",
+    "icns": "/icns/fold-icon-tube-Central.icns"
+  },
+  {
+    "slug": "fold-icon-tube-central-lofi",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Central Lofi",
+    "preview": "/previews/fold-icon-tube-central-lofi.png",
+    "thumb": "/previews/fold-icon-tube-central-lofi-thumb.webp",
+    "icns": "/icns/fold-icon-tube-central-lofi.icns"
+  },
+  {
+    "slug": "fold-icon-tube-district-lofi",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "District Lofi",
+    "preview": "/previews/fold-icon-tube-district-lofi.png",
+    "thumb": "/previews/fold-icon-tube-district-lofi-thumb.webp",
+    "icns": "/icns/fold-icon-tube-district-lofi.icns"
+  },
+  {
+    "slug": "fold-icon-tube-elizabeth-lofi",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Elizabeth Lofi",
+    "preview": "/previews/fold-icon-tube-elizabeth-lofi.png",
+    "thumb": "/previews/fold-icon-tube-elizabeth-lofi-thumb.webp",
+    "icns": "/icns/fold-icon-tube-elizabeth-lofi.icns"
+  },
+  {
+    "slug": "fold-icon-tube-MASTER-FINAL-Central",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "MASTER FINAL Central",
+    "preview": "/previews/fold-icon-tube-MASTER-FINAL-Central.png",
+    "thumb": "/previews/fold-icon-tube-MASTER-FINAL-Central-thumb.webp",
+    "icns": "/icns/fold-icon-tube-MASTER-FINAL-Central.icns"
+  },
+  {
+    "slug": "fold-icon-tube-MASTER-FINAL-Circle",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "MASTER FINAL Circle",
+    "preview": "/previews/fold-icon-tube-MASTER-FINAL-Circle.png",
+    "thumb": "/previews/fold-icon-tube-MASTER-FINAL-Circle-thumb.webp",
+    "icns": "/icns/fold-icon-tube-MASTER-FINAL-Circle.icns"
+  },
+  {
+    "slug": "fold-icon-tube-MASTER-FINAL-District",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "MASTER FINAL District",
+    "preview": "/previews/fold-icon-tube-MASTER-FINAL-District.png",
+    "thumb": "/previews/fold-icon-tube-MASTER-FINAL-District-thumb.webp",
+    "icns": "/icns/fold-icon-tube-MASTER-FINAL-District.icns"
+  },
+  {
+    "slug": "fold-icon-tube-MASTER-FINAL-Elizabeth",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "MASTER FINAL Elizabeth",
+    "preview": "/previews/fold-icon-tube-MASTER-FINAL-Elizabeth.png",
+    "thumb": "/previews/fold-icon-tube-MASTER-FINAL-Elizabeth-thumb.webp",
+    "icns": "/icns/fold-icon-tube-MASTER-FINAL-Elizabeth.icns"
+  },
+  {
+    "slug": "fold-icon-tube-MASTER-FINAL-Jubilee",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "MASTER FINAL Jubilee",
+    "preview": "/previews/fold-icon-tube-MASTER-FINAL-Jubilee.png",
+    "thumb": "/previews/fold-icon-tube-MASTER-FINAL-Jubilee-thumb.webp",
+    "icns": "/icns/fold-icon-tube-MASTER-FINAL-Jubilee.icns"
+  },
+  {
+    "slug": "fold-icon-tube-MASTER-FINAL-Metropolitan",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "MASTER FINAL Metropolitan",
+    "preview": "/previews/fold-icon-tube-MASTER-FINAL-Metropolitan.png",
+    "thumb": "/previews/fold-icon-tube-MASTER-FINAL-Metropolitan-thumb.webp",
+    "icns": "/icns/fold-icon-tube-MASTER-FINAL-Metropolitan.icns"
+  },
+  {
+    "slug": "fold-icon-tube-MASTER-FINAL-Piccadilly",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "MASTER FINAL Piccadilly",
+    "preview": "/previews/fold-icon-tube-MASTER-FINAL-Piccadilly.png",
+    "thumb": "/previews/fold-icon-tube-MASTER-FINAL-Piccadilly-thumb.webp",
+    "icns": "/icns/fold-icon-tube-MASTER-FINAL-Piccadilly.icns"
+  },
+  {
+    "slug": "fold-icon-tube-MASTER-FINAL-Waterloo-City",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "MASTER FINAL Waterloo City",
+    "preview": "/previews/fold-icon-tube-MASTER-FINAL-Waterloo-City.png",
+    "thumb": "/previews/fold-icon-tube-MASTER-FINAL-Waterloo-City-thumb.webp",
+    "icns": "/icns/fold-icon-tube-MASTER-FINAL-Waterloo-City.icns"
+  },
+  {
+    "slug": "fold-icon-tube-Moquette-Bakerloo",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Moquette Bakerloo",
+    "preview": "/previews/fold-icon-tube-Moquette-Bakerloo.png",
+    "thumb": "/previews/fold-icon-tube-Moquette-Bakerloo-thumb.webp",
+    "icns": "/icns/fold-icon-tube-Moquette-Bakerloo.icns"
+  },
+  {
+    "slug": "fold-icon-tube-Moquette-Central",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Moquette Central",
+    "preview": "/previews/fold-icon-tube-Moquette-Central.png",
+    "thumb": "/previews/fold-icon-tube-Moquette-Central-thumb.webp",
+    "icns": "/icns/fold-icon-tube-Moquette-Central.icns"
+  },
+  {
+    "slug": "fold-icon-tube-Moquette-Elizabeth",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Moquette Elizabeth",
+    "preview": "/previews/fold-icon-tube-Moquette-Elizabeth.png",
+    "thumb": "/previews/fold-icon-tube-Moquette-Elizabeth-thumb.webp",
+    "icns": "/icns/fold-icon-tube-Moquette-Elizabeth.icns"
+  },
+  {
+    "slug": "fold-icon-tube-Moquette-Metropolitan",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Moquette Metropolitan",
+    "preview": "/previews/fold-icon-tube-Moquette-Metropolitan.png",
+    "thumb": "/previews/fold-icon-tube-Moquette-Metropolitan-thumb.webp",
+    "icns": "/icns/fold-icon-tube-Moquette-Metropolitan.icns"
+  },
+  {
+    "slug": "fold-icon-tube-Moquette-Victoria",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Moquette Victoria",
+    "preview": "/previews/fold-icon-tube-Moquette-Victoria.png",
+    "thumb": "/previews/fold-icon-tube-Moquette-Victoria-thumb.webp",
+    "icns": "/icns/fold-icon-tube-Moquette-Victoria.icns"
+  },
+  {
+    "slug": "fold-icon-tube-Northern",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Northern",
+    "preview": "/previews/fold-icon-tube-Northern.png",
+    "thumb": "/previews/fold-icon-tube-Northern-thumb.webp",
+    "icns": "/icns/fold-icon-tube-Northern.icns"
+  },
+  {
+    "slug": "fold-icon-tube-Piccadilly",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Piccadilly",
+    "preview": "/previews/fold-icon-tube-Piccadilly.png",
+    "thumb": "/previews/fold-icon-tube-Piccadilly-thumb.webp",
+    "icns": "/icns/fold-icon-tube-Piccadilly.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Bakerloo-Heritage",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Bakerloo Heritage",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Bakerloo-Heritage.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Bakerloo-Heritage-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Bakerloo-Heritage.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Central",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Central",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Central.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Central-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Central.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Central-Tuppenny",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Central Tuppenny",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Central-Tuppenny.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Central-Tuppenny-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Central-Tuppenny.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Circle",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Circle",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Circle.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Circle-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Circle.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-District",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE District",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-District.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-District-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-District.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Elizabeth",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Elizabeth",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Elizabeth.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Elizabeth-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Elizabeth.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Hammersmith",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Hammersmith",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Hammersmith.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Hammersmith-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Hammersmith.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Jubilee",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Jubilee",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Jubilee.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Jubilee-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Jubilee.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Metropolitan",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Metropolitan",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Metropolitan.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Metropolitan-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Metropolitan.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Northern-Landmark",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Northern Landmark",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Northern-Landmark.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Northern-Landmark-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Northern-Landmark.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Piccadilly-Landmark",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Piccadilly Landmark",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Piccadilly-Landmark.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Piccadilly-Landmark-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Piccadilly-Landmark.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-Victoria-V-motif",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE Victoria V Motif",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-Victoria-V-motif.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-Victoria-V-motif-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-Victoria-V-motif.icns"
+  },
+  {
+    "slug": "fold-icon-tube-ULTIMATE-WaterlooCity",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "ULTIMATE WaterlooCity",
+    "preview": "/previews/fold-icon-tube-ULTIMATE-WaterlooCity.png",
+    "thumb": "/previews/fold-icon-tube-ULTIMATE-WaterlooCity-thumb.webp",
+    "icns": "/icns/fold-icon-tube-ULTIMATE-WaterlooCity.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v2-Bakerloo",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V2 Bakerloo",
+    "preview": "/previews/fold-icon-tube-v2-Bakerloo.png",
+    "thumb": "/previews/fold-icon-tube-v2-Bakerloo-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v2-Bakerloo.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v2-Barman",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V2 Barman",
+    "preview": "/previews/fold-icon-tube-v2-Barman.png",
+    "thumb": "/previews/fold-icon-tube-v2-Barman-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v2-Barman.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v2-District",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V2 District",
+    "preview": "/previews/fold-icon-tube-v2-District.png",
+    "thumb": "/previews/fold-icon-tube-v2-District-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v2-District.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v2-Elizabeth",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V2 Elizabeth",
+    "preview": "/previews/fold-icon-tube-v2-Elizabeth.png",
+    "thumb": "/previews/fold-icon-tube-v2-Elizabeth-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v2-Elizabeth.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v2-Overground",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V2 Overground",
+    "preview": "/previews/fold-icon-tube-v2-Overground.png",
+    "thumb": "/previews/fold-icon-tube-v2-Overground-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v2-Overground.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v2-Piccadilly",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V2 Piccadilly",
+    "preview": "/previews/fold-icon-tube-v2-Piccadilly.png",
+    "thumb": "/previews/fold-icon-tube-v2-Piccadilly-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v2-Piccadilly.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v3-Barman",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V3 Barman",
+    "preview": "/previews/fold-icon-tube-v3-Barman.png",
+    "thumb": "/previews/fold-icon-tube-v3-Barman-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v3-Barman.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v3-Central",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V3 Central",
+    "preview": "/previews/fold-icon-tube-v3-Central.png",
+    "thumb": "/previews/fold-icon-tube-v3-Central-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v3-Central.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v3-District",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V3 District",
+    "preview": "/previews/fold-icon-tube-v3-District.png",
+    "thumb": "/previews/fold-icon-tube-v3-District-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v3-District.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v3-Elizabeth",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V3 Elizabeth",
+    "preview": "/previews/fold-icon-tube-v3-Elizabeth.png",
+    "thumb": "/previews/fold-icon-tube-v3-Elizabeth-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v3-Elizabeth.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v3-SStock",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V3 SStock",
+    "preview": "/previews/fold-icon-tube-v3-SStock.png",
+    "thumb": "/previews/fold-icon-tube-v3-SStock-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v3-SStock.icns"
+  },
+  {
+    "slug": "fold-icon-tube-v3-Victoria",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "V3 Victoria",
+    "preview": "/previews/fold-icon-tube-v3-Victoria.png",
+    "thumb": "/previews/fold-icon-tube-v3-Victoria-thumb.webp",
+    "icns": "/icns/fold-icon-tube-v3-Victoria.icns"
+  },
+  {
+    "slug": "fold-icon-tube-victoria-lofi",
+    "rawSeries": "tube",
+    "series": "tube",
+    "displayName": "Victoria Lofi",
+    "preview": "/previews/fold-icon-tube-victoria-lofi.png",
+    "thumb": "/previews/fold-icon-tube-victoria-lofi-thumb.webp",
+    "icns": "/icns/fold-icon-tube-victoria-lofi.icns"
+  },
+  {
+    "slug": "fold-icon-ui-SkeuoBrushed",
+    "rawSeries": "ui",
+    "series": "ui",
+    "displayName": "SkeuoBrushed",
+    "preview": "/previews/fold-icon-ui-SkeuoBrushed.png",
+    "thumb": "/previews/fold-icon-ui-SkeuoBrushed-thumb.webp",
+    "icns": "/icns/fold-icon-ui-SkeuoBrushed.icns"
+  },
+  {
+    "slug": "fold-icon-ui-SkeuoLinen",
+    "rawSeries": "ui",
+    "series": "ui",
+    "displayName": "SkeuoLinen",
+    "preview": "/previews/fold-icon-ui-SkeuoLinen.png",
+    "thumb": "/previews/fold-icon-ui-SkeuoLinen-thumb.webp",
+    "icns": "/icns/fold-icon-ui-SkeuoLinen.icns"
+  },
+  {
+    "slug": "fold-icon-ukiyo-e-lofi-crunchy",
+    "rawSeries": "ukiyo",
+    "series": "ukiyo",
+    "displayName": "E Lofi Crunchy",
+    "preview": "/previews/fold-icon-ukiyo-e-lofi-crunchy.png",
+    "thumb": "/previews/fold-icon-ukiyo-e-lofi-crunchy-thumb.webp",
+    "icns": "/icns/fold-icon-ukiyo-e-lofi-crunchy.icns"
+  },
+  {
+    "slug": "fold-icon-ukiyo-night-pagoda-lofi",
+    "rawSeries": "ukiyo",
+    "series": "ukiyo",
+    "displayName": "Night Pagoda Lofi",
+    "preview": "/previews/fold-icon-ukiyo-night-pagoda-lofi.png",
+    "thumb": "/previews/fold-icon-ukiyo-night-pagoda-lofi-thumb.webp",
+    "icns": "/icns/fold-icon-ukiyo-night-pagoda-lofi.icns"
+  },
+  {
+    "slug": "fold-icon-ukiyo-red-fuji-lofi",
+    "rawSeries": "ukiyo",
+    "series": "ukiyo",
+    "displayName": "Red Fuji Lofi",
+    "preview": "/previews/fold-icon-ukiyo-red-fuji-lofi.png",
+    "thumb": "/previews/fold-icon-ukiyo-red-fuji-lofi-thumb.webp",
+    "icns": "/icns/fold-icon-ukiyo-red-fuji-lofi.icns"
+  },
+  {
+    "slug": "fold-icon-ukiyo-samurai-lofi",
+    "rawSeries": "ukiyo",
+    "series": "ukiyo",
+    "displayName": "Samurai Lofi",
+    "preview": "/previews/fold-icon-ukiyo-samurai-lofi.png",
+    "thumb": "/previews/fold-icon-ukiyo-samurai-lofi-thumb.webp",
+    "icns": "/icns/fold-icon-ukiyo-samurai-lofi.icns"
+  },
+  {
+    "slug": "fold-icon-ultra-arduino",
+    "rawSeries": "ultra",
+    "series": "ultra",
+    "displayName": "Arduino",
+    "preview": "/previews/fold-icon-ultra-arduino.png",
+    "thumb": "/previews/fold-icon-ultra-arduino-thumb.webp",
+    "icns": "/icns/fold-icon-ultra-arduino.icns"
+  },
+  {
+    "slug": "fold-icon-ultra-pi",
+    "rawSeries": "ultra",
+    "series": "ultra",
+    "displayName": "Pi",
+    "preview": "/previews/fold-icon-ultra-pi.png",
+    "thumb": "/previews/fold-icon-ultra-pi-thumb.webp",
+    "icns": "/icns/fold-icon-ultra-pi.icns"
+  },
+  {
+    "slug": "fold-icon-v11-masterpiece-berserk-red",
+    "rawSeries": "v11",
+    "series": "archive",
+    "displayName": "Masterpiece Berserk Red",
+    "preview": "/previews/fold-icon-v11-masterpiece-berserk-red.png",
+    "thumb": "/previews/fold-icon-v11-masterpiece-berserk-red-thumb.webp",
+    "icns": "/icns/fold-icon-v11-masterpiece-berserk-red.icns"
+  },
+  {
+    "slug": "fold-icon-v12-physical-angel-core",
+    "rawSeries": "v12",
+    "series": "archive",
+    "displayName": "Physical Angel Core",
+    "preview": "/previews/fold-icon-v12-physical-angel-core.png",
+    "thumb": "/previews/fold-icon-v12-physical-angel-core-thumb.webp",
+    "icns": "/icns/fold-icon-v12-physical-angel-core.icns"
+  },
+  {
+    "slug": "fold-icon-v12-physical-nerv-monolith",
+    "rawSeries": "v12",
+    "series": "archive",
+    "displayName": "Physical Nerv Monolith",
+    "preview": "/previews/fold-icon-v12-physical-nerv-monolith.png",
+    "thumb": "/previews/fold-icon-v12-physical-nerv-monolith-thumb.webp",
+    "icns": "/icns/fold-icon-v12-physical-nerv-monolith.icns"
+  },
+  {
+    "slug": "fold-icon-v12-physical-unit01-armor",
+    "rawSeries": "v12",
+    "series": "archive",
+    "displayName": "Physical Unit01 Armor",
+    "preview": "/previews/fold-icon-v12-physical-unit01-armor.png",
+    "thumb": "/previews/fold-icon-v12-physical-unit01-armor-thumb.webp",
+    "icns": "/icns/fold-icon-v12-physical-unit01-armor.icns"
+  },
+  {
+    "slug": "fold-icon-v20-pure-hazard",
+    "rawSeries": "v20",
+    "series": "archive",
+    "displayName": "Pure Hazard",
+    "preview": "/previews/fold-icon-v20-pure-hazard.png",
+    "thumb": "/previews/fold-icon-v20-pure-hazard-thumb.webp",
+    "icns": "/icns/fold-icon-v20-pure-hazard.icns"
+  },
+  {
+    "slug": "fold-icon-v24-digital-magi_logic",
+    "rawSeries": "v24",
+    "series": "archive",
+    "displayName": "Digital Magi Logic",
+    "preview": "/previews/fold-icon-v24-digital-magi_logic.png",
+    "thumb": "/previews/fold-icon-v24-digital-magi_logic-thumb.webp",
+    "icns": "/icns/fold-icon-v24-digital-magi_logic.icns"
+  },
+  {
+    "slug": "fold-icon-v24-digital-unit-01",
+    "rawSeries": "v24",
+    "series": "archive",
+    "displayName": "Digital Unit 01",
+    "preview": "/previews/fold-icon-v24-digital-unit-01.png",
+    "thumb": "/previews/fold-icon-v24-digital-unit-01-thumb.webp",
+    "icns": "/icns/fold-icon-v24-digital-unit-01.icns"
+  },
+  {
+    "slug": "fold-icon-v24-digital-unit-02",
+    "rawSeries": "v24",
+    "series": "archive",
+    "displayName": "Digital Unit 02",
+    "preview": "/previews/fold-icon-v24-digital-unit-02.png",
+    "thumb": "/previews/fold-icon-v24-digital-unit-02-thumb.webp",
+    "icns": "/icns/fold-icon-v24-digital-unit-02.icns"
+  },
+  {
+    "slug": "fold-icon-v26-monolith-at_field",
+    "rawSeries": "v26",
+    "series": "archive",
+    "displayName": "Monolith At Field",
+    "preview": "/previews/fold-icon-v26-monolith-at_field.png",
+    "thumb": "/previews/fold-icon-v26-monolith-at_field-thumb.webp",
+    "icns": "/icns/fold-icon-v26-monolith-at_field.icns"
+  },
+  {
+    "slug": "fold-icon-v26-monolith-emergency",
+    "rawSeries": "v26",
+    "series": "archive",
+    "displayName": "Monolith Emergency",
+    "preview": "/previews/fold-icon-v26-monolith-emergency.png",
+    "thumb": "/previews/fold-icon-v26-monolith-emergency-thumb.webp",
+    "icns": "/icns/fold-icon-v26-monolith-emergency.icns"
+  },
+  {
+    "slug": "fold-icon-v26-monolith-s2_core",
+    "rawSeries": "v26",
+    "series": "archive",
+    "displayName": "Monolith S2 Core",
+    "preview": "/previews/fold-icon-v26-monolith-s2_core.png",
+    "thumb": "/previews/fold-icon-v26-monolith-s2_core-thumb.webp",
+    "icns": "/icns/fold-icon-v26-monolith-s2_core.icns"
+  },
+  {
+    "slug": "fold-icon-v26-monolith-unit-01",
+    "rawSeries": "v26",
+    "series": "archive",
+    "displayName": "Monolith Unit 01",
+    "preview": "/previews/fold-icon-v26-monolith-unit-01.png",
+    "thumb": "/previews/fold-icon-v26-monolith-unit-01-thumb.webp",
+    "icns": "/icns/fold-icon-v26-monolith-unit-01.icns"
+  },
+  {
+    "slug": "fold-icon-v27-evo-entry_plug",
+    "rawSeries": "v27",
+    "series": "archive",
+    "displayName": "Evo Entry Plug",
+    "preview": "/previews/fold-icon-v27-evo-entry_plug.png",
+    "thumb": "/previews/fold-icon-v27-evo-entry_plug-thumb.webp",
+    "icns": "/icns/fold-icon-v27-evo-entry_plug.icns"
+  },
+  {
+    "slug": "fold-icon-v27-evo-geo_front",
+    "rawSeries": "v27",
+    "series": "archive",
+    "displayName": "Evo Geo Front",
+    "preview": "/previews/fold-icon-v27-evo-geo_front.png",
+    "thumb": "/previews/fold-icon-v27-evo-geo_front-thumb.webp",
+    "icns": "/icns/fold-icon-v27-evo-geo_front.icns"
+  },
+  {
+    "slug": "fold-icon-v27-evo-lance_cross",
+    "rawSeries": "v27",
+    "series": "archive",
+    "displayName": "Evo Lance Cross",
+    "preview": "/previews/fold-icon-v27-evo-lance_cross.png",
+    "thumb": "/previews/fold-icon-v27-evo-lance_cross-thumb.webp",
+    "icns": "/icns/fold-icon-v27-evo-lance_cross.icns"
+  },
+  {
+    "slug": "fold-icon-v28-titan-hex_mega",
+    "rawSeries": "v28",
+    "series": "archive",
+    "displayName": "Titan Hex Mega",
+    "preview": "/previews/fold-icon-v28-titan-hex_mega.png",
+    "thumb": "/previews/fold-icon-v28-titan-hex_mega-thumb.webp",
+    "icns": "/icns/fold-icon-v28-titan-hex_mega.icns"
+  },
+  {
+    "slug": "fold-icon-v28-titan-moon_spear",
+    "rawSeries": "v28",
+    "series": "archive",
+    "displayName": "Titan Moon Spear",
+    "preview": "/previews/fold-icon-v28-titan-moon_spear.png",
+    "thumb": "/previews/fold-icon-v28-titan-moon_spear-thumb.webp",
+    "icns": "/icns/fold-icon-v28-titan-moon_spear.icns"
+  },
+  {
+    "slug": "fold-icon-v28-titan-unit01_horn",
+    "rawSeries": "v28",
+    "series": "archive",
+    "displayName": "Titan Unit01 Horn",
+    "preview": "/previews/fold-icon-v28-titan-unit01_horn.png",
+    "thumb": "/previews/fold-icon-v28-titan-unit01_horn-thumb.webp",
+    "icns": "/icns/fold-icon-v28-titan-unit01_horn.icns"
+  },
+  {
+    "slug": "fold-icon-v29-titan2-geo_front_armor",
+    "rawSeries": "v29",
+    "series": "archive",
+    "displayName": "Titan2 Geo Front Armor",
+    "preview": "/previews/fold-icon-v29-titan2-geo_front_armor.png",
+    "thumb": "/previews/fold-icon-v29-titan2-geo_front_armor-thumb.webp",
+    "icns": "/icns/fold-icon-v29-titan2-geo_front_armor.icns"
+  },
+  {
+    "slug": "fold-icon-v31-master-B_Emergency",
+    "rawSeries": "v31",
+    "series": "archive",
+    "displayName": "Master B Emergency",
+    "preview": "/previews/fold-icon-v31-master-B_Emergency.png",
+    "thumb": "/previews/fold-icon-v31-master-B_Emergency-thumb.webp",
+    "icns": "/icns/fold-icon-v31-master-B_Emergency.icns"
+  },
+  {
+    "slug": "fold-icon-v33-zenith-eva_01_retina",
+    "rawSeries": "v33",
+    "series": "archive",
+    "displayName": "Zenith Eva 01 Retina",
+    "preview": "/previews/fold-icon-v33-zenith-eva_01_retina.png",
+    "thumb": "/previews/fold-icon-v33-zenith-eva_01_retina-thumb.webp",
+    "icns": "/icns/fold-icon-v33-zenith-eva_01_retina.icns"
+  },
+  {
+    "slug": "fold-icon-v33-zenith-longinus_split",
+    "rawSeries": "v33",
+    "series": "archive",
+    "displayName": "Zenith Longinus Split",
+    "preview": "/previews/fold-icon-v33-zenith-longinus_split.png",
+    "thumb": "/previews/fold-icon-v33-zenith-longinus_split-thumb.webp",
+    "icns": "/icns/fold-icon-v33-zenith-longinus_split.icns"
+  },
+  {
+    "slug": "fold-icon-v33-zenith-nerv_top_secret",
+    "rawSeries": "v33",
+    "series": "archive",
+    "displayName": "Zenith Nerv Top Secret",
+    "preview": "/previews/fold-icon-v33-zenith-nerv_top_secret.png",
+    "thumb": "/previews/fold-icon-v33-zenith-nerv_top_secret-thumb.webp",
+    "icns": "/icns/fold-icon-v33-zenith-nerv_top_secret.icns"
+  },
+  {
+    "slug": "fold-icon-v33-zenith-seele_sound",
+    "rawSeries": "v33",
+    "series": "archive",
+    "displayName": "Zenith Seele Sound",
+    "preview": "/previews/fold-icon-v33-zenith-seele_sound.png",
+    "thumb": "/previews/fold-icon-v33-zenith-seele_sound-thumb.webp",
+    "icns": "/icns/fold-icon-v33-zenith-seele_sound.icns"
+  },
+  {
+    "slug": "fold-icon-v34-max-typo-at_field_max",
+    "rawSeries": "v34",
+    "series": "archive",
+    "displayName": "Max Typo At Field Max",
+    "preview": "/previews/fold-icon-v34-max-typo-at_field_max.png",
+    "thumb": "/previews/fold-icon-v34-max-typo-at_field_max-thumb.webp",
+    "icns": "/icns/fold-icon-v34-max-typo-at_field_max.icns"
+  },
+  {
+    "slug": "fold-icon-v34-max-typo-eva_01_retina",
+    "rawSeries": "v34",
+    "series": "archive",
+    "displayName": "Max Typo Eva 01 Retina",
+    "preview": "/previews/fold-icon-v34-max-typo-eva_01_retina.png",
+    "thumb": "/previews/fold-icon-v34-max-typo-eva_01_retina-thumb.webp",
+    "icns": "/icns/fold-icon-v34-max-typo-eva_01_retina.icns"
+  },
+  {
+    "slug": "fold-icon-v34-max-typo-eva_02_retina",
+    "rawSeries": "v34",
+    "series": "archive",
+    "displayName": "Max Typo Eva 02 Retina",
+    "preview": "/previews/fold-icon-v34-max-typo-eva_02_retina.png",
+    "thumb": "/previews/fold-icon-v34-max-typo-eva_02_retina-thumb.webp",
+    "icns": "/icns/fold-icon-v34-max-typo-eva_02_retina.icns"
+  },
+  {
+    "slug": "fold-icon-v34-max-typo-seele_sound",
+    "rawSeries": "v34",
+    "series": "archive",
+    "displayName": "Max Typo Seele Sound",
+    "preview": "/previews/fold-icon-v34-max-typo-seele_sound.png",
+    "thumb": "/previews/fold-icon-v34-max-typo-seele_sound-thumb.webp",
+    "icns": "/icns/fold-icon-v34-max-typo-seele_sound.icns"
+  },
+  {
+    "slug": "fold-icon-v34-max-typo-system_error_max",
+    "rawSeries": "v34",
+    "series": "archive",
+    "displayName": "Max Typo System Error Max",
+    "preview": "/previews/fold-icon-v34-max-typo-system_error_max.png",
+    "thumb": "/previews/fold-icon-v34-max-typo-system_error_max-thumb.webp",
+    "icns": "/icns/fold-icon-v34-max-typo-system_error_max.icns"
+  },
+  {
+    "slug": "fold-icon-v35-masterpiece-lilith_chambers",
+    "rawSeries": "v35",
+    "series": "archive",
+    "displayName": "Masterpiece Lilith Chambers",
+    "preview": "/previews/fold-icon-v35-masterpiece-lilith_chambers.png",
+    "thumb": "/previews/fold-icon-v35-masterpiece-lilith_chambers-thumb.webp",
+    "icns": "/icns/fold-icon-v35-masterpiece-lilith_chambers.icns"
+  },
+  {
+    "slug": "fold-icon-v35-masterpiece-sync_400",
+    "rawSeries": "v35",
+    "series": "archive",
+    "displayName": "Masterpiece Sync 400",
+    "preview": "/previews/fold-icon-v35-masterpiece-sync_400.png",
+    "thumb": "/previews/fold-icon-v35-masterpiece-sync_400-thumb.webp",
+    "icns": "/icns/fold-icon-v35-masterpiece-sync_400.icns"
+  },
+  {
+    "slug": "fold-icon-v36-nyc-mosaic_band",
+    "rawSeries": "v36",
+    "series": "archive",
+    "displayName": "Nyc Mosaic Band",
+    "preview": "/previews/fold-icon-v36-nyc-mosaic_band.png",
+    "thumb": "/previews/fold-icon-v36-nyc-mosaic_band-thumb.webp",
+    "icns": "/icns/fold-icon-v36-nyc-mosaic_band.icns"
+  },
+  {
+    "slug": "fold-icon-v36-nyc-vignelli_grid",
+    "rawSeries": "v36",
+    "series": "archive",
+    "displayName": "Nyc Vignelli Grid",
+    "preview": "/previews/fold-icon-v36-nyc-vignelli_grid.png",
+    "thumb": "/previews/fold-icon-v36-nyc-vignelli_grid-thumb.webp",
+    "icns": "/icns/fold-icon-v36-nyc-vignelli_grid.icns"
+  },
+  {
+    "slug": "fold-icon-v37-subway-ultimate-platform_void",
+    "rawSeries": "v37",
+    "series": "archive",
+    "displayName": "Subway Ultimate Platform Void",
+    "preview": "/previews/fold-icon-v37-subway-ultimate-platform_void.png",
+    "thumb": "/previews/fold-icon-v37-subway-ultimate-platform_void-thumb.webp",
+    "icns": "/icns/fold-icon-v37-subway-ultimate-platform_void.icns"
+  },
+  {
+    "slug": "fold-icon-v37-subway-ultimate-vignelli_overload",
+    "rawSeries": "v37",
+    "series": "archive",
+    "displayName": "Subway Ultimate Vignelli Overload",
+    "preview": "/previews/fold-icon-v37-subway-ultimate-vignelli_overload.png",
+    "thumb": "/previews/fold-icon-v37-subway-ultimate-vignelli_overload-thumb.webp",
+    "icns": "/icns/fold-icon-v37-subway-ultimate-vignelli_overload.icns"
+  },
+  {
+    "slug": "fold-icon-v38-nothing-matrix_signal",
+    "rawSeries": "v38",
+    "series": "archive",
+    "displayName": "Nothing Matrix Signal",
+    "preview": "/previews/fold-icon-v38-nothing-matrix_signal.png",
+    "thumb": "/previews/fold-icon-v38-nothing-matrix_signal-thumb.webp",
+    "icns": "/icns/fold-icon-v38-nothing-matrix_signal.icns"
+  },
+  {
+    "slug": "fold-icon-v41-supreme-classic_box",
+    "rawSeries": "v41",
+    "series": "archive",
+    "displayName": "Supreme Classic Box",
+    "preview": "/previews/fold-icon-v41-supreme-classic_box.png",
+    "thumb": "/previews/fold-icon-v41-supreme-classic_box-thumb.webp",
+    "icns": "/icns/fold-icon-v41-supreme-classic_box.icns"
+  },
+  {
+    "slug": "fold-icon-v41-supreme-concrete_stencil",
+    "rawSeries": "v41",
+    "series": "archive",
+    "displayName": "Supreme Concrete Stencil",
+    "preview": "/previews/fold-icon-v41-supreme-concrete_stencil.png",
+    "thumb": "/previews/fold-icon-v41-supreme-concrete_stencil-thumb.webp",
+    "icns": "/icns/fold-icon-v41-supreme-concrete_stencil.icns"
+  },
+  {
+    "slug": "fold-icon-v41-supreme-minimal_tab",
+    "rawSeries": "v41",
+    "series": "archive",
+    "displayName": "Supreme Minimal Tab",
+    "preview": "/previews/fold-icon-v41-supreme-minimal_tab.png",
+    "thumb": "/previews/fold-icon-v41-supreme-minimal_tab-thumb.webp",
+    "icns": "/icns/fold-icon-v41-supreme-minimal_tab.icns"
+  },
+  {
+    "slug": "fold-icon-v43-offwhite-neon_orange_warning",
+    "rawSeries": "v43",
+    "series": "archive",
+    "displayName": "Offwhite Neon Orange Warning",
+    "preview": "/previews/fold-icon-v43-offwhite-neon_orange_warning.png",
+    "thumb": "/previews/fold-icon-v43-offwhite-neon_orange_warning-thumb.webp",
+    "icns": "/icns/fold-icon-v43-offwhite-neon_orange_warning.icns"
+  },
+  {
+    "slug": "fold-icon-v43-offwhite-transparent_blueprint",
+    "rawSeries": "v43",
+    "series": "archive",
+    "displayName": "Offwhite Transparent Blueprint",
+    "preview": "/previews/fold-icon-v43-offwhite-transparent_blueprint.png",
+    "thumb": "/previews/fold-icon-v43-offwhite-transparent_blueprint-thumb.webp",
+    "icns": "/icns/fold-icon-v43-offwhite-transparent_blueprint.icns"
+  },
+  {
+    "slug": "fold-icon-v43-offwhite-white_metadata",
+    "rawSeries": "v43",
+    "series": "archive",
+    "displayName": "Offwhite White Metadata",
+    "preview": "/previews/fold-icon-v43-offwhite-white_metadata.png",
+    "thumb": "/previews/fold-icon-v43-offwhite-white_metadata-thumb.webp",
+    "icns": "/icns/fold-icon-v43-offwhite-white_metadata.icns"
+  },
+  {
+    "slug": "fold-icon-v44-ow-archive-museum_archive",
+    "rawSeries": "v44",
+    "series": "archive",
+    "displayName": "Ow Archive Museum Archive",
+    "preview": "/previews/fold-icon-v44-ow-archive-museum_archive.png",
+    "thumb": "/previews/fold-icon-v44-ow-archive-museum_archive-thumb.webp",
+    "icns": "/icns/fold-icon-v44-ow-archive-museum_archive.icns"
+  },
+  {
+    "slug": "fold-icon-v44-ow-archive-polycarbonate_neon",
+    "rawSeries": "v44",
+    "series": "archive",
+    "displayName": "Ow Archive Polycarbonate Neon",
+    "preview": "/previews/fold-icon-v44-ow-archive-polycarbonate_neon.png",
+    "thumb": "/previews/fold-icon-v44-ow-archive-polycarbonate_neon-thumb.webp",
+    "icns": "/icns/fold-icon-v44-ow-archive-polycarbonate_neon.icns"
+  },
+  {
+    "slug": "fold-icon-v45-pro-typo-eva_berserk_stretch",
+    "rawSeries": "v45",
+    "series": "archive",
+    "displayName": "Pro Typo Eva Berserk Stretch",
+    "preview": "/previews/fold-icon-v45-pro-typo-eva_berserk_stretch.png",
+    "thumb": "/previews/fold-icon-v45-pro-typo-eva_berserk_stretch-thumb.webp",
+    "icns": "/icns/fold-icon-v45-pro-typo-eva_berserk_stretch.icns"
+  },
+  {
+    "slug": "fold-icon-v46-safe-typo-eva_warning_safe",
+    "rawSeries": "v46",
+    "series": "archive",
+    "displayName": "Safe Typo Eva Warning Safe",
+    "preview": "/previews/fold-icon-v46-safe-typo-eva_warning_safe.png",
+    "thumb": "/previews/fold-icon-v46-safe-typo-eva_warning_safe-thumb.webp",
+    "icns": "/icns/fold-icon-v46-safe-typo-eva_warning_safe.icns"
+  },
+  {
+    "slug": "fold-icon-v48-highstreet-ultimate-cctv_neon_orange",
+    "rawSeries": "v48",
+    "series": "archive",
+    "displayName": "Highstreet Ultimate Cctv Neon Orange",
+    "preview": "/previews/fold-icon-v48-highstreet-ultimate-cctv_neon_orange.png",
+    "thumb": "/previews/fold-icon-v48-highstreet-ultimate-cctv_neon_orange-thumb.webp",
+    "icns": "/icns/fold-icon-v48-highstreet-ultimate-cctv_neon_orange.icns"
+  },
+  {
+    "slug": "fold-icon-v48-highstreet-ultimate-destroyed_shipping_label",
+    "rawSeries": "v48",
+    "series": "archive",
+    "displayName": "Highstreet Ultimate Destroyed Shipping Label",
+    "preview": "/previews/fold-icon-v48-highstreet-ultimate-destroyed_shipping_label.png",
+    "thumb": "/previews/fold-icon-v48-highstreet-ultimate-destroyed_shipping_label-thumb.webp",
+    "icns": "/icns/fold-icon-v48-highstreet-ultimate-destroyed_shipping_label.icns"
+  },
+  {
+    "slug": "fold-icon-v49-zenith-archaeological_helvetica",
+    "rawSeries": "v49",
+    "series": "archive",
+    "displayName": "Zenith Archaeological Helvetica",
+    "preview": "/previews/fold-icon-v49-zenith-archaeological_helvetica.png",
+    "thumb": "/previews/fold-icon-v49-zenith-archaeological_helvetica-thumb.webp",
+    "icns": "/icns/fold-icon-v49-zenith-archaeological_helvetica.icns"
+  },
+  {
+    "slug": "fold-icon-v49-zenith-balenciaga_duct_tape",
+    "rawSeries": "v49",
+    "series": "archive",
+    "displayName": "Zenith Balenciaga Duct Tape",
+    "preview": "/previews/fold-icon-v49-zenith-balenciaga_duct_tape.png",
+    "thumb": "/previews/fold-icon-v49-zenith-balenciaga_duct_tape-thumb.webp",
+    "icns": "/icns/fold-icon-v49-zenith-balenciaga_duct_tape.icns"
+  },
+  {
+    "slug": "fold-icon-v50-gorpcore-arcteryx_alpha",
+    "rawSeries": "v50",
+    "series": "archive",
+    "displayName": "Gorpcore Arcteryx Alpha",
+    "preview": "/previews/fold-icon-v50-gorpcore-arcteryx_alpha.png",
+    "thumb": "/previews/fold-icon-v50-gorpcore-arcteryx_alpha-thumb.webp",
+    "icns": "/icns/fold-icon-v50-gorpcore-arcteryx_alpha.icns"
+  },
+  {
+    "slug": "fold-icon-v50-gorpcore-industrial_orange",
+    "rawSeries": "v50",
+    "series": "archive",
+    "displayName": "Gorpcore Industrial Orange",
+    "preview": "/previews/fold-icon-v50-gorpcore-industrial_orange.png",
+    "thumb": "/previews/fold-icon-v50-gorpcore-industrial_orange-thumb.webp",
+    "icns": "/icns/fold-icon-v50-gorpcore-industrial_orange.icns"
+  },
+  {
+    "slug": "fold-icon-v51-gorp-total-tactical_molle_panel",
+    "rawSeries": "v51",
+    "series": "archive",
+    "displayName": "Gorp Total Tactical Molle Panel",
+    "preview": "/previews/fold-icon-v51-gorp-total-tactical_molle_panel.png",
+    "thumb": "/previews/fold-icon-v51-gorp-total-tactical_molle_panel-thumb.webp",
+    "icns": "/icns/fold-icon-v51-gorp-total-tactical_molle_panel.icns"
+  },
+  {
+    "slug": "fold-icon-v51-gorp-total-waterproof_zipper_macro",
+    "rawSeries": "v51",
+    "series": "archive",
+    "displayName": "Gorp Total Waterproof Zipper Macro",
+    "preview": "/previews/fold-icon-v51-gorp-total-waterproof_zipper_macro.png",
+    "thumb": "/previews/fold-icon-v51-gorp-total-waterproof_zipper_macro-thumb.webp",
+    "icns": "/icns/fold-icon-v51-gorp-total-waterproof_zipper_macro.icns"
+  },
+  {
+    "slug": "fold-icon-v52-hyper-gorp-arcteryx_alpha_sv",
+    "rawSeries": "v52",
+    "series": "archive",
+    "displayName": "Hyper Gorp Arcteryx Alpha Sv",
+    "preview": "/previews/fold-icon-v52-hyper-gorp-arcteryx_alpha_sv.png",
+    "thumb": "/previews/fold-icon-v52-hyper-gorp-arcteryx_alpha_sv-thumb.webp",
+    "icns": "/icns/fold-icon-v52-hyper-gorp-arcteryx_alpha_sv.icns"
+  },
+  {
+    "slug": "fold-icon-v52-hyper-gorp-stone_island_hyper",
+    "rawSeries": "v52",
+    "series": "archive",
+    "displayName": "Hyper Gorp Stone Island Hyper",
+    "preview": "/previews/fold-icon-v52-hyper-gorp-stone_island_hyper.png",
+    "thumb": "/previews/fold-icon-v52-hyper-gorp-stone_island_hyper-thumb.webp",
+    "icns": "/icns/fold-icon-v52-hyper-gorp-stone_island_hyper.icns"
+  },
+  {
+    "slug": "fold-icon-v59-braun-pure-ribbed_fin_industrial",
+    "rawSeries": "v59",
+    "series": "archive",
+    "displayName": "Braun Pure Ribbed Fin Industrial",
+    "preview": "/previews/fold-icon-v59-braun-pure-ribbed_fin_industrial.png",
+    "thumb": "/previews/fold-icon-v59-braun-pure-ribbed_fin_industrial-thumb.webp",
+    "icns": "/icns/fold-icon-v59-braun-pure-ribbed_fin_industrial.icns"
+  },
+  {
+    "slug": "fold-icon-vango-Mosaic-Cafe",
+    "rawSeries": "vango",
+    "series": "vango",
+    "displayName": "Mosaic Cafe",
+    "preview": "/previews/fold-icon-vango-Mosaic-Cafe.png",
+    "thumb": "/previews/fold-icon-vango-Mosaic-Cafe-thumb.webp",
+    "icns": "/icns/fold-icon-vango-Mosaic-Cafe.icns"
+  },
+  {
+    "slug": "fold-icon-vango-Mosaic-Cypress",
+    "rawSeries": "vango",
+    "series": "vango",
+    "displayName": "Mosaic Cypress",
+    "preview": "/previews/fold-icon-vango-Mosaic-Cypress.png",
+    "thumb": "/previews/fold-icon-vango-Mosaic-Cypress-thumb.webp",
+    "icns": "/icns/fold-icon-vango-Mosaic-Cypress.icns"
+  },
+  {
+    "slug": "fold-icon-vango-Mosaic-Portrait",
+    "rawSeries": "vango",
+    "series": "vango",
+    "displayName": "Mosaic Portrait",
+    "preview": "/previews/fold-icon-vango-Mosaic-Portrait.png",
+    "thumb": "/previews/fold-icon-vango-Mosaic-Portrait-thumb.webp",
+    "icns": "/icns/fold-icon-vango-Mosaic-Portrait.icns"
+  },
+  {
+    "slug": "fold-icon-vango-Mosaic-Starry",
+    "rawSeries": "vango",
+    "series": "vango",
+    "displayName": "Mosaic Starry",
+    "preview": "/previews/fold-icon-vango-Mosaic-Starry.png",
+    "thumb": "/previews/fold-icon-vango-Mosaic-Starry-thumb.webp",
+    "icns": "/icns/fold-icon-vango-Mosaic-Starry.icns"
+  },
+  {
+    "slug": "fold-icon-vango-Mosaic-Sunflower",
+    "rawSeries": "vango",
+    "series": "vango",
+    "displayName": "Mosaic Sunflower",
+    "preview": "/previews/fold-icon-vango-Mosaic-Sunflower.png",
+    "thumb": "/previews/fold-icon-vango-Mosaic-Sunflower-thumb.webp",
+    "icns": "/icns/fold-icon-vango-Mosaic-Sunflower.icns"
+  },
+  {
+    "slug": "fold-icon-vango-Mosaic-Wheatfield",
+    "rawSeries": "vango",
+    "series": "vango",
+    "displayName": "Mosaic Wheatfield",
+    "preview": "/previews/fold-icon-vango-Mosaic-Wheatfield.png",
+    "thumb": "/previews/fold-icon-vango-Mosaic-Wheatfield-thumb.webp",
+    "icns": "/icns/fold-icon-vango-Mosaic-Wheatfield.icns"
+  },
+  {
+    "slug": "fold-icon-vangogh-Cafe",
+    "rawSeries": "vangogh",
+    "series": "vangogh",
+    "displayName": "Cafe",
+    "preview": "/previews/fold-icon-vangogh-Cafe.png",
+    "thumb": "/previews/fold-icon-vangogh-Cafe-thumb.webp",
+    "icns": "/icns/fold-icon-vangogh-Cafe.icns"
+  },
+  {
+    "slug": "fold-icon-vangogh-Cypress",
+    "rawSeries": "vangogh",
+    "series": "vangogh",
+    "displayName": "Cypress",
+    "preview": "/previews/fold-icon-vangogh-Cypress.png",
+    "thumb": "/previews/fold-icon-vangogh-Cypress-thumb.webp",
+    "icns": "/icns/fold-icon-vangogh-Cypress.icns"
+  },
+  {
+    "slug": "fold-icon-vangogh-Irises",
+    "rawSeries": "vangogh",
+    "series": "vangogh",
+    "displayName": "Irises",
+    "preview": "/previews/fold-icon-vangogh-Irises.png",
+    "thumb": "/previews/fold-icon-vangogh-Irises-thumb.webp",
+    "icns": "/icns/fold-icon-vangogh-Irises.icns"
+  },
+  {
+    "slug": "fold-icon-vangogh-Portrait",
+    "rawSeries": "vangogh",
+    "series": "vangogh",
+    "displayName": "Portrait",
+    "preview": "/previews/fold-icon-vangogh-Portrait.png",
+    "thumb": "/previews/fold-icon-vangogh-Portrait-thumb.webp",
+    "icns": "/icns/fold-icon-vangogh-Portrait.icns"
+  },
+  {
+    "slug": "fold-icon-vangogh-Starry",
+    "rawSeries": "vangogh",
+    "series": "vangogh",
+    "displayName": "Starry",
+    "preview": "/previews/fold-icon-vangogh-Starry.png",
+    "thumb": "/previews/fold-icon-vangogh-Starry-thumb.webp",
+    "icns": "/icns/fold-icon-vangogh-Starry.icns"
+  },
+  {
+    "slug": "fold-icon-vangogh-vortex-lofi",
+    "rawSeries": "vangogh",
+    "series": "vangogh",
+    "displayName": "Vortex Lofi",
+    "preview": "/previews/fold-icon-vangogh-vortex-lofi.png",
+    "thumb": "/previews/fold-icon-vangogh-vortex-lofi-thumb.webp",
+    "icns": "/icns/fold-icon-vangogh-vortex-lofi.icns"
+  },
+  {
+    "slug": "fold-icon-vangogh-Wheatfield",
+    "rawSeries": "vangogh",
+    "series": "vangogh",
+    "displayName": "Wheatfield",
+    "preview": "/previews/fold-icon-vangogh-Wheatfield.png",
+    "thumb": "/previews/fold-icon-vangogh-Wheatfield-thumb.webp",
+    "icns": "/icns/fold-icon-vangogh-Wheatfield.icns"
+  },
+  {
+    "slug": "fold-icon-vg-sunflowers-neural",
+    "rawSeries": "vg",
+    "series": "vg",
+    "displayName": "Sunflowers Neural",
+    "preview": "/previews/fold-icon-vg-sunflowers-neural.png",
+    "thumb": "/previews/fold-icon-vg-sunflowers-neural-thumb.webp",
+    "icns": "/icns/fold-icon-vg-sunflowers-neural.icns"
+  },
+  {
+    "slug": "fold-icon-vg-wheatfield-neural",
+    "rawSeries": "vg",
+    "series": "vg",
+    "displayName": "Wheatfield Neural",
+    "preview": "/previews/fold-icon-vg-wheatfield-neural.png",
+    "thumb": "/previews/fold-icon-vg-wheatfield-neural-thumb.webp",
+    "icns": "/icns/fold-icon-vg-wheatfield-neural.icns"
+  },
+  {
+    "slug": "fold-icon-virgil-Blue-Technical",
+    "rawSeries": "virgil",
+    "series": "virgil",
+    "displayName": "Blue Technical",
+    "preview": "/previews/fold-icon-virgil-Blue-Technical.png",
+    "thumb": "/previews/fold-icon-virgil-Blue-Technical-thumb.webp",
+    "icns": "/icns/fold-icon-virgil-Blue-Technical.icns"
+  },
+  {
+    "slug": "fold-icon-virgil-CautionX",
+    "rawSeries": "virgil",
+    "series": "virgil",
+    "displayName": "CautionX",
+    "preview": "/previews/fold-icon-virgil-CautionX.png",
+    "thumb": "/previews/fold-icon-virgil-CautionX-thumb.webp",
+    "icns": "/icns/fold-icon-virgil-CautionX.icns"
+  },
+  {
+    "slug": "fold-icon-virgil-Industrial",
+    "rawSeries": "virgil",
+    "series": "virgil",
+    "displayName": "Industrial",
+    "preview": "/previews/fold-icon-virgil-Industrial.png",
+    "thumb": "/previews/fold-icon-virgil-Industrial-thumb.webp",
+    "icns": "/icns/fold-icon-virgil-Industrial.icns"
+  },
+  {
+    "slug": "fold-icon-virgil-IndustrialStripe",
+    "rawSeries": "virgil",
+    "series": "virgil",
+    "displayName": "IndustrialStripe",
+    "preview": "/previews/fold-icon-virgil-IndustrialStripe.png",
+    "thumb": "/previews/fold-icon-virgil-IndustrialStripe-thumb.webp",
+    "icns": "/icns/fold-icon-virgil-IndustrialStripe.icns"
+  },
+  {
+    "slug": "fold-icon-virgil-Museum-Edition",
+    "rawSeries": "virgil",
+    "series": "virgil",
+    "displayName": "Museum Edition",
+    "preview": "/previews/fold-icon-virgil-Museum-Edition.png",
+    "thumb": "/previews/fold-icon-virgil-Museum-Edition-thumb.webp",
+    "icns": "/icns/fold-icon-virgil-Museum-Edition.icns"
+  },
+  {
+    "slug": "fold-icon-virgil-Safety-Orange",
+    "rawSeries": "virgil",
+    "series": "virgil",
+    "displayName": "Safety Orange",
+    "preview": "/previews/fold-icon-virgil-Safety-Orange.png",
+    "thumb": "/previews/fold-icon-virgil-Safety-Orange-thumb.webp",
+    "icns": "/icns/fold-icon-virgil-Safety-Orange.icns"
+  },
+  {
+    "slug": "fold-icon-walsh-iridescent",
+    "rawSeries": "walsh",
+    "series": "walsh",
+    "displayName": "Iridescent",
+    "preview": "/previews/fold-icon-walsh-iridescent.png",
+    "thumb": "/previews/fold-icon-walsh-iridescent-thumb.webp",
+    "icns": "/icns/fold-icon-walsh-iridescent.icns"
+  },
+  {
+    "slug": "fold-icon-writing-LegalPad",
+    "rawSeries": "writing",
+    "series": "writing",
+    "displayName": "LegalPad",
+    "preview": "/previews/fold-icon-writing-LegalPad.png",
+    "thumb": "/previews/fold-icon-writing-LegalPad-thumb.webp",
+    "icns": "/icns/fold-icon-writing-LegalPad.icns"
+  },
+  {
+    "slug": "fold-icon-writing-Manuscript",
+    "rawSeries": "writing",
+    "series": "writing",
+    "displayName": "Manuscript",
+    "preview": "/previews/fold-icon-writing-Manuscript.png",
+    "thumb": "/previews/fold-icon-writing-Manuscript-thumb.webp",
+    "icns": "/icns/fold-icon-writing-Manuscript.icns"
+  },
+  {
+    "slug": "fold-icon-ysl-neutral-gray",
+    "rawSeries": "ysl",
+    "series": "ysl",
+    "displayName": "Neutral Gray",
+    "preview": "/previews/fold-icon-ysl-neutral-gray.png",
+    "thumb": "/previews/fold-icon-ysl-neutral-gray-thumb.webp",
+    "icns": "/icns/fold-icon-ysl-neutral-gray.icns"
+  },
+  {
+    "slug": "fold-icon-ysl-rive-navy",
+    "rawSeries": "ysl",
+    "series": "ysl",
+    "displayName": "Rive Navy",
+    "preview": "/previews/fold-icon-ysl-rive-navy.png",
+    "thumb": "/previews/fold-icon-ysl-rive-navy-thumb.webp",
+    "icns": "/icns/fold-icon-ysl-rive-navy.icns"
+  },
+  {
+    "slug": "fold-icon-ysl-rivegauche",
+    "rawSeries": "ysl",
+    "series": "ysl",
+    "displayName": "Rivegauche",
+    "preview": "/previews/fold-icon-ysl-rivegauche.png",
+    "thumb": "/previews/fold-icon-ysl-rivegauche-thumb.webp",
+    "icns": "/icns/fold-icon-ysl-rivegauche.icns"
+  },
+  {
+    "slug": "fold-icon-ysl-safari",
+    "rawSeries": "ysl",
+    "series": "ysl",
+    "displayName": "Safari",
+    "preview": "/previews/fold-icon-ysl-safari.png",
+    "thumb": "/previews/fold-icon-ysl-safari-thumb.webp",
+    "icns": "/icns/fold-icon-ysl-safari.icns"
+  },
+  {
+    "slug": "fold-icon-ysl-satin",
+    "rawSeries": "ysl",
+    "series": "ysl",
+    "displayName": "Satin",
+    "preview": "/previews/fold-icon-ysl-satin.png",
+    "thumb": "/previews/fold-icon-ysl-satin-thumb.webp",
+    "icns": "/icns/fold-icon-ysl-satin.icns"
+  },
+  {
+    "slug": "fold-icon-ysl-smoking",
+    "rawSeries": "ysl",
+    "series": "ysl",
+    "displayName": "Smoking",
+    "preview": "/previews/fold-icon-ysl-smoking.png",
+    "thumb": "/previews/fold-icon-ysl-smoking-thumb.webp",
+    "icns": "/icns/fold-icon-ysl-smoking.icns"
+  },
+  {
+    "slug": "fold-icon-ysl-taupe",
+    "rawSeries": "ysl",
+    "series": "ysl",
+    "displayName": "Taupe",
+    "preview": "/previews/fold-icon-ysl-taupe.png",
+    "thumb": "/previews/fold-icon-ysl-taupe-thumb.webp",
+    "icns": "/icns/fold-icon-ysl-taupe.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-DynamicStratum",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "DynamicStratum",
+    "preview": "/previews/fold-icon-zaha-DynamicStratum.png",
+    "thumb": "/previews/fold-icon-zaha-DynamicStratum-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-DynamicStratum.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-FuturisticCanopy",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "FuturisticCanopy",
+    "preview": "/previews/fold-icon-zaha-FuturisticCanopy.png",
+    "thumb": "/previews/fold-icon-zaha-FuturisticCanopy-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-FuturisticCanopy.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-GalaxySoho",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "GalaxySoho",
+    "preview": "/previews/fold-icon-zaha-GalaxySoho.png",
+    "thumb": "/previews/fold-icon-zaha-GalaxySoho-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-GalaxySoho.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-LiquidCarbon",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "LiquidCarbon",
+    "preview": "/previews/fold-icon-zaha-LiquidCarbon.png",
+    "thumb": "/previews/fold-icon-zaha-LiquidCarbon-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-LiquidCarbon.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-LiquidSilver",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "LiquidSilver",
+    "preview": "/previews/fold-icon-zaha-LiquidSilver.png",
+    "thumb": "/previews/fold-icon-zaha-LiquidSilver-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-LiquidSilver.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-MorpheusGlass",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "MorpheusGlass",
+    "preview": "/previews/fold-icon-zaha-MorpheusGlass.png",
+    "thumb": "/previews/fold-icon-zaha-MorpheusGlass-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-MorpheusGlass.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-OrganicShell",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "OrganicShell",
+    "preview": "/previews/fold-icon-zaha-OrganicShell.png",
+    "thumb": "/previews/fold-icon-zaha-OrganicShell-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-OrganicShell.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-ParametricDunes",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "ParametricDunes",
+    "preview": "/previews/fold-icon-zaha-ParametricDunes.png",
+    "thumb": "/previews/fold-icon-zaha-ParametricDunes-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-ParametricDunes.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-ParametricWaves",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "ParametricWaves",
+    "preview": "/previews/fold-icon-zaha-ParametricWaves.png",
+    "thumb": "/previews/fold-icon-zaha-ParametricWaves-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-ParametricWaves.icns"
+  },
+  {
+    "slug": "fold-icon-zaha-VoronoiWeb",
+    "rawSeries": "zaha",
+    "series": "zaha",
+    "displayName": "VoronoiWeb",
+    "preview": "/previews/fold-icon-zaha-VoronoiWeb.png",
+    "thumb": "/previews/fold-icon-zaha-VoronoiWeb-thumb.webp",
+    "icns": "/icns/fold-icon-zaha-VoronoiWeb.icns"
+  }
+]
