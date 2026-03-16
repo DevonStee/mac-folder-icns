@@ -54,5 +54,6 @@ All icons follow `fold-icon-{rawSeries}-{Variant}.icns`. Parsing rules (in both 
 ### URL state
 Search query → `?q=`, active series → `?s=`. Updated via `router.replace` + `useTransition` for non-blocking input.
 
-## Phase 2 (downloads — not yet built)
-Downloads of the original `.icns` files require external storage (Vercel Blob or S3) because the source folder is 462MB and cannot be deployed to Vercel. The `IconCard` component has a download button placeholder for when URLs are available.
+## Downloads / external storage
+
+The 559 `.icns` files (~463 MB) are **gitignored** and served from external storage in production. The download URL base is set via `NEXT_PUBLIC_ICNS_BASE_URL` (defaults to `/icns` for local dev). See `scripts/upload-icns.sh` for uploading to S3-compatible storage (R2, S3, B2).

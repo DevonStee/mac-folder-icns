@@ -36,7 +36,7 @@ npm run dev
 `npm run generate` produces:
 - `public/previews/*.png` — 512 px PNG previews
 - `public/previews/*-thumb.webp` — 128 px WebP thumbnails
-- `public/icns/*.icns` — originals copied for direct download
+- `public/icns/*.icns` — originals copied for direct download (gitignored — not committed)
 - `src/data/icons.json` — icon metadata (committed to git)
 
 ### Local production build
@@ -45,6 +45,43 @@ npm run dev
 npm run build     # outputs to ./out
 npx serve out     # or any static file server
 ```
+
+---
+
+## Hosting downloadable `.icns` files
+
+The 559 `.icns` files (~463 MB) are **not** included in the static build or git. They are served from external storage in production.
+
+### How it works
+
+The download URL base is controlled by `NEXT_PUBLIC_ICNS_BASE_URL`:
+
+| Environment | Value | Behaviour |
+|---|---|---|
+| **Local dev** | *(unset)* | Defaults to `/icns` — served from `public/icns/` on disk |
+| **Production** | `https://icns.example.com` | Downloads fetch from external storage |
+
+### Upload to external storage
+
+Use any S3-compatible service (Cloudflare R2, AWS S3, Backblaze B2, etc.):
+
+```bash
+# Cloudflare R2 example
+./scripts/upload-icns.sh my-bucket https://<account-id>.r2.cloudflarestorage.com
+
+# AWS S3 example
+./scripts/upload-icns.sh my-bucket
+```
+
+Then set `NEXT_PUBLIC_ICNS_BASE_URL` to the bucket's public URL when building.
+
+### Recommended services
+
+| Service | Egress cost | Notes |
+|---|---|---|
+| **Cloudflare R2** | Free | Best for most cases; ~$0.007/mo for 463 MB storage |
+| **AWS S3 + CloudFront** | ~$0.085/GB | Good if already on AWS |
+| **Backblaze B2 + Cloudflare** | Free egress via Cloudflare | Budget alternative |
 
 ---
 
@@ -82,7 +119,7 @@ You can also trigger a deploy manually from **Actions → Deploy to GitHub Pages
 icns_products/          # Source .icns files — gitignored, local only
 public/
   previews/             # PNG + WebP thumbnails — committed
-  icns/                 # Original .icns for download — committed
+  icns/                 # Original .icns for download — gitignored, served externally
 src/
   data/icons.json       # Icon metadata — committed, single source of truth
   app/page.tsx          # Server component entry point

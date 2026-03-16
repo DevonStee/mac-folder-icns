@@ -23,7 +23,10 @@ const ICON_SIZE = 90;
 const BUFFER = 3;
 
 const getPreviewSrc = (slug: string) => `/previews/${slug}.png`;
-const getIcnsSrc = (slug: string) => `/icns/${slug}.icns`;
+
+const ICNS_BASE =
+  process.env.NEXT_PUBLIC_ICNS_BASE_URL?.replace(/\/+$/, "") ?? "/icns";
+const getIcnsSrc = (slug: string) => `${ICNS_BASE}/${slug}.icns`;
 
 
 function matchesSeries(icon: IconMeta, activeSeries: string): boolean {

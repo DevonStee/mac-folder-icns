@@ -28,3 +28,6 @@ next-env.d.ts
 
 # source icons — too large for git (462MB), convert locally with npm run generate
 /icns_products/
+
+# downloadable .icns files — served from external storage in production
+/public/icns/
