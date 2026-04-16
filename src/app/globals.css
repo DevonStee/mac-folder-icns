@@ -108,7 +108,7 @@
 
 /* ── Icon card: mount pop + hover ────────────────────────────────────────── */
 @keyframes icon-pop {
-  from { transform: scale(0.6); opacity: 0; }
+  from { transform: scale(0.1); opacity: 0; }
   to   { transform: scale(1);   opacity: 1; }
 }
 
