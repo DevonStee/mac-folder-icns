@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState, useEffect, useCallback } from "react";
+import { useRef, useState, useEffect, useCallback, useTransition } from "react";
 import type { MotionValue } from "framer-motion";
 import type { IconMeta } from "@/components/IconCard";
 
@@ -19,6 +19,7 @@ export function useVirtualCells(
   x: MotionValue<number>,
   y: MotionValue<number>,
 ) {
+  const [, startTransition] = useTransition();
   const vpSizeRef = useRef({ w: 0, h: 0 });
   const filteredRef = useRef(filtered);
   filteredRef.current = filtered;
@@ -47,33 +48,33 @@ export function useVirtualCells(
   const [cells, setCells] = useState<Cell[]>([]);
   const lastTileRef = useRef({ col: 999999, row: 999999 });
 
-  // Recompute on pan
+  // Recompute on pan — deferred so drag animation stays smooth
   useEffect(() => {
     const check = () => {
       const tc = Math.floor(-x.get() / CELL);
       const tr = Math.floor(-y.get() / CELL);
       if (tc !== lastTileRef.current.col || tr !== lastTileRef.current.row) {
         lastTileRef.current = { col: tc, row: tr };
-        setCells(computeCells());
+        startTransition(() => setCells(computeCells()));
       }
     };
     const unsubX = x.on("change", check);
     const unsubY = y.on("change", check);
     check();
     return () => { unsubX(); unsubY(); };
-  }, [x, y, computeCells]);
+  }, [x, y, computeCells, startTransition]);
 
   // Recompute on filter change or resize
   useEffect(() => {
     const recompute = () => {
       vpSizeRef.current = { w: window.innerWidth, h: window.innerHeight };
       lastTileRef.current = { col: 999999, row: 999999 };
-      setCells(computeCells());
+      startTransition(() => setCells(computeCells()));
     };
     recompute();
     window.addEventListener("resize", recompute);
     return () => window.removeEventListener("resize", recompute);
-  }, [filtered, computeCells]);
+  }, [filtered, computeCells, startTransition]);
 
   return cells;
 }
