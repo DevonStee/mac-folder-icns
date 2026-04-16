@@ -2,7 +2,6 @@
 
 import { useRef, useState, useEffect, useCallback } from "react";
 import { useMotionValue, animate } from "framer-motion";
-import type { IconMeta } from "@/components/IconCard";
 
 export function useCanvasPan() {
   const [isDragging, setIsDragging] = useState(false);
@@ -30,21 +29,12 @@ export function useCanvasPan() {
     };
   }, [x, y]);
 
-  const snapToOrigin = useCallback((currentQ: string, currentS: string) => {
+  const snapToOrigin = useCallback(() => {
     if (x.get() !== 0 || y.get() !== 0) {
       animate(x, 0, { type: "spring", stiffness: 400, damping: 40 });
       animate(y, 0, { type: "spring", stiffness: 400, damping: 40 });
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [x, y]);
-
-  const handleSelect = useCallback(
-    (icon: IconMeta, onOpen: (icon: IconMeta) => void) => {
-      if (justDraggedRef.current) return;
-      onOpen(icon);
-    },
-    [],
-  );
 
   const dragHandlers = {
     onDragStart: () => {

@@ -54,7 +54,7 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
 
   const cells = useVirtualCells(filtered, x, y);
 
-  useEffect(() => { snapToOrigin(q, s); }, [q, s, snapToOrigin]);
+  useEffect(() => { snapToOrigin(); }, [q, s, snapToOrigin]);
 
   // Wheel → pan
   useEffect(() => {
