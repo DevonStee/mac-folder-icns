@@ -9,6 +9,7 @@ export interface IconMeta {
   rawSeries: string;
   series: string;
   displayName: string;
+  thumb: string;
 }
 
 interface IconCardProps {
@@ -34,7 +35,7 @@ const IconCard = memo(function IconCard({ icon, priority, onSelect }: IconCardPr
     >
       <div className="relative h-full w-full">
         <Image
-          src={`/previews/${icon.slug}.png`}
+          src={icon.thumb}
           alt={icon.displayName}
           fill
           sizes="90px"

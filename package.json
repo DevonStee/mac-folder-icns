@@ -8,7 +8,7 @@
   "scripts": {
     "generate": "node scripts/generate.mjs",
     "dev": "NEXT_DISABLE_SERWIST=1 next dev",
-    "build": "NEXT_DISABLE_SERWIST=1 next build",
+    "build": "NEXT_DISABLE_SERWIST=1 next build && node scripts/clean-deploy.mjs",
     "start": "next start",
     "lint": "next lint"
   },

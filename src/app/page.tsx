@@ -8,6 +8,7 @@ const icons: IconMeta[] = iconsData.map((icon) => ({
   rawSeries: icon.rawSeries,
   series: icon.series,
   displayName: icon.displayName,
+  thumb: icon.thumb,
 }));
 
 export default function HomePage() {

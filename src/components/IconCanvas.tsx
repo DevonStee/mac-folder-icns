@@ -22,8 +22,9 @@ const CELL = 110;
 const ICON_SIZE = 90;
 const BUFFER = 3;
 
-const getPreviewSrc = (slug: string) => `/previews/${slug}.png`;
-const getIcnsSrc = (slug: string) => `/icns/${slug}.icns`;
+const GITHUB_RAW = "https://raw.githubusercontent.com/DevonStee/mac-folder-icns/main/public";
+const getPreviewSrc = (slug: string) => `${GITHUB_RAW}/previews/${slug}.png`;
+const getIcnsSrc = (slug: string) => `${GITHUB_RAW}/icns/${slug}.icns`;
 
 
 function matchesSeries(icon: IconMeta, activeSeries: string): boolean {
