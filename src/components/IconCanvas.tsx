@@ -6,13 +6,12 @@ import { useTheme } from "@/hooks/useTheme";
 import { useUrlParams } from "@/hooks/useUrlParams";
 import { useCanvasPan } from "@/hooks/useCanvasPan";
 import { useVirtualCells } from "@/hooks/useVirtualCells";
-import IconCard, { type IconMeta } from "./IconCard";
+import IconCard, { ICON_SIZE, type IconMeta } from "./IconCard";
 import TopBar from "./TopBar";
 import DownloadDialog from "./DownloadDialog";
 
 const VERSION_RE = /^v\d+$/;
 const HEX_RE = /^[0-9a-f]{6}$/i;
-const ICON_SIZE = 90;
 
 function matchesSeries(icon: IconMeta, activeSeries: string): boolean {
   if (!activeSeries) return true;

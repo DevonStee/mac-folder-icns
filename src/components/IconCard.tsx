@@ -2,6 +2,8 @@
 
 import { memo } from "react";
 
+export const ICON_SIZE = 90;
+
 export interface IconMeta {
   slug: string;
   rawSeries: string;
@@ -21,8 +23,8 @@ const IconCard = memo(function IconCard({ icon, onSelect }: IconCardProps) {
       <img
         src={icon.thumb}
         alt=""
-        width={90}
-        height={90}
+        width={ICON_SIZE}
+        height={ICON_SIZE}
         loading="lazy"
         draggable={false}
         className="object-contain w-full h-full"

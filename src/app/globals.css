@@ -124,9 +124,7 @@ html, body {
   cursor: pointer;
 }
 
-/* Pop animation plays every time a cell mounts (initial render + new cells
-   entering viewport while panning). Desktop only — mobile touch devices
-   skip to avoid GPU jank during pan. */
+/* Desktop only: mobile gets GPU jank when cells animate during pan. */
 @media (hover: hover) and (pointer: fine) {
   .icon-card {
     animation: icon-pop 400ms ease-out both;
