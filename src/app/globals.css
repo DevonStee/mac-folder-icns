@@ -114,10 +114,9 @@
 
 .icon-card {
   animation: icon-pop 400ms ease-out both;
-  transition: transform 120ms ease-out;
+  transition: scale 120ms ease-out, translate 120ms ease-out;
   cursor: pointer;
 }
 
-/* !important needed to override animation fill-mode: both */
-.icon-card:hover  { transform: scale(1.12) translateY(-6px) !important; }
-.icon-card:active { transform: scale(0.95) !important; transition-duration: 60ms; }
+.icon-card:hover  { scale: 1.12; translate: 0 -6px; }
+.icon-card:active { scale: 0.95; transition-duration: 60ms; }
