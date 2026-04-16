@@ -37,6 +37,10 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
   const wrapperRef = useRef<HTMLDivElement>(null);
   const { isDark, setIsDark, themeReady } = useTheme();
   const { q, s, updateParams } = useUrlParams();
+  const qRef = useRef(q);
+  const sRef = useRef(s);
+  qRef.current = q;
+  sRef.current = s;
   const { x, y, isDragging, dragHandlers, snapToOrigin } = useCanvasPan();
   const [selectedIcon, setSelectedIcon] = useState<IconMeta | null>(null);
 
@@ -82,12 +86,12 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
   }, [setIsDark]);
 
   const handleSearch = useCallback((nextQ: string) => {
-    updateParams(nextQ, s);
-  }, [updateParams, s]);
+    updateParams(nextQ, sRef.current);
+  }, [updateParams]);
 
   const handleFilter = useCallback((nextS: string) => {
-    updateParams(q, nextS);
-  }, [updateParams, q]);
+    updateParams(qRef.current, nextS);
+  }, [updateParams]);
 
   const countText = filtered.length !== icons.length
     ? `${filtered.length} of ${icons.length}`

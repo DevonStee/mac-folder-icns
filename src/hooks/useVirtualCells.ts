@@ -4,7 +4,7 @@ import { useRef, useState, useEffect, useCallback, useTransition } from "react";
 import type { MotionValue } from "framer-motion";
 import type { IconMeta } from "@/components/IconCard";
 
-export const CELL = 110;
+const CELL = 110;
 
 export interface Cell {
   key: string;
