@@ -5,7 +5,7 @@ import type { MotionValue } from "framer-motion";
 import type { IconMeta } from "@/components/IconCard";
 
 export const CELL = 110;
-const BUFFER = 1;
+const BUFFER = 0;
 
 export interface Cell {
   key: string;
