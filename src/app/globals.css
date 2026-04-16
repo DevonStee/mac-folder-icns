@@ -124,9 +124,15 @@ html, body {
   cursor: pointer;
 }
 
-/* Only animate pop on initial page render, not when cells mount from panning */
-.initial-render .icon-card {
-  animation: icon-pop 400ms ease-out both;
+/* Pop animation:
+   - Only on initial page render (not during panning — .initial-render scope)
+   - Only on desktop (coarse-pointer touch devices get none — avoids mobile jank)
+   - Staggered via --pop-delay CSS var set per cell in IconCanvas */
+@media (hover: hover) and (pointer: fine) {
+  .initial-render .icon-card {
+    animation: icon-pop 400ms ease-out both;
+    animation-delay: var(--pop-delay, 0ms);
+  }
 }
 
 .icon-card:hover  { scale: 1.12; translate: 0 -6px; }
