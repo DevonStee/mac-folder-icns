@@ -19,7 +19,7 @@ interface IconCardProps {
 const IconCard = memo(function IconCard({ icon, priority, onSelect }: IconCardProps) {
   return (
     <div
-      className="icon-card group relative aspect-square"
+      className="icon-card relative aspect-square"
       onClick={onSelect && (() => onSelect(icon))}
     >
       <img
@@ -29,16 +29,6 @@ const IconCard = memo(function IconCard({ icon, priority, onSelect }: IconCardPr
         draggable={false}
         className="object-contain w-full h-full"
       />
-
-      {/* Name tooltip on hover */}
-      <div className="icon-tooltip pointer-events-none absolute inset-x-0 -bottom-6 text-center">
-        <span
-          className="rounded-full px-2 py-0.5 text-[10px] backdrop-blur-sm text-white"
-          style={{ background: "var(--tooltip-bg)" }}
-        >
-          {icon.displayName}
-        </span>
-      </div>
     </div>
   );
 });

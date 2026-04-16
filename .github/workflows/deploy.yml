@@ -33,6 +33,7 @@ jobs:
         run: npm run build
         env:
           NEXT_PUBLIC_BASE_PATH: /mac-folder-icns
+          NEXT_PUBLIC_GITHUB_RAW: https://raw.githubusercontent.com/DevonStee/mac-folder-icns/main/public
 
       - uses: actions/configure-pages@v4
 
