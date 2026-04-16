@@ -113,10 +113,11 @@
 }
 
 .icon-card {
-  animation: icon-pop 400ms ease-out backwards;
+  animation: icon-pop 400ms ease-out both;
   transition: transform 120ms ease-out;
   cursor: pointer;
 }
 
-.icon-card:hover  { transform: scale(1.12) translateY(-6px); }
-.icon-card:active { transform: scale(0.95); transition-duration: 60ms; }
+/* !important needed to override animation fill-mode: both */
+.icon-card:hover  { transform: scale(1.12) translateY(-6px) !important; }
+.icon-card:active { transform: scale(0.95) !important; transition-duration: 60ms; }
