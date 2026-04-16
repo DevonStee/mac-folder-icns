@@ -7,18 +7,16 @@
   },
   "scripts": {
     "generate": "node scripts/generate.mjs",
-    "dev": "NEXT_DISABLE_SERWIST=1 next dev",
-    "build": "NEXT_DISABLE_SERWIST=1 next build && node scripts/clean-deploy.mjs",
+    "dev": "next dev",
+    "build": "next build && node scripts/clean-deploy.mjs",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "@serwist/next": "^9.5.6",
     "framer-motion": "^12.34.3",
     "next": "15.2.1",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "serwist": "^9.5.6"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.0.0",
