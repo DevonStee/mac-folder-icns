@@ -5,6 +5,7 @@ import { useMotionValue, animate } from "framer-motion";
 
 export function useCanvasPan() {
   const [isDragging, setIsDragging] = useState(false);
+  const didDragRef = useRef(false);
   const x = useMotionValue(0);
   const y = useMotionValue(0);
 
@@ -40,13 +41,18 @@ export function useCanvasPan() {
     onDragStart: () => {
       x.stop();
       y.stop();
+      didDragRef.current = false;
       setIsDragging(true);
     },
     onDragEnd: (_: unknown, info: { offset: { x: number; y: number } }) => {
       setIsDragging(false);
+      if (Math.abs(info.offset.x) > 3 || Math.abs(info.offset.y) > 3) {
+        didDragRef.current = true;
+        requestAnimationFrame(() => { didDragRef.current = false; });
+      }
     },
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }), []);
 
-  return { x, y, isDragging, dragHandlers, snapToOrigin };
+  return { x, y, isDragging, dragHandlers, snapToOrigin, didDragRef };
 }

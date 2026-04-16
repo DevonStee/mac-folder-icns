@@ -41,7 +41,7 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
   const sRef = useRef(s);
   qRef.current = q;
   sRef.current = s;
-  const { x, y, isDragging, dragHandlers, snapToOrigin } = useCanvasPan();
+  const { x, y, isDragging, dragHandlers, snapToOrigin, didDragRef } = useCanvasPan();
   const [selectedIcon, setSelectedIcon] = useState<IconMeta | null>(null);
 
   const filtered = useMemo(() => {
@@ -74,7 +74,9 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
   }, []);
 
   const handleSelect = useCallback((icon: IconMeta) => {
+    if (didDragRef.current) return;
     setSelectedIcon(icon);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleCloseDialog = useCallback(() => {
