@@ -24,7 +24,7 @@ const IconCard = memo(function IconCard({ icon, onSelect }: IconCardProps) {
     <div className="icon-card relative aspect-square" onClick={handleClick}>
       <img
         src={icon.thumb}
-        alt={icon.displayName}
+        alt=""
         loading="lazy"
         draggable={false}
         className="object-contain w-full h-full"
