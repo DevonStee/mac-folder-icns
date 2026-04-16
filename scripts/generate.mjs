@@ -23,7 +23,7 @@ const PREVIEWS_DIR = join(ROOT, "public", "previews");
 const ICNS_PUBLIC_DIR = join(ROOT, "public", "icns");
 const DATA_FILE = join(ROOT, "src", "data", "icons.json");
 
-const THUMB_SIZE = 128;
+const THUMB_SIZE = 256;
 const WEBP_QUALITY = 80;
 
 // Series with 6+ icons get their own filter chip. Others go into meta-groups.

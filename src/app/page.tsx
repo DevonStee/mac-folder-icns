@@ -11,11 +11,7 @@ const icons: IconMeta[] = iconsData.map((icon) => ({
   rawSeries: icon.rawSeries,
   series: icon.series,
   displayName: icon.displayName,
-  // Production: GitHub Raw 512px PNG (sharp on Retina, lazy loaded per cell)
-  // Dev: local WebP thumb (fast local serve)
-  thumb: githubRaw
-    ? `${githubRaw}/previews/${icon.slug}.png`
-    : `${basePath}${icon.thumb}`,
+  thumb: `${basePath}${icon.thumb}`,
 }));
 
 export default function HomePage() {
