@@ -22,18 +22,12 @@ function matchesSeries(icon: IconMeta, activeSeries: string): boolean {
 }
 
 const TileCell = memo(function TileCell({
-  icon, left, top, onSelect, delay,
+  icon, left, top, onSelect,
 }: {
-  icon: IconMeta; left: number; top: number; onSelect: (icon: IconMeta) => void; delay: number;
+  icon: IconMeta; left: number; top: number; onSelect: (icon: IconMeta) => void;
 }) {
   return (
-    <div style={{
-      position: "absolute",
-      left, top,
-      width: ICON_SIZE,
-      height: ICON_SIZE,
-      ["--pop-delay" as string]: `${delay}ms`,
-    }}>
+    <div style={{ position: "absolute", left, top, width: ICON_SIZE, height: ICON_SIZE }}>
       <IconCard icon={icon} onSelect={onSelect} />
     </div>
   );
@@ -49,13 +43,6 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
   sRef.current = s;
   const { x, y, isDragging, dragHandlers, snapToOrigin, didDragRef } = useCanvasPan();
   const [selectedIcon, setSelectedIcon] = useState<IconMeta | null>(null);
-  const [isInitial, setIsInitial] = useState(true);
-
-  useEffect(() => {
-    // Max stagger delay (400ms) + animation duration (400ms) = 800ms; extra buffer.
-    const t = setTimeout(() => setIsInitial(false), 1000);
-    return () => clearTimeout(t);
-  }, []);
 
   const filtered = useMemo(() => {
     const query = q.trim().toLowerCase();
@@ -126,8 +113,8 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
         {...dragHandlers}
         className="absolute inset-0"
       >
-        <div className={`${isDragging ? "pointer-events-none" : ""} ${isInitial ? "initial-render" : ""}`}>
-          {cells.map((cell, i) => {
+        <div className={isDragging ? "pointer-events-none" : ""}>
+          {cells.map((cell) => {
             const icon = filtered[cell.iconIndex];
             if (!icon) return null;
             return (
@@ -137,7 +124,6 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
                 left={cell.left}
                 top={cell.top}
                 onSelect={handleSelect}
-                delay={Math.min(i * 10, 400)}
               />
             );
           })}
