@@ -1,5 +1,12 @@
 @import "tailwindcss";
 
+/* Prevent iOS Safari pull-to-refresh and rubber-band scroll */
+html, body {
+  overscroll-behavior: none;
+  overflow: hidden;
+  height: 100%;
+}
+
 /* Hide scrollbars but keep scroll behavior */
 .scrollbar-hide {
   scrollbar-width: none;
@@ -113,9 +120,13 @@
 }
 
 .icon-card {
-  animation: icon-pop 400ms ease-out both;
   transition: scale 120ms ease-out, translate 120ms ease-out;
   cursor: pointer;
+}
+
+/* Only animate pop on initial page render, not when cells mount from panning */
+.initial-render .icon-card {
+  animation: icon-pop 400ms ease-out both;
 }
 
 .icon-card:hover  { scale: 1.12; translate: 0 -6px; }

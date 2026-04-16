@@ -43,6 +43,12 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
   sRef.current = s;
   const { x, y, isDragging, dragHandlers, snapToOrigin, didDragRef } = useCanvasPan();
   const [selectedIcon, setSelectedIcon] = useState<IconMeta | null>(null);
+  const [isInitial, setIsInitial] = useState(true);
+
+  useEffect(() => {
+    const t = setTimeout(() => setIsInitial(false), 600);
+    return () => clearTimeout(t);
+  }, []);
 
   const filtered = useMemo(() => {
     const query = q.trim().toLowerCase();
@@ -113,7 +119,7 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
         {...dragHandlers}
         className="absolute inset-0"
       >
-        <div className={isDragging ? "pointer-events-none" : ""}>
+        <div className={`${isDragging ? "pointer-events-none" : ""} ${isInitial ? "initial-render" : ""}`}>
           {cells.map((cell) => {
             const icon = filtered[cell.iconIndex];
             if (!icon) return null;

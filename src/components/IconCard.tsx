@@ -21,6 +21,8 @@ const IconCard = memo(function IconCard({ icon, onSelect }: IconCardProps) {
       <img
         src={icon.thumb}
         alt=""
+        width={90}
+        height={90}
         loading="lazy"
         draggable={false}
         className="object-contain w-full h-full"
