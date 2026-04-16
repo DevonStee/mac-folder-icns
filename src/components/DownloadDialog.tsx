@@ -50,8 +50,11 @@ export default function DownloadDialog({ icon, onClose }: DownloadDialogProps) {
                 </div>
               )}
               {imgState === "error" && (
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <img src={icon.thumb} alt={icon.displayName} className="w-full h-full object-contain opacity-60" />
+                <div className="absolute inset-0 flex flex-col items-center justify-center gap-1">
+                  <img src={icon.thumb} alt={icon.displayName} className="w-full h-full object-contain opacity-50" />
+                  <span className="absolute bottom-0 text-[9px]" style={{ color: "var(--muted-color)" }}>
+                    Preview unavailable
+                  </span>
                 </div>
               )}
               <img
