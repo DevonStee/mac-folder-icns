@@ -108,12 +108,12 @@
 
 /* ── Icon card: mount pop + hover ────────────────────────────────────────── */
 @keyframes icon-pop {
-  from { transform: scale(0); opacity: 0; }
-  to   { transform: scale(1); opacity: 1; }
+  from { transform: scale(0.6); opacity: 0; }
+  to   { transform: scale(1);   opacity: 1; }
 }
 
 .icon-card {
-  animation: icon-pop 320ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  animation: icon-pop 500ms ease-out both;
   transition: transform 120ms ease-out;
   cursor: pointer;
 }
