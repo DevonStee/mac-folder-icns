@@ -35,7 +35,7 @@ npm run dev
 
 `npm run generate` produces:
 - `public/previews/*.png` — 512 px PNG previews
-- `public/previews/*-thumb.webp` — 128 px WebP thumbnails
+- `public/previews/*-thumb.webp` — 256 px WebP thumbnails
 - `public/icns/*.icns` — originals copied for direct download
 - `src/data/icons.json` — icon metadata (committed to git)
 
@@ -87,9 +87,16 @@ src/
   data/icons.json       # Icon metadata — committed, single source of truth
   app/page.tsx          # Server component entry point
   components/
-    IconCanvas.tsx      # Infinite panning canvas + UI overlay
+    IconCanvas.tsx      # Infinite panning canvas + cell virtualization
     IconCard.tsx        # Single icon tile
+    TopBar.tsx          # Search input, filter chips row, theme toggle
+    DownloadDialog.tsx  # Icon detail + download modal
     FilterChips.tsx     # Series constants + chip label helpers
+  hooks/
+    useCanvasPan.ts     # Framer-motion pan state + snap-to-origin
+    useVirtualCells.ts  # Viewport-based cell virtualization (infinite grid)
+    useUrlParams.ts     # Search/filter state synced to ?q= & ?s=
+    useTheme.ts         # Dark-mode toggle + localStorage persistence
 scripts/
   generate.mjs          # icns → PNG/WebP + icons.json (macOS only)
 .github/workflows/

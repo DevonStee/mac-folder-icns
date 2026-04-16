@@ -31,12 +31,18 @@ npm start
 ### Key files
 | File | Role |
 |------|------|
-| `scripts/generate.mjs` | Converts .icns → 512px PNG, parses filenames, writes icons.json |
+| `scripts/generate.mjs` | Converts .icns → 512px PNG + 256px WebP thumb, parses filenames, writes icons.json |
 | `src/data/icons.json` | Static icon metadata, imported directly by page.tsx |
-| `src/app/page.tsx` | Server component — imports icons.json, passes to `<IconGallery>` |
-| `src/components/IconGallery.tsx` | `"use client"` — owns search/filter state, syncs to URL params |
-| `src/components/FilterChips.tsx` | Filter chips; `NAMED_SERIES` constant must match generate.mjs |
-| `src/components/IconCard.tsx` | Renders one icon with `next/image` |
+| `src/app/page.tsx` | Server component — imports icons.json, passes to `<IconCanvas>` inside `<Suspense>` |
+| `src/components/IconCanvas.tsx` | `"use client"` — infinite panning canvas, owns filter logic, composes TopBar + DownloadDialog |
+| `src/components/IconCard.tsx` | Renders one icon tile with a plain `<img>` (WebP thumb) |
+| `src/components/TopBar.tsx` | Search input, filter chips row, theme toggle |
+| `src/components/DownloadDialog.tsx` | Icon detail modal with .icns download link |
+| `src/components/FilterChips.tsx` | Series constants + chip label helpers; `NAMED_SERIES` must match generate.mjs |
+| `src/hooks/useCanvasPan.ts` | Framer-motion `x`/`y` motion values, drag handlers, snap-to-origin |
+| `src/hooks/useVirtualCells.ts` | Computes only viewport-visible cells from pan position (infinite tiling via modulo) |
+| `src/hooks/useUrlParams.ts` | `?q=` / `?s=` state via `router.replace` + `useTransition` |
+| `src/hooks/useTheme.ts` | Dark-mode toggle + localStorage persistence |
 
 ### Filename parsing logic
 All icons follow `fold-icon-{rawSeries}-{Variant}.icns`. Parsing rules (in both `generate.mjs` and `FilterChips.tsx`):
@@ -46,7 +52,7 @@ All icons follow `fold-icon-{rawSeries}-{Variant}.icns`. Parsing rules (in both 
 - Everything else → rawSeries kept as-is, no filter chip
 
 ### Filter chip / series matching
-`IconGallery.tsx` filters using `matchesSeries()`:
+`IconCanvas.tsx` filters using `matchesSeries()`:
 - `"color"` chip → matches `HEX_RE` on rawSeries
 - `"archive"` chip → matches `VERSION_RE` on rawSeries
 - Named chip → exact `rawSeries` match
