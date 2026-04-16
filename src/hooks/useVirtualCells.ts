@@ -5,7 +5,6 @@ import type { MotionValue } from "framer-motion";
 import type { IconMeta } from "@/components/IconCard";
 
 export const CELL = 110;
-const BUFFER = 0;
 
 export interface Cell {
   key: string;
@@ -31,10 +30,10 @@ export function useVirtualCells(
     const COLS = Math.max(1, Math.floor(w / CELL));
     const panX = x.get();
     const panY = y.get();
-    const startCol = Math.floor(-panX / CELL) - BUFFER;
-    const endCol = startCol + Math.ceil(w / CELL) + BUFFER * 2 + 1;
-    const startRow = Math.floor(-panY / CELL) - BUFFER;
-    const endRow = startRow + Math.ceil(h / CELL) + BUFFER * 2 + 1;
+    const startCol = Math.floor(-panX / CELL);
+    const endCol = startCol + Math.ceil(w / CELL) + 1;
+    const startRow = Math.floor(-panY / CELL);
+    const endRow = startRow + Math.ceil(h / CELL) + 1;
     const cells: Cell[] = [];
     for (let row = startRow; row <= endRow; row++) {
       for (let col = startCol; col <= endCol; col++) {
@@ -43,7 +42,9 @@ export function useVirtualCells(
       }
     }
     return cells;
-  }, [x, y]);
+  // x, y are stable MotionValue refs
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const [cells, setCells] = useState<Cell[]>([]);
   const lastTileRef = useRef({ col: 999999, row: 999999 });
@@ -62,7 +63,8 @@ export function useVirtualCells(
     const unsubY = y.on("change", check);
     check();
     return () => { unsubX(); unsubY(); };
-  }, [x, y, computeCells, startTransition]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [computeCells, startTransition]);
 
   // Recompute on filter change or resize
   useEffect(() => {

@@ -1,6 +1,6 @@
 "use client";
 
-import { memo } from "react";
+import { memo, useCallback } from "react";
 
 export interface IconMeta {
   slug: string;
@@ -12,20 +12,20 @@ export interface IconMeta {
 
 interface IconCardProps {
   icon: IconMeta;
-  priority?: boolean;
   onSelect?: (icon: IconMeta) => void;
 }
 
-const IconCard = memo(function IconCard({ icon, priority, onSelect }: IconCardProps) {
+const IconCard = memo(function IconCard({ icon, onSelect }: IconCardProps) {
+  const handleClick = useCallback(() => {
+    onSelect?.(icon);
+  }, [onSelect, icon]);
+
   return (
-    <div
-      className="icon-card relative aspect-square"
-      onClick={onSelect && (() => onSelect(icon))}
-    >
+    <div className="icon-card relative aspect-square" onClick={handleClick}>
       <img
         src={icon.thumb}
         alt={icon.displayName}
-        loading={priority ? "eager" : "lazy"}
+        loading="lazy"
         draggable={false}
         className="object-contain w-full h-full"
       />

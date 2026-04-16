@@ -27,14 +27,17 @@ export function useCanvasPan() {
       window.removeEventListener("blur", forceEnd);
       document.removeEventListener("visibilitychange", onVis);
     };
-  }, [x, y]);
+  // x, y are stable MotionValue refs
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const snapToOrigin = useCallback(() => {
     if (x.get() !== 0 || y.get() !== 0) {
       animate(x, 0, { type: "spring", stiffness: 400, damping: 40 });
       animate(y, 0, { type: "spring", stiffness: 400, damping: 40 });
     }
-  }, [x, y]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const dragHandlers = useMemo(() => ({
     onDragStart: () => {
@@ -50,7 +53,8 @@ export function useCanvasPan() {
         requestAnimationFrame(() => { justDraggedRef.current = false; });
       }
     },
-  }), [x, y]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }), []);
 
-  return { x, y, isDragging, dragHandlers, snapToOrigin, justDraggedRef };
+  return { x, y, isDragging, dragHandlers, snapToOrigin };
 }

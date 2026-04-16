@@ -1,17 +1,17 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, memo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { IconMeta } from "./IconCard";
 
-const GITHUB_RAW = process.env.NEXT_PUBLIC_GITHUB_RAW!;
+const GITHUB_RAW = process.env.NEXT_PUBLIC_GITHUB_RAW ?? "";
 
 interface DownloadDialogProps {
   icon: IconMeta | null;
   onClose: () => void;
 }
 
-export default function DownloadDialog({ icon, onClose }: DownloadDialogProps) {
+export default memo(function DownloadDialog({ icon, onClose }: DownloadDialogProps) {
   const [imgState, setImgState] = useState<"loading" | "loaded" | "error">("loading");
   const previewSrc = icon ? `${GITHUB_RAW}/previews/${icon.slug}.png` : "";
 
@@ -104,4 +104,4 @@ export default function DownloadDialog({ icon, onClose }: DownloadDialogProps) {
       )}
     </AnimatePresence>
   );
-}
+});

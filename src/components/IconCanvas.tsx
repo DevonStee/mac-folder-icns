@@ -9,7 +9,6 @@ import { useVirtualCells } from "@/hooks/useVirtualCells";
 import IconCard, { type IconMeta } from "./IconCard";
 import TopBar from "./TopBar";
 import DownloadDialog from "./DownloadDialog";
-import { CELL } from "@/hooks/useVirtualCells";
 
 const VERSION_RE = /^v\d+$/;
 const HEX_RE = /^[0-9a-f]{6}$/i;
@@ -56,7 +55,6 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
 
   useEffect(() => { snapToOrigin(); }, [q, s, snapToOrigin]);
 
-  // Wheel → pan
   useEffect(() => {
     const wrapper = wrapperRef.current;
     if (!wrapper) return;
@@ -68,13 +66,28 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
     };
     wrapper.addEventListener("wheel", onWheel, { passive: false });
     return () => wrapper.removeEventListener("wheel", onWheel);
-  // x and y are stable MotionValue references — effect only needs to run once
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handleSelect = useCallback((icon: IconMeta) => {
     setSelectedIcon(icon);
   }, []);
+
+  const handleCloseDialog = useCallback(() => {
+    setSelectedIcon(null);
+  }, []);
+
+  const handleThemeToggle = useCallback(() => {
+    setIsDark((d) => !d);
+  }, [setIsDark]);
+
+  const handleSearch = useCallback((nextQ: string) => {
+    updateParams(nextQ, s);
+  }, [updateParams, s]);
+
+  const handleFilter = useCallback((nextS: string) => {
+    updateParams(q, nextS);
+  }, [updateParams, q]);
 
   const countText = filtered.length !== icons.length
     ? `${filtered.length} of ${icons.length}`
@@ -86,7 +99,6 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
       className={`fixed inset-0 overflow-hidden select-none transition-colors duration-300 ${isDragging ? "cursor-grabbing" : "cursor-grab"}`}
       style={{ background: "var(--page-bg)" }}
     >
-      {/* Infinite tiling canvas */}
       <motion.div
         drag
         dragMomentum={false}
@@ -118,12 +130,12 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
         s={s}
         isDark={isDark}
         themeReady={themeReady}
-        onThemeToggle={() => setIsDark((d) => !d)}
-        onSearch={(nextQ) => updateParams(nextQ, s)}
-        onFilter={(nextS) => updateParams(q, nextS)}
+        onThemeToggle={handleThemeToggle}
+        onSearch={handleSearch}
+        onFilter={handleFilter}
       />
 
-      <DownloadDialog icon={selectedIcon} onClose={() => setSelectedIcon(null)} />
+      <DownloadDialog icon={selectedIcon} onClose={handleCloseDialog} />
     </div>
   );
 }
