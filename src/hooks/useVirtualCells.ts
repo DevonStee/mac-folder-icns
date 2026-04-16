@@ -4,8 +4,8 @@ import { useRef, useState, useEffect, useCallback } from "react";
 import type { MotionValue } from "framer-motion";
 import type { IconMeta } from "@/components/IconCard";
 
-const CELL = 110;
-const BUFFER = 3;
+export const CELL = 110;
+const BUFFER = 1;
 
 export interface Cell {
   key: string;
@@ -20,19 +20,6 @@ export function useVirtualCells(
   y: MotionValue<number>,
 ) {
   const vpSizeRef = useRef({ w: 0, h: 0 });
-  const [vpSize, setVpSize] = useState({ w: 0, h: 0 });
-
-  useEffect(() => {
-    const update = () => {
-      const size = { w: window.innerWidth, h: window.innerHeight };
-      vpSizeRef.current = size;
-      setVpSize(size);
-    };
-    update();
-    window.addEventListener("resize", update);
-    return () => window.removeEventListener("resize", update);
-  }, []);
-
   const filteredRef = useRef(filtered);
   filteredRef.current = filtered;
 
@@ -60,6 +47,7 @@ export function useVirtualCells(
   const [cells, setCells] = useState<Cell[]>([]);
   const lastTileRef = useRef({ col: 999999, row: 999999 });
 
+  // Recompute on pan
   useEffect(() => {
     const check = () => {
       const tc = Math.floor(-x.get() / CELL);
@@ -75,10 +63,17 @@ export function useVirtualCells(
     return () => { unsubX(); unsubY(); };
   }, [x, y, computeCells]);
 
+  // Recompute on filter change or resize
   useEffect(() => {
-    lastTileRef.current = { col: 999999, row: 999999 };
-    setCells(computeCells());
-  }, [filtered, vpSize, computeCells]);
+    const recompute = () => {
+      vpSizeRef.current = { w: window.innerWidth, h: window.innerHeight };
+      lastTileRef.current = { col: 999999, row: 999999 };
+      setCells(computeCells());
+    };
+    recompute();
+    window.addEventListener("resize", recompute);
+    return () => window.removeEventListener("resize", recompute);
+  }, [filtered, computeCells]);
 
   return cells;
 }

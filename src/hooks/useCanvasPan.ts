@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState, useEffect, useCallback } from "react";
+import { useRef, useState, useEffect, useCallback, useMemo } from "react";
 import { useMotionValue, animate } from "framer-motion";
 
 export function useCanvasPan() {
@@ -36,7 +36,7 @@ export function useCanvasPan() {
     }
   }, [x, y]);
 
-  const dragHandlers = {
+  const dragHandlers = useMemo(() => ({
     onDragStart: () => {
       x.stop();
       y.stop();
@@ -50,7 +50,7 @@ export function useCanvasPan() {
         requestAnimationFrame(() => { justDraggedRef.current = false; });
       }
     },
-  };
+  }), [x, y]);
 
   return { x, y, isDragging, dragHandlers, snapToOrigin, justDraggedRef };
 }

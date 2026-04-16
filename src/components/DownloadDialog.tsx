@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import type { IconMeta } from "./IconCard";
 
@@ -13,8 +13,10 @@ interface DownloadDialogProps {
 
 export default function DownloadDialog({ icon, onClose }: DownloadDialogProps) {
   const [imgState, setImgState] = useState<"loading" | "loaded" | "error">("loading");
-
   const previewSrc = icon ? `${GITHUB_RAW}/previews/${icon.slug}.png` : "";
+
+  // Reset state when a different icon is opened
+  useEffect(() => { setImgState("loading"); }, [icon]);
   const icnsSrc = icon ? `${GITHUB_RAW}/icns/${icon.slug}.icns` : "";
 
   return (

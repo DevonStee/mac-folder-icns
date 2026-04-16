@@ -9,10 +9,10 @@ import { useVirtualCells } from "@/hooks/useVirtualCells";
 import IconCard, { type IconMeta } from "./IconCard";
 import TopBar from "./TopBar";
 import DownloadDialog from "./DownloadDialog";
+import { CELL } from "@/hooks/useVirtualCells";
 
 const VERSION_RE = /^v\d+$/;
 const HEX_RE = /^[0-9a-f]{6}$/i;
-const CELL = 110;
 const ICON_SIZE = 90;
 
 function matchesSeries(icon: IconMeta, activeSeries: string): boolean {
@@ -68,7 +68,9 @@ export default function IconCanvas({ icons }: { icons: IconMeta[] }) {
     };
     wrapper.addEventListener("wheel", onWheel, { passive: false });
     return () => wrapper.removeEventListener("wheel", onWheel);
-  }, [x, y]);
+  // x and y are stable MotionValue references — effect only needs to run once
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const handleSelect = useCallback((icon: IconMeta) => {
     setSelectedIcon(icon);

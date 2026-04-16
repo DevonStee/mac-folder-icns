@@ -4,7 +4,6 @@ import IconCanvas from "@/components/IconCanvas";
 import type { IconMeta } from "@/components/IconCard";
 
 const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
-const githubRaw = process.env.NEXT_PUBLIC_GITHUB_RAW;
 
 const icons: IconMeta[] = iconsData.map((icon) => ({
   slug: icon.slug,
