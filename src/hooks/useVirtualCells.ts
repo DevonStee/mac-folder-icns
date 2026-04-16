@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef, useState, useEffect, useCallback, useTransition } from "react";
+import { useRef, useState, useEffect, useCallback } from "react";
 import type { MotionValue } from "framer-motion";
 import type { IconMeta } from "@/components/IconCard";
 
@@ -18,7 +18,6 @@ export function useVirtualCells(
   x: MotionValue<number>,
   y: MotionValue<number>,
 ) {
-  const [, startTransition] = useTransition();
   const vpSizeRef = useRef({ w: 0, h: 0 });
   const filteredRef = useRef(filtered);
   filteredRef.current = filtered;
@@ -42,21 +41,19 @@ export function useVirtualCells(
       }
     }
     return cells;
-  // x, y are stable MotionValue refs
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const [cells, setCells] = useState<Cell[]>([]);
   const lastTileRef = useRef({ col: 999999, row: 999999 });
 
-  // Recompute on pan — deferred so drag animation stays smooth
   useEffect(() => {
     const check = () => {
       const tc = Math.floor(-x.get() / CELL);
       const tr = Math.floor(-y.get() / CELL);
       if (tc !== lastTileRef.current.col || tr !== lastTileRef.current.row) {
         lastTileRef.current = { col: tc, row: tr };
-        startTransition(() => setCells(computeCells()));
+        setCells(computeCells());
       }
     };
     const unsubX = x.on("change", check);
@@ -64,19 +61,18 @@ export function useVirtualCells(
     check();
     return () => { unsubX(); unsubY(); };
   // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [computeCells, startTransition]);
+  }, [computeCells]);
 
-  // Recompute on filter change or resize
   useEffect(() => {
     const recompute = () => {
       vpSizeRef.current = { w: window.innerWidth, h: window.innerHeight };
       lastTileRef.current = { col: 999999, row: 999999 };
-      startTransition(() => setCells(computeCells()));
+      setCells(computeCells());
     };
     recompute();
     window.addEventListener("resize", recompute);
     return () => window.removeEventListener("resize", recompute);
-  }, [filtered, computeCells, startTransition]);
+  }, [filtered, computeCells]);
 
   return cells;
 }
