@@ -2,7 +2,6 @@
 
 import { memo } from "react";
 import { motion } from "framer-motion";
-import Image from "next/image";
 
 export interface IconMeta {
   slug: string;
@@ -34,16 +33,12 @@ const IconCard = memo(function IconCard({ icon, priority, onSelect }: IconCardPr
       whileTap={{ scale: 0.95 }}
     >
       <div className="relative h-full w-full">
-        <Image
+        <img
           src={icon.thumb}
           alt={icon.displayName}
-          fill
-          sizes="90px"
-          unoptimized
-          className="object-contain"
           loading={priority ? "eager" : "lazy"}
-          priority={priority}
           draggable={false}
+          className="object-contain w-full h-full"
         />
       </div>
 
